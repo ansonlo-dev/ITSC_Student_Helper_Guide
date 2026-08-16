@@ -1,63 +1,69 @@
-# AV & Classroom Equipment
+# Equipment on Loan
 
-AV problems are almost always urgent: a class is waiting. Speed and a calm
-manner matter more here than anywhere else.
+ITSC lends audio-visual and computing equipment at the Service Counter —
+portable PA, LCD projector, portable screen, TV set, portable visualizer,
+wireless presenter, wireless infra-red microphone, microphone, digital photo
+camera, video camera, notebook and more.
 
-## Responding to a classroom call
+Staff and students can borrow for teaching, conferences, online meetings,
+interviews, seminars, course presentations, ceremonies and student activities.
 
-1. Take the room number and the exact symptom before you leave.
-2. Go immediately — a class is losing time.
-3. Enter quietly, greet the teacher, and fix without narrating.
-4. If it cannot be fixed quickly, offer a workaround (a spare laptop, a different
-   input, moving to a nearby room) and escalate in parallel.
+**Service page:**
+<https://www.ln.edu.hk/itsc/services/multimedia-and-av-services/desktop-pc-av-equipment-on-loan-for-supporting-university-events>
 
-## No image on the projector
+## Store room
 
-Work through this in order:
+**MB402/4 — ITSC Store Room**, opposite the counter area.
 
-1. Is the projector on? Check the lamp/status light, not just the screen.
-2. Is the correct **input source** selected (HDMI 1/2, VGA, wireless)?
-3. Is the cable fully seated at **both** ends? Try a different cable.
-4. On the laptop, force display detection and set to **Duplicate**:
-   - Windows: `Win` + `P` → Duplicate
-   - macOS: System Settings → Displays → Mirror
-5. Try a known-good laptop to isolate laptop vs room.
-6. Check whether the room uses a control panel or matrix switcher that needs the
-   correct preset selected.
+Ask to be walked through the on-loan procedure once before you do it alone.
 
-::: tip Adapters
-Most complaints come down to USB-C / HDMI / VGA adapters. Keep spares on the
-loan trolley and check the adapter before blaming the room.
+## Equipment On Loan System (SUS IMS)
+
+The system has these tabs:
+
+| Tab | Use |
+| --- | --- |
+| Booking Listing | Find a booking by SR / Borrower / Email / Item / Barcode; filter **Outstanding** or **Completed** |
+| Booking | Open or edit a single booking |
+| Loanable Item Enquiry | Check what is available |
+| Manual | The system's own documentation |
+| Logout | |
+
+The right-hand panel of the Booking Listing shows each item's **Total** and
+**Available** count — check it before promising anything to a user.
+
+### A booking record contains
+
+- Booking ID, loan period (from / to)
+- SR number and Department
+- Borrower, Collected By, Email
+- Description — location, user contact number, extra items, work order link
+- The item table: Booking Item, Book Qty, Check-Out Qty, Check-In Qty, Barcode,
+  Loan Date, Loan By, Return Date, Return By
+
+Actions along the bottom: **Save Booking**, **Close Booking**, **Check-Out**,
+**Send Summary Email**, **Exit**.
+
+## Checking out
+
+1. Confirm the booking exists and the loan period covers today.
+2. Collect the items from MB402/4.
+3. Test that each item powers on and all accessories are present.
+4. Scan or enter the **barcode** and record the check-out quantity.
+5. Record who collected it, and state the return deadline.
+
+## Checking in
+
+1. Check every item and **all accessories** are back.
+2. Test that the item still works.
+3. Record the check-in quantity and return details.
+4. Recharge batteries and return everything to the store room.
+
+::: warning Wireless presenters: loan and return in pairs
+A returned wireless presenter was found with its tiny USB receiver missing.
+The presenter and its receiver must be loaned out and returned **together** —
+check for the receiver every single time.
 :::
 
-## No sound
-
-1. Is the room's volume knob or amplifier turned up and not muted?
-2. Is the laptop volume up and not muted?
-3. Is the correct **output device** selected on the laptop (HDMI vs internal
-   speakers vs a USB device)?
-4. If using VGA, sound needs a separate audio cable — check it is connected.
-
-## Microphones
-
-- Check the power switch and the battery first; swap batteries before debugging.
-- Confirm the receiver shows a signal when you speak.
-- Watch for two mics on the same channel causing interference.
-- Keep the mic away from speakers to avoid feedback; lower gain if it squeals.
-
-## Equipment loans
-
-::: tip Loan checklist
-**Out:** verify ID → record item, asset number, borrower, time out and due time →
-check the item works and all accessories are present → state the return deadline.
-
-**In:** check the item and all accessories are back → test it powers on →
-record the return → charge batteries and return it to storage.
-:::
-
-Report any damage immediately rather than passing it to the next borrower.
-
-::: info To be filled in
-Add the room-by-room AV setup, the control panel instructions, the loan system
-and its late/damage policy, and the AV emergency contact.
-:::
+Report any damage or missing part immediately rather than passing it to the next
+borrower. Loan contacts: **Paul Leung 2616-7393** or **Dennis Yue 2616-7518**.

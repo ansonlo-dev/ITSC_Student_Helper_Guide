@@ -1,34 +1,50 @@
 # 歡迎加入
 
-歡迎加入嶺南大學 ITSC 學生助理團隊。本網站是你日常的參考資料：說明你的職務是
-什麼、應該如何執行，以及遇到超出職權範圍的情況時應該找誰。
+歡迎加入嶺南大學 ITSC 學生助理團隊。本網站是學生助理迎新簡介的文字版：團隊的
+工作範圍、各項職務的執行方法，以及遇到超出職權範圍的情況時應該聯絡誰。
 
-## 本指南適用對象
+## 我們的工作
 
-在資訊科技服務中心（ITSC）工作的新任及在任學生助理 —— 包括服務櫃檯、電腦室，
-以及支援課室設備的同學。
+學生助理支援 **SUS（System & User Service，系統及用戶服務）**。工作分為兩大部分：
+
+| 櫃檯（面向用戶） | 維護／檢查 |
+| --- | --- |
+| 服務熱線 | 課室 |
+| 用戶帳戶 | 打印機 |
+| 器材外借 | 電腦室 |
+| 網絡 | 宿舍 |
+| 雙重驗證（2FA） | |
+| 其他臨時事項 | |
+
+## 學生助理團隊
+
+| 姓名 | 職位 | 電郵 | 內線 |
+| --- | --- | --- | --- |
+| HUI Felix | Team Leader | felixhui@ln.edu.hk | 2616-8407 |
+| Paul Leung | Student Helper Admin | paulleung@ln.edu.hk | 2616-7393 |
+| LAU Daniel | Team Manager | laumf@ln.edu.hk | 2616-7585 |
+| Anson | Senior Student Helper（現場問題核實） | chikonglo@ln.hk | — |
+| Jason | Senior Student Helper（文件記錄） | yuxiangyin@ln.hk | — |
+
+各類問題的專責聯絡人請見[聯絡與升級處理](/zh-TW/reference/contacts)。
+
+## 溝通渠道
+
+- **WhatsApp 群組** —— 日常訊息、請假，以及接手其他助理放棄的更份。
+- **Microsoft Teams —「ITSC Student Helpers」** —— 檢查表及參考檔案，按頻道
+  分類：General、1 Morning Check、2a Printer Check、2b Paper Stock、
+  3 Computer Lab Check、4 Lecture Room Check，以及 Hostel Clinic Checklist。
 
 ## 如何使用本指南
 
 - **第一更當值前** —— 請閱讀[第一更當值](/zh-TW/guide/first-shift)及
-  [行為守則](/zh-TW/guide/code-of-conduct)。
-- **當值期間** —— 直接跳到[職務](/zh-TW/duties/)下的相關頁面，或用搜尋功能
-  （按 `/`）尋找所需流程。
-- **遇到困難時** —— 依照[故障排查手冊](/zh-TW/tips/troubleshooting)處理，若仍未
-  解決則[升級處理](/zh-TW/reference/contacts)。
+  [工作注意事項](/zh-TW/guide/code-of-conduct)。
+- **當值期間** —— 打開[職務](/zh-TW/duties/)下的相關頁面，或使用搜尋功能
+  （按 `/`）。
+- **遇到困難時** —— 先看[故障排查手冊](/zh-TW/tips/troubleshooting)，然後詢問
+  當值職員。
 
-## 基本原則
-
-::: warning 三件絕對不可以做的事
-1. 絕不索取、抄寫用戶密碼，也不代用戶輸入密碼。
-2. 絕不查閱、複製或翻看不屬於自己的檔案或電郵。
-3. 絕不改動職務範圍以外的伺服器、網絡設備或系統設定。
+::: tip 不確定就發問
+任何不確定的事情，都應該詢問全職職員。**先找當值職員**，然後才找其他人。沒有人
+會介意你發問。
 :::
-
-如果不確定某件事是否在自己的職權範圍內，正確做法是先問全職職員。沒有人會介意
-你發問。
-
-## 保持本指南更新
-
-流程會改變。若你發現某個步驟有錯或已過時，請告知你的主管 —— 或直接使用每頁底部
-的「為此頁提出修改」連結修改內容。

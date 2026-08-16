@@ -1,32 +1,57 @@
 # Duties Overview
 
-Student Helper duties fall into a handful of recurring areas. Each page below is
-a working checklist — read it before you are rostered onto that duty for the
-first time.
+## Duty summary
+
+| User Service | Hostel Clinic |
+| --- | --- |
+| Counter (Hotline) | Hostel Network Checking |
+| Printer Check | Ad-hoc Duty |
+| Computer Lab Check | |
+| Lecture Room Check | |
+| Ad-hoc Duty | |
+
+## Pages
 
 | Duty | What it covers |
 | --- | --- |
-| [Service Counter](/duties/service-counter) | Greeting users, logging requests, front-line triage |
-| [Computer Lab Support](/duties/lab-support) | Lab rounds, workstation faults, software issues |
-| [AV & Classroom Equipment](/duties/av-equipment) | Projectors, mics, lecture capture, equipment loans |
-| [Accounts & Passwords](/duties/accounts) | Password resets, account activation, MFA — and their limits |
-| [Printing Services](/duties/printing) | Print queues, quota, jams, consumables |
+| [Counter Duty](/duties/service-counter) | Hotline, walk-ins, voicemail, enquiry records |
+| [Account & 2FA Enquiries](/duties/accounts) | What to do — and not do — with account questions |
+| [Equipment on Loan](/duties/av-equipment) | Loan system, store room, check-out and return |
+| [Morning Check](/duties/morning-check) | Software, printer and teacher PC checks |
+| [Printer Check](/duties/printing) | Four rounds a day, jams, paper and toner |
+| [Computer Lab Check](/duties/lab-support) | Evening session, lab by lab |
+| [Lecture Room Check](/duties/lecture-room-check) | Weekly room rotation |
+| [Hostel Clinic Check](/duties/hostel-clinic-check) | Hostel network checking |
 
-## The general shape of every request
+## Maintenance schedule
 
-Whatever the duty, the flow is the same:
+| Duty | When |
+| --- | --- |
+| **Morning** | Mon – Fri, 08:30 – 10:30 |
+| **Printers** | Mon – Sun, 4 times per day: 10:30–12:00, 14:30–16:00, 17:00–18:00, 20:30–21:30 |
+| **Lecture Room & Computer Lab** | Mon – Fri 18:30 – 20:30; Sat 09:30 – 12:30 |
+| **Hostel** | Mon & Thu 19:00 – 22:00, in Hostel B, H, WJY |
 
-1. **Greet** the user and find out what they actually need.
-2. **Verify** who they are, if the request touches an account or personal data.
-3. **Diagnose** using the [Troubleshooting Playbook](/tips/troubleshooting).
-4. **Resolve** it if it is within your scope.
-5. **Escalate** if it is not — see [Contacts & Escalation](/reference/contacts).
-6. **Log** what happened, so the next person has context.
+## Duty materials
 
-## Know your limits
+There is a duty bag in **LCH206A** and another in **MB202**, each containing:
 
-::: danger Always escalate, never improvise
-If a request involves account permissions, security, data loss, or anything you
-have not been trained on, hand it to a full-time staff member. Guessing costs
-far more time than asking.
-:::
+1. Badge
+2. Infra-red Wireless Mic
+3. Mic & Headphone Covers (3 types)
+4. Audio CD
+5. AA Batteries × 2
+
+### Which microphone belongs where
+
+| Infra-red Wireless Mic | Digital Wireless Mic |
+| --- | --- |
+| Lecture Room | New Lecture Theatre with a mic on the teacher podium / drawer |
+| Tutorial Room | |
+| Computer Lab | |
+| Old Lecture Theatre with a drawer storing the mic — open it with the cabinet key in the bag | |
+
+## Every duty ends the same way
+
+Submit the checking result, then sign out. See
+[Your First Shift](/guide/first-shift) for the full flow.

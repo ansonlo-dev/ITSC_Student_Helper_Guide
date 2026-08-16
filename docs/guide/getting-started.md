@@ -1,39 +1,55 @@
 # Welcome
 
-Welcome to the ITSC Student Helper team at Lingnan University. This site is your
-day-to-day reference: what your duties are, how to carry them out, and who to ask
-when something is beyond your scope.
+Welcome to the ITSC Student Helper team at Lingnan University. This site is the
+written version of the Student Helper Orientation: what the team does, how each
+duty is carried out, and who to contact when something is beyond your scope.
 
-## Who this guide is for
+## What we do
 
-New and returning Student Helpers working at the Information Technology Services
-Centre (ITSC) — at the service counter, in the computer labs, or supporting
-classroom equipment.
+Student Helpers support **SUS — System & User Service**. The work splits into two
+halves:
+
+| Counter (user-facing) | Maintenance / Checking |
+| --- | --- |
+| Service hotline | Classrooms |
+| User account | Printers |
+| On loan | Computer labs |
+| Network | Hostel |
+| 2FA | |
+| Other ad-hoc issues | |
+
+## The Student Helper team
+
+| Name | Role | Email | Extension |
+| --- | --- | --- | --- |
+| HUI Felix | Team Leader | felixhui@ln.edu.hk | 2616-8407 |
+| Paul Leung | Student Helper Admin | paulleung@ln.edu.hk | 2616-7393 |
+| LAU Daniel | Team Manager | laumf@ln.edu.hk | 2616-7585 |
+| Anson | Senior Student Helper (Onsite Issue Verify) | chikonglo@ln.hk | — |
+| Jason | Senior Student Helper (Documentation) | yuxiangyin@ln.hk | — |
+
+Specialist contacts for specific problems are on
+[Contacts & Escalation](/reference/contacts).
+
+## How we communicate
+
+- **WhatsApp group** — day-to-day messages, leave requests, and picking up
+  shifts other helpers have dropped.
+- **Microsoft Teams — "ITSC Student Helpers"** — checklists and reference files,
+  organised by channel: General, 1 Morning Check, 2a Printer Check,
+  2b Paper Stock, 3 Computer Lab Check, 4 Lecture Room Check, and the Hostel
+  Clinic Checklist.
 
 ## How to use this guide
 
-- **Before your first shift** — read [Your First Shift](/guide/first-shift) and the
-  [Code of Conduct](/guide/code-of-conduct).
-- **During a shift** — jump straight to the relevant page under
-  [Duties](/duties/), or use the search box (press `/`) to find a procedure.
-- **When you are stuck** — follow the
-  [Troubleshooting Playbook](/tips/troubleshooting), then
-  [escalate](/reference/contacts) if it is still unresolved.
+- **Before your first shift** — read [Your First Shift](/guide/first-shift) and
+  [Work Precautions](/guide/code-of-conduct).
+- **During a shift** — open the relevant page under [Duties](/duties/), or use
+  the search box (press `/`).
+- **When you are stuck** — check the [Troubleshooting Playbook](/tips/troubleshooting),
+  then ask the duty staff.
 
-## Ground rules
-
-::: warning Three things you must never do
-1. Never ask for, write down, or type in a user's password on their behalf.
-2. Never access, copy, or look through files or emails that are not yours.
-3. Never make changes to servers, network equipment, or system settings that are
-   outside the scope of your assigned duties.
+::: tip When in doubt, ask
+Ask a full-time staff member about anything you are uncertain of. Seek help from
+the **duty staff first**, then others. Nobody will mind the question.
 :::
-
-If you are unsure whether something is within your scope, the answer is to ask a
-full-time staff member first. Nobody will mind the question.
-
-## Keeping this guide up to date
-
-Procedures change. If you find a step that is wrong or out of date, tell your
-supervisor — or edit the page directly using the "Suggest changes to this page"
-link at the bottom of each page.

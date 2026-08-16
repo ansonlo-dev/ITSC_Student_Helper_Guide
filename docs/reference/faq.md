@@ -1,77 +1,117 @@
 # FAQ
 
-Short answers to the questions users ask most. Fill in the campus-specific
-details before relying on this page during a shift.
+## Booking and shifts
 
-## Accounts
+### How do I get a shift?
 
-### A user forgot their password. Can I reset it for them?
+Reserve it yourself on [luhelperduty.online](https://luhelperduty.online).
+Nobody assigns shifts to you.
 
-Guide them through the **self-service** reset after verifying their identity with
-a student or staff card. Never type their password, and never reset an account
-for someone you have not verified in person. See [Accounts & Passwords](/duties/accounts).
+### How many hours can I work?
 
-### A user is locked out again right after resetting. Why?
+**Maximum 16.5 hours per week**, basically 13 hours. Hours are adjusted based on
+performance.
 
-Almost always a device still trying the old password — usually a phone mail app
-or a saved Wi-Fi profile. Have them update the stored password on every device.
+### I can't make a shift I booked. What do I do?
 
-### A user asks me to check their email for them.
+Two things, both required: post a leave message in the **WhatsApp group**, and
+**remove your duty record** from the booking system yourself. See
+[Work Precautions](/guide/code-of-conduct).
 
-No. Do not log into or read anyone's mailbox. Help them access it themselves.
+### Someone posted a leave message and I want to take it.
 
-## Wi-Fi & network
+Reply in the WhatsApp group, then **reserve the duty record** in the booking
+system.
 
-### A user cannot connect to campus Wi-Fi.
+## Sign in / sign out
 
-Check: correct network name, correct username format, password recently changed,
-and whether the device has an old saved profile that needs to be removed and
-re-added. If several users on the same network fail at once, escalate.
+### Why can't I sign in?
 
-## Printing
+Only student helpers **with a duty booking** can sign in. If the page says "No
+Booking Records Today", you have no booking for today.
 
-### The user says nothing printed.
+### Why can't I sign out?
 
-Check which printer, check the queue, check whether the job needs releasing at
-the device, and check quota. Clear duplicate jobs before releasing. See
-[Printing Services](/duties/printing).
+You have not submitted the checking result. The page lists what is missing, for
+example "\*\*\* Printer Check \*\*\* (expected: 1, actual: 0)". Submit the form,
+then sign out.
 
-### Can I add quota for a user?
+### Which password goes where?
 
-No. Escalate quota adjustments to full-time staff.
+Booking system → your **Student ID**. Sign in/out system → your **LU password**.
+Both use your CNA as the username.
 
-## Labs
+### I forgot to sign in / signed out at the wrong time / worked overtime.
 
-### A user lost files saved on a lab PC desktop.
+Fill in the **"Abnormal sign in+out"** Excel file. For anything more than 15
+minutes early, late, or overtime, also tell the managers.
 
-Lab workstations may reset on restart. If the files are gone, they are likely
-unrecoverable — say so honestly, and show the user where to save next time.
+## Pay
 
-### A machine is broken. What do I do?
+### When do I get paid?
 
-Label it out of service, record the hostname or asset number and room, and report
-it. See [Computer Lab Support](/duties/lab-support).
+Payment is on the **20th of each month**. The cutoff is around the **6th to 8th**
+(on Saturday), the claim form arrives at your student email the **following
+Monday**, and you must print and submit it **within two days** — otherwise you
+wait until the next month.
 
-## Classrooms
+### How do I check my hours?
 
-### A teacher calls about a projector mid-class.
+**Useful Information → Work Records Inquiry** on
+[ics.ln.edu.hk/helper](https://ics.ln.edu.hk/helper), or the **Check Pervious
+Work Records** button. You can export CSV, Excel or PDF.
 
-Go immediately. Check power, input source, and cable, then try `Win`+`P` /
-display mirroring. Offer a workaround if it will take longer than a couple of
-minutes. See [AV & Classroom Equipment](/duties/av-equipment).
+## Counter duty
+
+### A user asks me to reset their password.
+
+You do not perform account operations. Point them at the self-service account
+page, log the enquiry, and hand anything further to the duty staff. See
+[Account & 2FA Enquiries](/duties/accounts).
+
+### Who do I ask when I don't know the answer?
+
+**Seek help from the duty staff first, then others.** Ask full-time staff about
+anything you are uncertain of.
+
+### Do I need to record every enquiry?
+
+Yes — mark down **each** encountered enquiry and submit it via
+[the form](https://forms.office.com/r/30WbQbDCSF).
+
+## Checking duties
+
+### A teacher calls about a projector.
+
+Run the four basic checks with the user on the phone first: AV system on and
+source selected, computer and monitors on and logged in, power-cycle both, then
+`Windows`+`P` and usually select **Extend**. See the
+[Troubleshooting Playbook](/tips/troubleshooting).
+
+### When do I refill printer paper and toner?
+
+Toner when the printer **prompts that it is running low**; paper whenever a tray
+is **under 50%**.
+
+### Do I do a paper stock check every session?
+
+No — **only the first printer check session of the day**.
+
+### How do I report a broken lab PC?
+
+On the Computer Lab Checklist, in the format `Machine Name - Issue`, e.g.
+`No.15 PC - Cannot Login`.
+
+### How many times do I submit the Hostel Clinic result?
+
+**Twice** — at 8:30 pm and again at 10:00 pm.
 
 ## Working here
 
-### What if I do not know the answer?
-
-Say so, and find out. "I'm not sure — let me check with a colleague" is a
-perfectly professional answer, and far better than a guess.
-
-### What if I break something?
+### What if I break something, or something goes missing?
 
 Tell staff straight away. Problems get much more expensive when they are hidden.
 
-::: info To be filled in
-Replace the generic answers above with the actual campus system names, URLs, and
-policies once confirmed with your supervisor.
-:::
+### What should I bring or wear?
+
+Wear your **ITSC Student Helper badge** whenever you are on duty.

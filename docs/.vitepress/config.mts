@@ -32,18 +32,22 @@ function sidebar(lang: Language): DefaultTheme.SidebarItem[] {
       items: [
         { text: t('sidebar.welcome'), link: `${p}/guide/getting-started` },
         { text: t('sidebar.firstShift'), link: `${p}/guide/first-shift` },
-        { text: t('sidebar.codeOfConduct'), link: `${p}/guide/code-of-conduct` }
+        { text: t('sidebar.workPrecautions'), link: `${p}/guide/code-of-conduct` },
+        { text: t('sidebar.schedulePay'), link: `${p}/guide/schedule-and-pay` }
       ]
     },
     {
       text: t('sidebar.group.duties'),
       items: [
         { text: t('sidebar.dutiesOverview'), link: `${p}/duties/` },
-        { text: t('sidebar.serviceCounter'), link: `${p}/duties/service-counter` },
-        { text: t('sidebar.labSupport'), link: `${p}/duties/lab-support` },
-        { text: t('sidebar.avEquipment'), link: `${p}/duties/av-equipment` },
+        { text: t('sidebar.counter'), link: `${p}/duties/service-counter` },
         { text: t('sidebar.accounts'), link: `${p}/duties/accounts` },
-        { text: t('sidebar.printing'), link: `${p}/duties/printing` }
+        { text: t('sidebar.equipmentLoan'), link: `${p}/duties/av-equipment` },
+        { text: t('sidebar.morningCheck'), link: `${p}/duties/morning-check` },
+        { text: t('sidebar.printerCheck'), link: `${p}/duties/printing` },
+        { text: t('sidebar.labCheck'), link: `${p}/duties/lab-support` },
+        { text: t('sidebar.lectureRoomCheck'), link: `${p}/duties/lecture-room-check` },
+        { text: t('sidebar.hostelClinicCheck'), link: `${p}/duties/hostel-clinic-check` }
       ]
     },
     {
@@ -58,6 +62,7 @@ function sidebar(lang: Language): DefaultTheme.SidebarItem[] {
       text: t('sidebar.group.reference'),
       items: [
         { text: t('sidebar.faq'), link: `${p}/reference/faq` },
+        { text: t('sidebar.links'), link: `${p}/reference/links` },
         { text: t('sidebar.contacts'), link: `${p}/reference/contacts` }
       ]
     }

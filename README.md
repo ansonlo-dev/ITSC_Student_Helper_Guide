@@ -77,8 +77,20 @@ map in the script is a starting point, not a substitute for a read-through.
 English but absent from another language. Missing keys fall back to English
 rather than breaking the build.
 
+## Source
+
+Content is derived from **ITSC Student Helper Orientation** (`paul`, 2026-08-17,
+82 slides). The PDF is kept in the repository root as the reference original.
+
+When the orientation deck is updated, diff it against these pages rather than
+editing from memory.
+
+::: note
+This repository contains internal ITSC operational detail — staff extensions,
+system logins, and shared counter phone credentials. Keep it private.
+:::
+
 ## Contributing
 
-Blocks marked `::: info To be filled in` / `待補充` / `待补充` are placeholders
-that need real Lingnan University / ITSC details confirmed with a supervisor
-before use.
+Blocks marked `::: info To be filled in` / `待補充` / `待确认` are placeholders
+that still need details confirmed with a supervisor.

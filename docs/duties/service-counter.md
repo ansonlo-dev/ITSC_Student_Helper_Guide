@@ -1,56 +1,114 @@
-# Service Counter
+# Counter Duty
 
-The counter is the front door of ITSC. Most users you meet are already mildly
-frustrated — a calm, organised counter fixes half the problem before you touch a
-computer.
+## Where and when
 
-## Opening the counter
+**Work venue: MB402** — the ITSC Service Counter.
 
-1. Sign in and read the handover notes.
-2. Check the counter workstation, phone, and label printer are working.
-3. Restock forms and loan items.
-4. Check for any service announcement you need to relay to users (outages,
-   maintenance windows).
+| | Counter service hours |
+| --- | --- |
+| Normal | Mon – Fri, 8:30 am – 6:30 pm |
+| Exam / Term Break | Mon – Fri, 9:00 am – 5:30 pm |
 
-## Handling a walk-in request
+## What the duty covers
 
-::: tip The four questions
-1. What are you trying to do?
-2. What happened instead?
-3. When did it last work?
-4. Have you tried anything already?
+1. Handle user enquiries via **phone call or walk-in**.
+2. **Equipment on loan** — see [Equipment on Loan](/duties/av-equipment).
+
+Typical enquiry topics: service hotline, user account, on loan, network, 2FA,
+and other ad-hoc issues.
+
+## Hotline
+
+The hotline runs on **Cisco Finesse**.
+
+| Field | Value |
+| --- | --- |
+| Username | `8453` (left seat) / `8454` (right seat) |
+| Password | `112233` |
+| Extension | `8453` / `8454` — same as the username |
+
+## Voice mail
+
+| Field | Value |
+| --- | --- |
+| Username | `7992` |
+| Password | `1234` |
+
+::: danger Shared credentials
+The hotline and voicemail logins above are shared team credentials. Do not share
+them outside the Student Helper team, and do not leave them written down at the
+counter.
 :::
 
-Then:
+## Recording enquiries
 
-1. **Identify the user** — student card or staff card for anything account-related.
-2. **Triage** — can you solve it at the counter in a few minutes?
-3. **Resolve or escalate** — do not let a user wait while you experiment.
-4. **Log the case** with what the user reported, what you did, and the outcome.
+Mark down **each** of the encountered user enquiries and submit them via the
+**Issue Received by ITSC Student Helper** form:
 
-## Managing a queue
+**<https://forms.office.com/r/30WbQbDCSF>**
 
-- Acknowledge people as they join the queue, even if you cannot serve them yet.
-- Handle quick items (collections, simple questions) between long ones where fair.
-- If the wait is long, say roughly how long — an honest estimate beats silence.
-- Call a second helper or your supervisor when the queue keeps growing.
+The form asks for:
 
-## Answering the phone
+| Field | Notes |
+| --- | --- |
+| Student Helper Name | You |
+| Staff/Student Name | The user |
+| Staff/Student Email | |
+| Staff/Student ID | |
+| Staff/Student Extension / Phone Number | |
+| Staff/Student Department | |
+| Staff/Student Location | |
+| Issue Summary | At most 100 characters |
+| Issue Detail | At least 20 characters |
+| Status | Followed up / fixed, etc. |
 
-- Answer with a consistent greeting: unit name, your name, offer of help.
-- Take the caller's name, contact, and a call-back number before troubleshooting.
-- Repeat the problem back to confirm you understood it.
-- If you must transfer, tell the caller who you are transferring them to and why.
-
-## Closing the counter
-
-1. Complete or hand over open cases.
-2. Write handover notes.
-3. Return loan items and lock away valuables.
-4. Log out of shared accounts; lock the workstation.
-5. Sign out.
-
-::: info To be filled in
-Add the actual ticketing/logging system, counter opening hours, phone greeting
-script, and the ID verification rules ITSC uses.
+::: tip Ask when unsure
+Ask full-time staff if there is anything you are uncertain of.
 :::
+
+## Getting help from ITSC duty staff
+
+**Seek help from the duty staff first, then others.**
+
+The **Duty and Service Counter Roster** is posted at the counter and lists who is
+on duty for each slot (08:30–10:30, 10:30–12:30, 14:00–16:00, 16:00–18:30) plus
+the M+ AM/PM and **Lunch Standby Roster** (12:30–14:00, Lunch Mobile 1 and 2).
+
+### Where the duty staff sit
+
+**Room behind the counter**
+
+| | | | |
+| --- | --- | --- | --- |
+| | Dennis | Jack | Stephen |
+| | Paul | Ivan | |
+| | Kenneth | Daniel | |
+
+**MB402/1 — room opposite the counter**
+
+| | |
+| --- | --- |
+| Felix | Bill |
+| Andrew | Johnny |
+| | Elaine |
+
+## Counter tips
+
+1. Listen carefully to the other person's questions to understand their **true
+   situation**.
+2. Pay attention to the **speed and tone** of your own speech.
+3. Assess the **urgency** of the matter.
+4. When seeking help from ITSC colleagues, first clarify whether the enquiry is
+   **in person or over the phone**.
+
+More on this in [Talking to Users](/tips/communication).
+
+## Counter Check
+
+Counter duty has its own checklist — open **Counter Check** from the useful
+links page and submit the **Counter Checklist** form (your name, SPSS & AMOS
+status, and so on) before you sign out.
+
+## Useful links for counter duty
+
+See [Systems & Links](/reference/links) for the full list.

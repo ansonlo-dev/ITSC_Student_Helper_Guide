@@ -1,76 +1,46 @@
-# Accounts & Passwords
+# Account & 2FA Enquiries
 
-This is the duty with the tightest rules. Account access is the single most
-sensitive thing ITSC controls, and social engineering usually starts here.
+User account and 2FA questions are two of the topics that reach the counter.
+This page is about how a Student Helper handles them.
 
-::: danger Non-negotiable
-- **Never** ask for or accept a user's password, in person, by phone, or in writing.
-- **Never** type a user's password for them. Let them type it; look away.
-- **Never** reset a password for someone whose identity you have not verified in
-  the approved way.
-- **Never** perform a reset "just this once" because the user is in a hurry, is
-  senior, or is a friend.
-
-If someone pressures you to break one of these, that is itself a reason to
-escalate.
+::: danger Student Helpers do not perform account operations
+You do not reset passwords, unlock accounts, enrol 2FA devices, or change
+permissions. Those are staff actions. Your job is to point the user at the right
+self-service page, log the enquiry, and hand anything else to the duty staff.
 :::
 
-## Verifying identity
+## Never handle credentials
 
-Before touching anything account-related:
+- Never ask for, accept, or write down a user's password.
+- Never type a password on a user's behalf.
+- Never ask a user to read out a 2FA code to you.
 
-1. Ask for a valid student or staff card.
-2. Check that the photo and name match the person in front of you.
-3. Check that the name matches the account being changed.
+If someone presses you to do any of these, that is itself a reason to call the
+duty staff.
 
-For phone or email requests, do **not** verify identity yourself — follow the
-approved remote verification procedure or refer the user to come in person.
+## What you can do
 
-## Helping a user reset their own password
+1. **Identify the topic** — password, account activation, 2FA/DUO, VPN, or
+   network access.
+2. **Point the user at the official self-service page** — the counter useful
+   links include **Selfservice – Account related**, **Re-activated DUO**,
+   **VPN General Information** and the **Wireless User Guide**. Let the user
+   drive; you talk them through it.
+3. **Log the enquiry** on the
+   [Issue Received by ITSC Student Helper](https://forms.office.com/r/30WbQbDCSF)
+   form, like any other counter enquiry.
+4. **Escalate** anything the self-service pages do not solve to the duty staff.
 
-The goal is always self-service. Guide, do not do it for them:
+## Escalate immediately
 
-1. Direct the user to the official password reset page.
-2. Talk them through the steps while they type.
-3. Remind them of the password rules before they choose one.
-4. Have them confirm the new password works on the service they were trying to
-   use — email or the portal is a good test.
-5. Remind them to update the saved password on their phone and other devices,
-   otherwise repeated failed logins may lock the account again.
-
-## Account lockouts
-
-A lockout is usually a device somewhere still trying the old password — most
-often a phone's mail app or a saved Wi-Fi profile. Ask what devices they use, and
-have them update or remove the stored password on each.
-
-## Multi-factor authentication (MFA)
-
-- Help users enrol a new device, but never enrol a device on their behalf.
-- Never ask a user to read out an MFA code to you.
-- If a user says they are getting MFA prompts they did not trigger, treat it as a
-  possible account compromise and escalate immediately.
-
-## Phishing reports
-
-If a user brings you a suspicious email:
-
-1. Do not click anything in it.
-2. Ask whether they entered credentials or opened an attachment.
-3. If they did, escalate immediately as a possible compromise.
-4. Report the message through the official phishing reporting channel.
-
-## Out of scope for Student Helpers
-
-Escalate all of these:
-
-- Creating, deleting, renaming, or extending accounts
-- Changing group memberships or permissions
-- Mailbox delegation or shared mailbox access
+- Anything requiring an account, permission or mailbox change
+- A user who reports 2FA prompts they did not trigger
+- Any suspected compromised account or phishing message
 - Anything involving a departed staff member's or graduated student's account
-- Any suspected compromise
 
-::: info To be filled in
-Add the official password reset URL, the ID verification procedure ITSC approves,
-the MFA platform in use, the phishing reporting address, and the password policy.
+Contacts are on [Contacts & Escalation](/reference/contacts).
+
+::: info To be confirmed
+The exact self-service URLs live behind the counter useful-links page. Copy them
+into [Systems & Links](/reference/links) once you have them in front of you.
 :::

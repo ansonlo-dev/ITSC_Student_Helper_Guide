@@ -26,20 +26,25 @@ export default {
 
   'sidebar.welcome': '欢迎加入',
   'sidebar.firstShift': '第一次值班',
-  'sidebar.codeOfConduct': '行为守则',
+  'sidebar.workPrecautions': '工作注意事项',
+  'sidebar.schedulePay': '工时与薪金',
 
   'sidebar.dutiesOverview': '职务总览',
-  'sidebar.serviceCounter': '服务柜台',
-  'sidebar.labSupport': '电脑室支援',
-  'sidebar.avEquipment': '影音及教室设备',
-  'sidebar.accounts': '账户与密码',
-  'sidebar.printing': '打印服务',
+  'sidebar.counter': '柜台值班',
+  'sidebar.accounts': '账户及双重验证查询',
+  'sidebar.equipmentLoan': '器材外借',
+  'sidebar.morningCheck': '早上检查',
+  'sidebar.printerCheck': '打印机检查',
+  'sidebar.labCheck': '电脑室检查',
+  'sidebar.lectureRoomCheck': '教室检查',
+  'sidebar.hostelClinicCheck': '宿舍网络检查',
 
   'sidebar.tipsOverview': '提示总览',
   'sidebar.troubleshooting': '故障排查手册',
   'sidebar.communication': '与用户沟通',
 
   'sidebar.faq': '常见问题',
+  'sidebar.links': '系统与链接',
   'sidebar.contacts': '联络与升级处理',
 
   // =============================================================================

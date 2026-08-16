@@ -5,7 +5,7 @@ layout: home
 hero:
   name: ITSC 學生助理指南
   text: 當值所需的一切
-  tagline: 嶺南大學資訊科技服務中心（ITSC）學生助理的職務、操作流程與實用貼士。
+  tagline: 學生助理迎新簡介的文字版 —— 嶺南大學資訊科技服務中心的職務、系統與時間表。
   actions:
     - theme: brand
       text: 開始使用
@@ -14,17 +14,17 @@ hero:
       text: 瀏覽職務
       link: /zh-TW/duties/
     - theme: alt
-      text: 常見問題
-      link: /zh-TW/reference/faq
+      text: 系統與連結
+      link: /zh-TW/reference/links
 
 features:
-  - title: 清楚掌握自己的職務
-    details: 服務櫃檯、電腦室、影音設備、帳戶及列印的清晰檢查清單，確保沒有任何遺漏。
+  - title: 跟足五個步驟
+    details: 訂更、簽到、執行職務、提交檢查結果、簽退。遺漏任何一步，系統都會攔截 —— 本指南說明每一步的做法。
+    link: /zh-TW/guide/first-shift
+  - title: 清楚自己的職務
+    details: 櫃檯、早上檢查、打印機、電腦室、課室及宿舍網絡檢查 —— 連同各自的地點、時間與檢查表。
     link: /zh-TW/duties/
-  - title: 更快解決問題
-    details: 由徵狀到解決方案的故障排查手冊，並清楚說明何時應該升級處理。
-    link: /zh-TW/tips/troubleshooting
-  - title: 妥善應對用戶
-    details: 迎接用戶、婉拒要求，以及人龍越排越長時保持冷靜的應對用語與禮儀。
-    link: /zh-TW/tips/communication
+  - title: 快速查到所需資料
+    details: 所有系統、登入資料、表格與聯絡方式集中於一頁，方便課堂正在等候、需要立即找到答案的時候。
+    link: /zh-TW/reference/links
 ---

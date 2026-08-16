@@ -1,62 +1,60 @@
-# Printing Services
+# Printer Check
 
-Printing generates the most walk-ins of any service, and most of them are the
-same handful of problems.
+**Mon – Sun, 4 times per day:**
 
-## The usual causes
-
-| User says | Usual cause |
+| Session | Time |
 | --- | --- |
-| "Nothing came out" | Sent to the wrong printer, or not released at the device |
-| "It says I have no quota" | Quota exhausted, or not topped up |
-| "It printed blank pages" | Empty toner, or a document that really is blank |
-| "It's printing forever" | A huge file or a stuck queue |
-| "The print is streaky/faded" | Toner low or needs redistributing |
-| "It won't print from my laptop" | Driver missing, or not on the campus network |
+| 1 | 10:30 – 12:00 |
+| 2 | 14:30 – 16:00 |
+| 3 | 17:00 – 18:00 |
+| 4 | 20:30 – 21:30 |
 
-## Standard fix sequence
+## Printer locations
 
-1. Confirm **which printer** the job was sent to.
-2. Check the print queue — is the job stuck, held, or already printed?
-3. Check the printer's own display for an error (paper, toner, jam, offline).
-4. Check the user's quota or balance.
-5. Have the user re-send a single test page, not the whole document again.
+| Printer | Note |
+| --- | --- |
+| **MB202** | B&W copier — **closes at 17:00** |
+| **SEKG02** | Colour printer + **2** B&W printers |
+| **LCH213** | B&W printer — Language Laboratory |
+| **LCH206A** | |
 
-::: warning Duplicate jobs
-Users who see nothing print often press print several times. Clear the extra
-jobs before releasing, or they will get five copies and lose quota for all of them.
+## The Ricoh printer key
+
+The key is needed for:
+
+1. Fixing a **paper jam**
+2. An **Octopus card stuck** in the reader
+3. **Paper refill**
+
+::: warning Return the key
+Please return the Ricoh printer key to **where you picked it up**.
 :::
 
-## Clearing a paper jam
+## What to refill, and when
 
-1. Read the printer display — it tells you which door and tray.
-2. Open the indicated door and pull the paper **in the direction of paper travel**,
-   slowly and with both hands.
-3. Do not tear the paper; remove every fragment, or it will jam again.
-4. Do not touch the fuser — it is hot.
-5. Close all doors, then let the printer reset and run a test page.
-6. If it jams again in the same place, take it out of service and report it.
+| Consumable | Refill when |
+| --- | --- |
+| **Ink / toner** | The printer **prompts that it is running low** |
+| **Paper** | Whenever a tray is **under 50%** |
 
-## Consumables
+Check both from the printer's **Machine Information** screen, which shows the
+K / C / M / Y toner levels as percentage bands and the paper level for Tray 1,
+Tray 2, Tray 3 and the Bypass Tray, with each tray's paper size.
 
-- Replace paper before a tray runs out, and fan the stack before loading.
-- Do not overfill a tray past the fill line.
-- Toner: shake gently to buy time, but replace it rather than leaving faded prints.
-- Report low consumables early — do not wait for the outage.
+## Submit the result
 
-## Quota and payment
+Open **→ Printer Check & Paper Stock Check ←** from the checklist links page.
 
-Explain quota calmly; users often think it is a fault. Show them where to check
-their balance and how to top up. Never adjust a quota yourself — escalate.
+Each printer is answered **Ok** / **Not ok** / **Room closed** / **Room in use**
+/ *specify your own value* — for example "SEKG02 Color Printer",
+"SEKG02 B&W Printer" (note SEKG02 has 2 B&W printers), "LCH213 B&W Printer",
+and so on.
 
-## Scanning and copying
-
-- Confirm where the scan goes (email or a network folder) before scanning.
-- Remind the user to collect the original from the glass or feeder.
-- Confidential documents left on the machine should be taken to the counter, not
-  read or thrown away.
-
-::: info To be filled in
-Add printer locations and names, the print management system, quota rates and
-top-up method, and the service contact for hardware faults.
+::: tip Paper stock check is first session only
+**Only the first printer check session of the day needs the paper stock check.**
+Later sessions submit the printer check alone.
 :::
+
+## Faults
+
+Printer hardware problems go to **Jack Chan, 2616-8410**.

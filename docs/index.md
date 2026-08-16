@@ -5,7 +5,7 @@ layout: home
 hero:
   name: ITSC Student Helper Guide
   text: Everything you need for your shift
-  tagline: Duties, step-by-step procedures and practical tips for Student Helpers at the Lingnan University Information Technology Services Centre.
+  tagline: The written version of the Student Helper Orientation — duties, systems and schedules for the Lingnan University Information Technology Services Centre.
   actions:
     - theme: brand
       text: Get Started
@@ -14,17 +14,17 @@ hero:
       text: Browse Duties
       link: /duties/
     - theme: alt
-      text: FAQ
-      link: /reference/faq
+      text: Systems & Links
+      link: /reference/links
 
 features:
-  - title: Know your duties
-    details: Clear checklists for the service counter, computer labs, AV equipment, accounts and printing — so nothing gets missed.
+  - title: Follow the five steps
+    details: Book, sign in, do the duty, submit the result, sign out. Miss a step and the system blocks you — here is how each one works.
+    link: /guide/first-shift
+  - title: Know your duty
+    details: Counter, morning check, printers, computer labs, lecture rooms and hostel clinic — with the rooms, times and checklists for each.
     link: /duties/
-  - title: Fix problems faster
-    details: A troubleshooting playbook that takes you from symptom to solution, and tells you exactly when to escalate.
-    link: /tips/troubleshooting
-  - title: Handle people well
-    details: Scripts and etiquette for greeting users, saying no politely, and keeping calm when a queue builds up.
-    link: /tips/communication
+  - title: Find it fast
+    details: Every system, login, form and contact in one place, for when a class is waiting and you need the answer now.
+    link: /reference/links
 ---

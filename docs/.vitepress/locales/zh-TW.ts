@@ -26,20 +26,25 @@ export default {
 
   'sidebar.welcome': '歡迎加入',
   'sidebar.firstShift': '第一更當值',
-  'sidebar.codeOfConduct': '行為守則',
+  'sidebar.workPrecautions': '工作注意事項',
+  'sidebar.schedulePay': '工時與薪金',
 
   'sidebar.dutiesOverview': '職務總覽',
-  'sidebar.serviceCounter': '服務櫃檯',
-  'sidebar.labSupport': '電腦室支援',
-  'sidebar.avEquipment': '影音及課室設備',
-  'sidebar.accounts': '帳戶與密碼',
-  'sidebar.printing': '列印服務',
+  'sidebar.counter': '櫃檯當值',
+  'sidebar.accounts': '帳戶及雙重驗證查詢',
+  'sidebar.equipmentLoan': '器材外借',
+  'sidebar.morningCheck': '早上檢查',
+  'sidebar.printerCheck': '打印機檢查',
+  'sidebar.labCheck': '電腦室檢查',
+  'sidebar.lectureRoomCheck': '課室檢查',
+  'sidebar.hostelClinicCheck': '宿舍網絡檢查',
 
   'sidebar.tipsOverview': '貼士總覽',
   'sidebar.troubleshooting': '故障排查手冊',
   'sidebar.communication': '與用戶溝通',
 
   'sidebar.faq': '常見問題',
+  'sidebar.links': '系統與連結',
   'sidebar.contacts': '聯絡與升級處理',
 
   // =============================================================================

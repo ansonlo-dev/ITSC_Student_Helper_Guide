@@ -27,20 +27,25 @@ export default {
 
   'sidebar.welcome': 'Welcome',
   'sidebar.firstShift': 'Your First Shift',
-  'sidebar.codeOfConduct': 'Code of Conduct',
+  'sidebar.workPrecautions': 'Work Precautions',
+  'sidebar.schedulePay': 'Work Hours & Salary',
 
   'sidebar.dutiesOverview': 'Overview',
-  'sidebar.serviceCounter': 'Service Counter',
-  'sidebar.labSupport': 'Computer Lab Support',
-  'sidebar.avEquipment': 'AV & Classroom Equipment',
-  'sidebar.accounts': 'Accounts & Passwords',
-  'sidebar.printing': 'Printing Services',
+  'sidebar.counter': 'Counter Duty',
+  'sidebar.accounts': 'Account & 2FA Enquiries',
+  'sidebar.equipmentLoan': 'Equipment on Loan',
+  'sidebar.morningCheck': 'Morning Check',
+  'sidebar.printerCheck': 'Printer Check',
+  'sidebar.labCheck': 'Computer Lab Check',
+  'sidebar.lectureRoomCheck': 'Lecture Room Check',
+  'sidebar.hostelClinicCheck': 'Hostel Clinic Check',
 
   'sidebar.tipsOverview': 'Overview',
   'sidebar.troubleshooting': 'Troubleshooting Playbook',
   'sidebar.communication': 'Talking to Users',
 
   'sidebar.faq': 'FAQ',
+  'sidebar.links': 'Systems & Links',
   'sidebar.contacts': 'Contacts & Escalation',
 
   // =============================================================================

@@ -1,60 +1,50 @@
-# Computer Lab Support
+# Computer Lab Check
 
-## Routine lab rounds
+**Evening session: Mon – Fri 18:30 – 20:30; Sat 09:30 – 12:30.**
 
-Walk the lab at the start of your shift and at regular intervals after that.
+Four Computer Lab Helper slots split the labs between them each evening.
 
-::: tip Round checklist
-- Every workstation powers on and reaches the login screen
-- Monitors, keyboards, mice and cables are present and connected
-- No workstation is left logged in and unattended
-- Chairs pushed in, desks clear of rubbish
-- Printers have paper; no error lights
-- Air conditioning and lighting are working
-- Faulty machines are labelled "Out of Service" and reported
-:::
+## Who checks what
 
-## Common workstation faults
+| Day | Computer Lab Helper 1 | Computer Lab Helper 2 | Computer Lab Helper 3 |
+| --- | --- | --- | --- |
+| **Mon** | SEK105 Teacher PC, No.01-20 | SEK105 No.20-Last | SEKG03 Teacher PC, No.01-20 |
+| **Tue** | MB202 Teacher PC, No.01-20 | MB202 No.21-40 | LBY301 Teacher PC, No.01-24 |
+| **Wed** | LCH201 Teacher PC, No.01-20 | LCH201 No.21-30 + LCH202 No.01-08 | LCH202 Teacher PC, No.09-28 |
+| **Thu** | LCH206 Teacher PC, No.01-20 | LCH206 No.21-43 | LCH209 Teacher PC, No.01-20 |
 
-| Symptom | First checks |
-| --- | --- |
-| No power | Wall switch, power cable at both ends, power strip |
-| No display | Monitor power, video cable seated, try another port |
-| Frozen machine | Wait a moment, then force restart; note which app caused it |
-| Cannot log in | Caps Lock, correct username format, network cable, check if it affects other machines too |
-| No network | Cable seated, link light, test another machine on the same switch |
-| Slow machine | Check for a stuck update or a runaway process; restart |
-| Software missing or won't launch | Confirm it is meant to be on that image; report if not |
+Additional slots (Computer Lab Helper 4, and the combined "Computer Lab and
+Lecture" slot) cover rooms such as SEKG03 No.21-45, LBY303 Teacher PC No.01-24
+and LCH206A No.01-24 — check the booking calendar for your evening's assignment.
 
-::: warning One machine or all machines?
-Always check whether the fault affects one workstation or the whole lab. A
-lab-wide fault is a network or server issue — escalate it immediately rather
-than troubleshooting one PC.
-:::
+## What to check on each machine
 
-## Reporting a faulty machine
+- The PC powers on and reaches the login screen
+- You can log in
+- Monitor, keyboard, mouse and cables are present and connected
+- The teacher PC drives the room's display
 
-1. Label it clearly so users skip it.
-2. Record the machine's asset number or hostname, the room, and the symptom.
-3. Note what you already tried.
-4. Log it in the fault system and tell staff if the lab is busy or a class is due.
+## Submit the result
 
-## Supporting users in the lab
+Open **→ Computer Lab Check ←** from the checklist links page and submit the
+**Computer Lab Checklist** form:
 
-- Do not touch a user's keyboard or mouse without asking.
-- Guide the user through steps where you can — it saves the next visit.
-- Remind users to save their work before any restart.
-- Warn users that lab workstations may reset on reboot: files must be saved to
-  personal or cloud storage, never to the local desktop.
+1. **Your name**
+2. **Which Computer Lab You Check?** — pick your assignment from the dropdown,
+   e.g. "SEKG03 Teacher PC, No.01-20"
 
-## During class bookings
+### Reporting a problem
 
-- Check the booking schedule for your shift.
-- Be in the lab before a booked class starts and confirm the teaching PC and
-  projector work.
-- Do not troubleshoot loudly during a class; wait or step outside with the user.
+Report any issue found during the check in this format:
 
-::: info To be filled in
-Add the lab list and room numbers, the workstation imaging behaviour, the fault
-reporting system, and the lab booking calendar link.
-:::
+```
+Machine Name - Issue
+```
+
+For example:
+
+```
+No.15 PC - Cannot Login
+```
+
+Be specific — the machine number plus what actually happened.
