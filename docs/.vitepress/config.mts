@@ -136,8 +136,10 @@ const locales = Object.fromEntries(
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: '/ITSC_Student_Helper_Guide/',
   title: createT('en')('site.title'),
   description: createT('en')('site.description'),
+  lang: 'en-US',
   cleanUrls: true,
 
   // `lastUpdated: true` reads git history at build time. The snap-installed bun
