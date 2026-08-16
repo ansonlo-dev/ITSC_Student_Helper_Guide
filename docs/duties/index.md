@@ -51,6 +51,19 @@ There is a duty bag in **LCH206A** and another in **MB202**, each containing:
 | Computer Lab | |
 | Old Lecture Theatre with a drawer storing the mic — open it with the cabinet key in the bag | |
 
+## Duty types
+
+The full list of duty types you may be rostered on:
+
+1. Counter
+2. Printer Check
+3. Paper Stock Check
+4. Software Check
+5. Lecture Room Check
+6. Computer Lab Check
+7. Hostel Check
+8. Helper Admin
+
 ## Every duty ends the same way
 
 Submit the checking result, then sign out. See

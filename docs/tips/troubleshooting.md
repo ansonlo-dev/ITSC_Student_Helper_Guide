@@ -18,6 +18,26 @@ first**, before submitting a ticket or asking for immediate help:
 Most classroom calls are resolved by one of these four. Work through them in
 order before escalating.
 
+## The faults you will actually meet
+
+From the checking duties, in rough order of frequency:
+
+| Fault | Fix |
+| --- | --- |
+| Projection mode not set to Duplicate / Extend | `Windows`+`P` → **Extend** |
+| Power plug pulled out | Check the power bar under the desk |
+| Monitor cable loose | Reseat at both ends |
+| Touch panel volume muted or turned down | Unmute, raise it on the panel |
+| Camera looks black | The **lens cover** is closed, or it is aimed away |
+| Cannot log in to a PC | Usually no network — fix it, do not just note it |
+| Yellow label missing | Peeled off by a student; report it |
+
+::: tip Test cameras in Zoom
+Use **Zoom → Settings → Video**, not the Windows Camera app — the built-in app
+freezes when switching between cameras. SCK 103/104 can *only* be checked this
+way.
+:::
+
 ## Before you escalate anything
 
 Ask the user, in this order:

@@ -51,6 +51,19 @@
 | 電腦室（Computer Lab） | |
 | 舊演講廳，咪高峰存放於抽屜 —— 用當值袋內的櫃匙開啟 | |
 
+## 職務類型
+
+你可能被編排到的完整職務類型：
+
+1. Counter（櫃檯）
+2. Printer Check（打印機檢查）
+3. Paper Stock Check（紙張存量檢查）
+4. Software Check（軟件檢查）
+5. Lecture Room Check（課室檢查）
+6. Computer Lab Check（電腦室檢查）
+7. Hostel Check（宿舍檢查）
+8. Helper Admin（助理行政）
+
 ## 每項職務的結尾都一樣
 
 提交檢查結果，然後簽退。完整流程請見[第一更當值](/zh-TW/guide/first-shift)。

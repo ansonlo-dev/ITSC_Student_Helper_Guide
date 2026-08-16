@@ -51,6 +51,19 @@
 | 电脑室（Computer Lab） | |
 | 旧报告厅，麦克风存放于抽屉 —— 用值班袋内的柜匙开启 | |
 
+## 职务类型
+
+你可能被编排到的完整职务类型：
+
+1. Counter（柜台）
+2. Printer Check（打印机检查）
+3. Paper Stock Check（纸张存量检查）
+4. Software Check（软件检查）
+5. Lecture Room Check（教室检查）
+6. Computer Lab Check（电脑室检查）
+7. Hostel Check（宿舍检查）
+8. Helper Admin（助理行政）
+
 ## 每项职务的结尾都一样
 
 提交检查结果，然后签退。完整流程请见[第一次值班值班](/zh-CN/guide/first-shift)。

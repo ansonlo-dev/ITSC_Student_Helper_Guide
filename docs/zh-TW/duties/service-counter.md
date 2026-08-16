@@ -11,8 +11,9 @@
 
 ## 職務範圍
 
-1. 處理用戶透過**電話或親臨**提出的查詢。
-2. **器材外借** —— 詳見[器材外借](/zh-TW/duties/av-equipment)。
+1. 處理用戶透過**電話或親臨**提出的查詢
+2. **器材外借** —— 詳見[器材外借](/zh-TW/duties/av-equipment)
+3. 聽取留言、接收送貨，以及保持櫃檯整潔
 
 常見查詢類別：服務熱線、用戶帳戶、器材外借、網絡、雙重驗證（2FA），以及其他
 臨時事項。
@@ -27,12 +28,24 @@
 | Password | `112233` |
 | Extension | `8453`／`8454` —— 與 Username 相同 |
 
+### 接聽來電
+
+開始排查之前，先取得填表所需的資料：**姓名、電郵、編號、內線或電話號碼、部門
+及位置**。事後單靠記憶是填不回那份紀錄的。
+
+::: tip 緊急與非緊急
+先做分流。一節正在進行、投影機壞了的課堂屬緊急，要立即交給當值職員；一般
+「該怎樣做……」的查詢可以在櫃檯解答或記錄後跟進。轉交時要說明屬於哪一類。
+:::
+
 ## 留言信箱（Voice Mail）
 
 | 欄位 | 內容 |
 | --- | --- |
 | Username | `7992` |
 | Password | `1234` |
+
+當值期間要查聽留言，凡需要跟進的都要填入查詢表格。
 
 ::: danger 共用登入資料
 以上熱線及留言信箱的登入資料屬團隊共用。請勿外傳至學生助理團隊以外，亦不要
@@ -41,25 +54,35 @@
 
 ## 記錄查詢
 
-**每一宗**遇到的用戶查詢都要記錄下來，並透過
+**每一宗**遇到的用戶查詢都要記錄，並透過
 **Issue Received by ITSC Student Helper** 表格提交：
 
 **<https://forms.office.com/r/30WbQbDCSF>**
 
-表格需要填寫：
+| # | 題目 | 注意事項 |
+| --- | --- | --- |
+| 1 | **Student Helper Name** | 你 |
+| 2 | **Staff/Student Name** | 問清楚串法，不要靠估 |
+| 3 | **Staff/Student Email** | 職員日後跟進的途徑 —— 要向對方複述確認 |
+| 4 | **Staff/Student ID** | |
+| 5 | **Staff/Student Extension/Phone Number** | 電話查詢要先取得回電號碼，才開始排查 |
+| 6 | **Staff/Student Department** | |
+| 7 | **Staff/Student Location** | 要寫房號，不是「樓上那間電腦室」 |
+| 8 | **Issue Summary** | **最多 100 字** —— 當成一行標題來寫 |
+| 9 | **Issue Detail** | **最少 20 字** —— 徵狀、一字不漏的錯誤訊息，以及你已試過什麼 |
+| 10 | **Status** | 見下方 |
 
-| 欄位 | 備註 |
-| --- | --- |
-| Student Helper Name | 你 |
-| Staff/Student Name | 用戶 |
-| Staff/Student Email | |
-| Staff/Student ID | |
-| Staff/Student Extension / Phone Number | |
-| Staff/Student Department | |
-| Staff/Student Location | |
-| Issue Summary | 最多 100 字 |
-| Issue Detail | 最少 20 字 |
-| Status | 已跟進／已解決等 |
+**Status 選項：**
+
+- Followed up by **User Services Team** Staff（用戶服務組職員跟進）
+- Followed up by **AV Team** Staff（影音組職員跟進）
+- **Fixed by Student Helper**（學生助理已解決）
+- **Not fixed**（未解決）
+
+::: warning 如實選擇狀態
+「Not fixed」是一個有效而且有用的答案。用戶不滿意地離開卻標記為已解決，只會令
+整個跟進流程斷掉。
+:::
 
 ::: tip 不確定就發問
 任何不確定的事情，都應該詢問全職職員。
@@ -69,9 +92,9 @@
 
 **先找當值職員，然後才找其他人。**
 
-**Duty and Service Counter Roster**（當值及服務櫃檯輪值表）張貼在櫃檯，列明各
-時段（08:30–10:30、10:30–12:30、14:00–16:00、16:00–18:30）的當值職員，以及
-M+ 上下午和**午膳候命輪值表**（12:30–14:00，Lunch Mobile 1 及 2）。
+**Duty and Service Counter Roster** 張貼在櫃檯，列明各時段（08:30–10:30、
+10:30–12:30、14:00–16:00、16:00–18:30）的當值職員，以及 M+ 上下午和**午膳
+候命輪值表**（12:30–14:00，Lunch Mobile 1 及 2）。
 
 ### 當值職員座位表
 
@@ -91,6 +114,32 @@ M+ 上下午和**午膳候命輪值表**（12:30–14:00，Lunch Mobile 1 及 2�
 | Andrew | Johnny |
 | | Elaine |
 
+## 櫃檯的器材外借
+
+- **一定要按 Check-Out** —— 否則系統上根本沒有這筆借出紀錄。
+- **歸還時要逐件檢查**：無線簡報器的 USB 接收器還在嗎？手提電腦能否開機？
+  配件是否齊全？
+- 要清楚**每件器材是什麼樣子、擺放在哪裡**，以及用戶需要哪一款**咪高峰**。
+- 用**條碼掃描器**，不要人手輸入編號。
+
+完整流程見[器材外借](/zh-TW/duties/av-equipment)。
+
+## 送貨
+
+需要簽收的送貨，請入內找職員處理 —— 不要自行代 ITSC 簽收貨物。
+
+## 其他櫃檯工作
+
+- **助理工作證** —— 派發及收回，存放在抽屜櫃內。
+- **Counter notebook** —— 櫃檯交接紀錄簿；要閱讀，也要補充。
+- 要知道**如何指引別人前往人力資源處**，這是櫃檯常見的問題。
+- `Alt`+`R` 可登出櫃檯工作站。
+
+### 無人認領的失物
+
+在櫃檯交來的失物，最常見是**香港身分證、學生證，以及銀包**。要登記並交給職員
+處理 —— 不要把貴重物品留在櫃檯枱面。
+
 ## 櫃檯貼士
 
 1. 仔細聆聽對方的問題，理解他們的**真實情況**。
@@ -102,8 +151,20 @@ M+ 上下午和**午膳候命輪值表**（12:30–14:00，Lunch Mobile 1 及 2�
 
 ## 櫃檯檢查（Counter Check）
 
-櫃檯當值有自己的檢查表 —— 從常用連結頁開啟 **Counter Check**，在簽退前提交
-**Counter Checklist** 表格（你的名字、SPSS & AMOS 狀態等）。
+簽退之前，提交 **Counter Checklist** 表格（常用連結頁的 **Counter Check**）：
+
+| # | 題目 | 選項 |
+| --- | --- | --- |
+| 1 | **Your name** | 你的名字 |
+| 2 | **Check SPSS & AMOS Status** | Ok／Not ok |
+| 3 | **Check SDL** | Ok／Not ok |
+| 4 | **MB402 Printer Keys Exist or Not** | Exist／Not exist |
+| 5 | **MB402 Badge Exist or Not** | Exist／Not exist |
+| 6 | **Remark** | 自由填寫 |
+
+第 2、3 題在櫃檯的機器上檢查 —— MB402 裝有 SDL。第 4、5 題與
+[打印機檢查](/zh-TW/duties/printing#物品存在檢查)表格上點算的是同一套鎖匙及
+工作證；要實際點算，不要假設。
 
 ## 櫃檯常用連結
 

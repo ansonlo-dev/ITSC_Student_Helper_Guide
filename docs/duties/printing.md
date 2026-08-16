@@ -11,12 +11,12 @@
 
 ## Printer locations
 
-| Printer | Note |
+| Room | Printers |
 | --- | --- |
-| **MB202** | B&W copier — **closes at 17:00** |
 | **SEKG02** | Colour printer + **2** B&W printers |
 | **LCH213** | B&W printer — Language Laboratory |
-| **LCH206A** | |
+| **LCH206A** | Colour printer + **1** B&W printer |
+| **MB202** | B&W copier — **closes at 17:00** |
 
 ## The Ricoh printer key
 
@@ -26,9 +26,18 @@ The key is needed for:
 2. An **Octopus card stuck** in the reader
 3. **Paper refill**
 
-::: warning Return the key
-Please return the Ricoh printer key to **where you picked it up**.
+::: warning Lock up and return the key
+Lock the printer again after you finish, and return the key to **where you
+picked it up**. The form checks the keys are back.
 :::
+
+## What to check on the machine
+
+- **Card reader** — the light must be **green**.
+- **Trays** — push each tray fully in until it clicks. The status screen only
+  shows the true remaining paper once the tray is seated properly.
+- **Machine Information** screen — shows K / C / M / Y toner as percentage bands,
+  and paper level plus paper size for Tray 1, Tray 2, Tray 3 and the Bypass Tray.
 
 ## What to refill, and when
 
@@ -37,23 +46,67 @@ Please return the Ricoh printer key to **where you picked it up**.
 | **Ink / toner** | The printer **prompts that it is running low** |
 | **Paper** | Whenever a tray is **under 50%** |
 
-Check both from the printer's **Machine Information** screen, which shows the
-K / C / M / Y toner levels as percentage bands and the paper level for Tray 1,
-Tray 2, Tray 3 and the Bypass Tray, with each tray's paper size.
+## Paper Stock Check
 
-## Submit the result
-
-Open **→ Printer Check & Paper Stock Check ←** from the checklist links page.
-
-Each printer is answered **Ok** / **Not ok** / **Room closed** / **Room in use**
-/ *specify your own value* — for example "SEKG02 Color Printer",
-"SEKG02 B&W Printer" (note SEKG02 has 2 B&W printers), "LCH213 B&W Printer",
-and so on.
-
-::: tip Paper stock check is first session only
-**Only the first printer check session of the day needs the paper stock check.**
-Later sessions submit the printer check alone.
+::: tip First session only
+**Only the first printer check session of the day performs the paper stock
+check.** The form asks this directly as a Yes/No question.
 :::
+
+Count the remaining **A4 and A3 paper boxes** in the store and record how many
+are left. Know where the boxes are kept and what the packaging looks like before
+your first session.
+
+## The form
+
+**Printer & Paper Stock Check**, opened from
+**→ Printer Check & Paper Stock Check ←**.
+
+### Printer status
+
+Answered **Ok** / **Not ok** / **Room closed** / **Room in use** / *specify your
+own value*.
+
+| Question | Note on the form |
+| --- | --- |
+| **SEKG02 Color Printer** | |
+| **SEKG02 B&W Printer** | *SEKG02 have 2 B&W Printer* |
+| **LCH213 B&W Printer** | |
+| **LCH206A Color Printer** | |
+| **LCH206A B&W Printer** | *LCH206A have 1 B&W Printer* |
+| **MB202 B&W Printer** | |
+
+::: tip "Room closed" and "Room in use" are real answers
+Use them rather than leaving a blank or guessing "Ok". MB202 closes at 17:00, so
+sessions 3 and 4 will legitimately record it as closed.
+:::
+
+### Item existence checks
+
+Answered **Exist** / **Not exist** / **Room closed** / *specify your own value*.
+The quantity on the form is the number that should be there — count them.
+
+| Question | Quantity |
+| --- | --- |
+| **LCH206A Printer Keys Exist or Not** | 1 |
+| **LCH206A Badge Exist or not** | 7 |
+| **LCH206A IR Mics Exist or Not** | 7 |
+| **LCH206A CD Exist or Not** | 7 |
+| **MB402 Printer Keys Exist or Not** | 1 |
+| **MB402 Badge Exist or Not** | 1 |
+
+::: warning Count, do not glance
+"Exist" means the stated quantity is there. Six badges out of seven is
+**Not exist** with a note — that is how a missing IR mic gets noticed the same
+day rather than a week later.
+:::
+
+### Final questions
+
+| Question | Answer |
+| --- | --- |
+| **Need refill paper or not?** | A list — record whether a refill was needed |
+| **Perform Paper Stock Check** | **Yes** / **No** — Yes on the first session of the day |
 
 ## Faults
 

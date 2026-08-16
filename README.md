@@ -77,13 +77,26 @@ map in the script is a starting point, not a substitute for a read-through.
 English but absent from another language. Missing keys fall back to English
 rather than breaking the build.
 
-## Source
+## Sources
 
-Content is derived from **ITSC Student Helper Orientation** (`paul`, 2026-08-17,
-82 slides). The PDF is kept in the repository root as the reference original.
+Everything on the site is derived from the originals kept in `ref/`:
 
-When the orientation deck is updated, diff it against these pages rather than
-editing from memory.
+| Source | Covers |
+| --- | --- |
+| `ITSC Student Helper Orientation_paul_20260817.pdf` (82 slides, repo root) | Team, workflow, duty schedule, systems, salary |
+| `20260324 Morning Check Training Summary.md` | Morning Check rationale, item-by-item guidance, work evidence |
+| `20260402 Computer Lab Check Training Summary.md` | Lab check flow, XClass, camera methods, end-of-check routine |
+| `training.md` | Counter tasks, printer handling, Do's and Don'ts, software coverage |
+| `counter_checklist_2.pdf` | Counter Checklist questions |
+| `issues_received_by_ITSC_student_helper.pdf` | Enquiry form, all 10 questions |
+| `morning_check.pdf` | Morning Check form, page 1 of 4 |
+| `printer_check.pdf` | Printer & Paper Stock Check, all questions |
+| `computer_lab_checklist.pdf`, `computer_lab_checklist_2.pdf` | Computer Lab Checklist Q1–18 |
+| `lecture_room_check_1.pdf`, `lecture_room_check_2.pdf` | Lecture Room Checklist Q1–26 |
+| `hostel_clinic_checklist.pdf` | Hostel Clinic Checklist, all 25 questions |
+
+When a form or deck changes, diff it against these pages rather than editing from
+memory.
 
 ::: note
 This repository contains internal ITSC operational detail — staff extensions,

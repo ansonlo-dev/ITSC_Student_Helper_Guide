@@ -11,8 +11,9 @@
 
 ## 职务范围
 
-1. 处理用户透过**电话或现场**提出的查询。
-2. **器材外借** —— 详见[器材外借](/zh-CN/duties/av-equipment)。
+1. 处理用户透过**电话或现场**提出的查询
+2. **器材外借** —— 详见[器材外借](/zh-CN/duties/av-equipment)
+3. 听取留言、接收送货，以及保持柜台整洁
 
 常见查询类别：服务热线、用户账户、器材外借、网络、双重验证（2FA），以及其他
 临时事项。
@@ -27,12 +28,24 @@
 | Password | `112233` |
 | Extension | `8453`／`8454` —— 与 Username 相同 |
 
+### 接听来电
+
+开始排查之前，先取得填表所需的资料：**姓名、电子邮件、编号、分机或电话号码、部门
+及位置**。事后单靠记忆是填不回那份纪录的。
+
+::: tip 紧急与非紧急
+先做分流。一节正在进行、投影仪坏了的课堂属紧急，要立即交给值班职员；一般
+“该怎样做……”的查询可以在柜台解答或记录后跟进。转交时要说明属于哪一类。
+:::
+
 ## 留言信箱（Voice Mail）
 
 | 栏位 | 内容 |
 | --- | --- |
 | Username | `7992` |
 | Password | `1234` |
+
+值班期间要查听留言，凡需要跟进的都要填入查询表格。
 
 ::: danger 共用登入资料
 以上热线及留言信箱的登入资料属团队共用。请勿外传至学生助理团队以外，亦不要
@@ -41,25 +54,35 @@
 
 ## 记录查询
 
-**每一宗**遇到的用户查询都要记录下来，并透过
+**每一宗**遇到的用户查询都要记录，并透过
 **Issue Received by ITSC Student Helper** 表格提交：
 
 **<https://forms.office.com/r/30WbQbDCSF>**
 
-表格需要填写：
+| # | 题目 | 注意事项 |
+| --- | --- | --- |
+| 1 | **Student Helper Name** | 你 |
+| 2 | **Staff/Student Name** | 问清楚串法，不要靠估 |
+| 3 | **Staff/Student Email** | 职员日后跟进的途径 —— 要向对方复述确认 |
+| 4 | **Staff/Student ID** | |
+| 5 | **Staff/Student Extension/Phone Number** | 电话查询要先取得回电号码，才开始排查 |
+| 6 | **Staff/Student Department** | |
+| 7 | **Staff/Student Location** | 要写房间号，不是“楼上那间电脑室” |
+| 8 | **Issue Summary** | **最多 100 字** —— 当成一行标题来写 |
+| 9 | **Issue Detail** | **最少 20 字** —— 症状、一字不漏的错误信息，以及你已试过什么 |
+| 10 | **Status** | 见下方 |
 
-| 栏位 | 备注 |
-| --- | --- |
-| Student Helper Name | 你 |
-| Staff/Student Name | 用户 |
-| Staff/Student Email | |
-| Staff/Student ID | |
-| Staff/Student Extension / Phone Number | |
-| Staff/Student Department | |
-| Staff/Student Location | |
-| Issue Summary | 最多 100 字 |
-| Issue Detail | 最少 20 字 |
-| Status | 已跟进／已解决等 |
+**Status 选项：**
+
+- Followed up by **User Services Team** Staff（用户服务组职员跟进）
+- Followed up by **AV Team** Staff（视听组职员跟进）
+- **Fixed by Student Helper**（学生助理已解决）
+- **Not fixed**（未解决）
+
+::: warning 如实选择状态
+“Not fixed”是一个有效而且有用的答案。用户不满意地离开却标记为已解决，只会令
+整个跟进流程断掉。
+:::
 
 ::: tip 不确定就发问
 任何不确定的事情，都应该询问全职职员。
@@ -69,9 +92,9 @@
 
 **先找值班职员，然后才找其他人。**
 
-**Duty and Service Counter Roster**（值班及服务柜台轮值表）张贴在柜台，列明各
-时段（08:30–10:30、10:30–12:30、14:00–16:00、16:00–18:30）的值班职员，以及
-M+ 上下午和**午膳候命轮值表**（12:30–14:00，Lunch Mobile 1 及 2）。
+**Duty and Service Counter Roster** 张贴在柜台，列明各时段（08:30–10:30、
+10:30–12:30、14:00–16:00、16:00–18:30）的值班职员，以及 M+ 上下午和**午膳
+候命轮值表**（12:30–14:00，Lunch Mobile 1 及 2）。
 
 ### 值班职员座位表
 
@@ -91,6 +114,32 @@ M+ 上下午和**午膳候命轮值表**（12:30–14:00，Lunch Mobile 1 及 2�
 | Andrew | Johnny |
 | | Elaine |
 
+## 柜台的器材外借
+
+- **一定要按 Check-Out** —— 否则系统上根本没有这笔借出纪录。
+- **归还时要逐件检查**：无线简报器的 USB 接收器还在吗？笔记本电脑能否开机？
+  配件是否齐全？
+- 要清楚**每件器材是什么样子、摆放在哪里**，以及用户需要哪一款**麦克风**。
+- 用**条码扫描器**，不要人手输入编号。
+
+完整流程见[器材外借](/zh-CN/duties/av-equipment)。
+
+## 送货
+
+需要签收的送货，请入内找职员处理 —— 不要自行代 ITSC 签收货物。
+
+## 其他柜台工作
+
+- **助理工作证** —— 派发及收回，存放在抽屉柜内。
+- **Counter notebook** —— 柜台交接纪录簿；要阅读，也要补充。
+- 要知道**如何指引别人前往人力资源处**，这是柜台常见的问题。
+- `Alt`+`R` 可登出柜台工作站。
+
+### 无人认领的失物
+
+在柜台交来的失物，最常见是**香港身份证、学生证，以及银包**。要登记并交给职员
+处理 —— 不要把贵重物品留在柜台桌面。
+
 ## 柜台提示
 
 1. 仔细聆听对方的问题，理解他们的**真实情况**。
@@ -102,8 +151,20 @@ M+ 上下午和**午膳候命轮值表**（12:30–14:00，Lunch Mobile 1 及 2�
 
 ## 柜台检查（Counter Check）
 
-柜台值班有自己的检查表 —— 从常用连结页开启 **Counter Check**，在签退前提交
-**Counter Checklist** 表格（你的名字、SPSS & AMOS 状态等）。
+签退之前，提交 **Counter Checklist** 表格（常用连结页的 **Counter Check**）：
+
+| # | 题目 | 选项 |
+| --- | --- | --- |
+| 1 | **Your name** | 你的名字 |
+| 2 | **Check SPSS & AMOS Status** | Ok／Not ok |
+| 3 | **Check SDL** | Ok／Not ok |
+| 4 | **MB402 Printer Keys Exist or Not** | Exist／Not exist |
+| 5 | **MB402 Badge Exist or Not** | Exist／Not exist |
+| 6 | **Remark** | 自由填写 |
+
+第 2、3 题在柜台的机器上检查 —— MB402 装有 SDL。第 4、5 题与
+[打印机检查](/zh-CN/duties/printing#物品存在检查)表格上点算的是同一套钥匙及
+工作证；要实际点算，不要假设。
 
 ## 柜台常用连结
 
