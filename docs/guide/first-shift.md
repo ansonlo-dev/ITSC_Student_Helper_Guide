@@ -28,10 +28,34 @@ The calendar has Day / Week / Month views. Each column is a duty slot —
 ITSC Service Counter, LU Campus Printer, Computer Lab Helper 1–4, Lecture Room
 Helper 1–2, Computer Lab and Lecture, and Hostel B / H / WJY Helper.
 
+<style>
+.video-container {
+  position: relative;
+  width: 100%;
+  height: 0;
+  padding-bottom: 56.25%; /* 16:9 Aspect Ratio */
+  overflow: hidden;
+}
+.video-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+</style>
+
 - **To book** — go to the date, then click the empty cell in the duty column and
   time row you want.
+<div class="video-container">
+  <iframe src="https://drive.google.com/file/d/11J8WsrhzQzOCJ29Z_XfsRGXLjteWGa6J/preview" allow="autoplay" allowfullscreen></iframe>
+</div>
+
 - **To delete a booking** — open your own booking in the calendar and remove it.
   Do this yourself whenever you take leave.
+<div class="video-container">
+  <iframe src="https://drive.google.com/file/d/1O-ExogyRe5WKD05MFXmQosT60HfmDRbs/preview" allow="autoplay" allowfullscreen></iframe>
+</div>
 
 ![The duty booking calendar](/images/booking-calendar.jpg)
 *Each column is a duty slot; click an empty cell to book it*

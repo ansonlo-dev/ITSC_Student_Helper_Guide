@@ -42,7 +42,7 @@ installed — check a whole lab at once. From the teacher PC you can:
 | --- | --- |
 | Log on name | Your own username |
 | Password | Your own password |
-| Domain | `Lingnan Daxue` |
+| Domain | `LNDAXUE` |
 
 ::: info Rooms with XClass installed
 LBY301, LBY303, LCH201, LCH202, LCH206, LCH209, MB202, SEKG03, SEK105.
@@ -167,8 +167,8 @@ Two methods:
    cameras. Paul has posted a demo video in the group.
 2. **The built-in Windows Camera app.**
 
-::: warning SCK 103/104 — Zoom only
-You cannot change the camera setting in the system Camera app in SCK 103/104.
+::: warning LKKG0X — Zoom only
+You cannot change the camera setting in the system Camera app in LKKG0X.
 Use Zoom for those rooms.
 :::
 

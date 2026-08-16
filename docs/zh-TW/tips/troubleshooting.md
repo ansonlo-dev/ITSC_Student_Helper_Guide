@@ -34,7 +34,7 @@
 
 ::: tip 用 Zoom 測試鏡頭
 用 **Zoom → 設定 → 視頻**，不要用 Windows Camera App —— 內置程式在切換鏡頭時
-會 freeze。SCK 103/104 *只能*用這個方法檢查。
+會 freeze。LKKG0X *只能*用這個方法檢查。
 :::
 
 ## 升級處理之前

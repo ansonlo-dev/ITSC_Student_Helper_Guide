@@ -37,7 +37,7 @@ From the checking duties, in rough order of frequency:
 
 ::: tip Test cameras in Zoom
 Use **Zoom → Settings → Video**, not the Windows Camera app — the built-in app
-freezes when switching between cameras. SCK 103/104 can *only* be checked this
+freezes when switching between cameras. LKKG0X can *only* be checked this
 way.
 :::
 

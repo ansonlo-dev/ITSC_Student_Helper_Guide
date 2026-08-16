@@ -72,7 +72,7 @@
 | **SPSS & AMOS** | **全部**房间，**语言实验室除外**（LBY301、LBY303、LCH201、LCH202） |
 | **XClass** | LBY301、LBY303、LCH201、LCH202、LCH206、LCH209、MB202、SEKG03、SEK105 |
 
-XClass 登入：用你自己的用户名称及密码，**Domain 填 `Lingnan Daxue`**。详见
+XClass 登入：用你自己的用户名称及密码，**Domain 填 `LNDAXUE`**。详见
 [电脑室检查](/zh-CN/duties/lab-support#xclass)。
 
 ## 没有某些设备的房间
@@ -84,7 +84,7 @@ XClass 登入：用你自己的用户名称及密码，**Domain 填 `Lingnan Dax
 | SEK105 | 没有光碟机、没有打印机 |
 | LCH413 | 没有打印机 |
 | LKK 新翼房间 | 没有脚架（镜头固定在幕墙上） |
-| SCK 103/104 | 无法在 Windows Camera App 更改镜头设置 —— 要用 Zoom |
+| LKKG0X | 无法在 Windows Camera App 更改镜头设置 —— 要用 Zoom |
 
 ## 其他参考
 

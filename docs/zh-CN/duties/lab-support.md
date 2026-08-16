@@ -36,7 +36,7 @@
 | --- | --- |
 | Log on name | 你自己的用户名称 |
 | Password | 你自己的密码 |
-| Domain | `Lingnan Daxue` |
+| Domain | `LNDAXUE` |
 
 ::: info 已安装 XClass 的房间
 LBY301、LBY303、LCH201、LCH202、LCH206、LCH209、MB202、SEKG03、SEK105。
@@ -149,8 +149,8 @@ Machine Name - Issue
    Paul 已在群组发放示范影片。
 2. **系统内置的 Windows Camera App。**
 
-::: warning SCK 103/104 —— 只能用 Zoom
-SCK 103/104 无法在系统 Camera App 更改镜头设置，这两间房必须用 Zoom 检查。
+::: warning LKKG0X —— 只能用 Zoom
+LKKG0X 无法在系统 Camera App 更改镜头设置，这两间房必须用 Zoom 检查。
 :::
 
 最常见的误报，是有人把**镜头盖**关上或把镜头拨开，令画面全黑。上报之前先检查

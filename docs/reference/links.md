@@ -74,7 +74,7 @@ Checklist software questions.
 | **SPSS & AMOS** | **All** rooms **except** the language laboratories (LBY301, LBY303, LCH201, LCH202) |
 | **XClass** | LBY301, LBY303, LCH201, LCH202, LCH206, LCH209, MB202, SEKG03, SEK105 |
 
-XClass login: your own username and password, **Domain `Lingnan Daxue`**. See
+XClass login: your own username and password, **Domain `LNDAXUE`**. See
 [Computer Lab Check](/duties/lab-support#xclass).
 
 ## Rooms without certain equipment
@@ -86,7 +86,7 @@ Worth knowing before you mark something "Not ok":
 | SEK105 | No CD-Rom, no printer |
 | LCH413 | No printer |
 | LKK new-build rooms | No tripod (cameras fixed to the curtain wall) |
-| SCK 103/104 | Camera settings cannot be changed in the Windows Camera app — use Zoom |
+| LKKG0X | Camera settings cannot be changed in the Windows Camera app — use Zoom |
 
 ## Other references
 

@@ -28,8 +28,32 @@
 LU Campus Printer、Computer Lab Helper 1–4、Lecture Room Helper 1–2、
 Computer Lab and Lecture，以及 Hostel B / H / WJY Helper。
 
+<style>
+.video-container {
+  position: relative;
+  width: 100%;
+  height: 0;
+  padding-bottom: 56.25%; /* 16:9 Aspect Ratio */
+  overflow: hidden;
+}
+.video-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+</style>
+
 - **预订** —— 前往该日期，然后点击你想要的职务栏与时间列交界的空白格。
+<div class="video-container">
+  <iframe src="https://drive.google.com/file/d/11J8WsrhzQzOCJ29Z_XfsRGXLjteWGa6J/preview" allow="autoplay" allowfullscreen></iframe>
+</div>
+
 - **删除预订** —— 在日历中打开自己的预订并移除。每次请假都必须自行完成这一步。
+<div class="video-container">
+  <iframe src="https://drive.google.com/file/d/1O-ExogyRe5WKD05MFXmQosT60HfmDRbs/preview" allow="autoplay" allowfullscreen></iframe>
+</div>
 
 ## 2. 签到／签退
 
