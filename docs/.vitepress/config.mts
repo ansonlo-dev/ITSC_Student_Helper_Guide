@@ -2,6 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: '/ITSC_Student_Helper_Guide/',
   title: 'ITSC Student Helper Guide',
   description: 'Duties, procedures and tips for ITSC Student Helpers at Lingnan University',
   lang: 'en-US',
