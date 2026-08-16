@@ -5,8 +5,12 @@ export default defineConfig({
   title: 'ITSC Student Helper Guide',
   description: 'Duties, procedures and tips for ITSC Student Helpers at Lingnan University',
   lang: 'en-US',
-  lastUpdated: true,
   cleanUrls: true,
+
+  // `lastUpdated: true` reads git history at build time. The snap-installed bun
+  // on this machine cannot spawn the system git binary, so it is left off.
+  // Enable it if you build with Node, or in CI.
+  lastUpdated: false,
 
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
