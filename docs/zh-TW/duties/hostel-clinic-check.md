@@ -21,6 +21,11 @@ Hostel WJY**。每座宿舍一位助理。
 
 **Hostel Clinic Checklist**，從 **→ Hostel Clinic Check ←** 開啟，共 25 題。
 
+![檢查表連結頁，Hostel Clinic Check 已標示](/images/links-hostel-check.jpg)
+
+![Hostel Clinic Checklist 表格](/images/hostel-form.jpg)
+*Hostel Clinic Checklist*
+
 ### 身分資料
 
 | # | 題目 | 填寫內容 |

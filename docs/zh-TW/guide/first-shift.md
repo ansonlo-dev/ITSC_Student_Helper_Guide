@@ -31,6 +31,9 @@ Computer Lab and Lecture，以及 Hostel B / H / WJY Helper。
 - **預訂** —— 前往該日期，然後點擊你想要的職務欄與時間列交界的空白格。
 - **刪除預訂** —— 在日曆中打開自己的預訂並移除。每次請假都必須自行完成這一步。
 
+![更份預訂日曆](/images/booking-calendar.jpg)
+*每一欄是一個職務時段；點擊空白格即可預訂*
+
 ## 2. 簽到／簽退
 
 **[ics.ln.edu.hk/helper](https://ics.ln.edu.hk/helper)**
@@ -43,10 +46,20 @@ Computer Lab and Lecture，以及 Hostel B / H / WJY Helper。
 登入後選擇 **Helper Sign in/out**，再選 **User Service Helper** 或
 **Hostel Clinic Helper**，然後按 **Sign In (Desktop/AV)**。
 
+![簽到／簽退登入頁](/images/signin-login.jpg)
+
+![Helper Sign in/out 選單](/images/signin-menu.jpg)
+*選擇 User Service Helper 或 Hostel Clinic Helper*
+
 頁面會顯示你目前的位置、系統日期時間、用戶狀態，以及最近 20 次的簽到／簽退紀錄。
+
+![顯示狀態與近期紀錄的簽到頁](/images/signin-page.jpg)
+*你的狀態與最近 20 次紀錄*
 
 ::: tip 只有已訂更的助理才能簽到
 如果你當天沒有預訂，頁面會顯示「No Booking Records Today」，你將無法簽到。
+
+![No Booking Records Today](/images/signin-no-booking.jpg)
 :::
 
 ### 可供簽到的房間
@@ -56,6 +69,9 @@ LCH204、LCH206、LCH206A、LCH209、LCH213、LCH413。
 
 **課室：** 完整名單涵蓋 SEK、MB、LBY、LKK、WYL、LCH 及 LYH 各座，以及陳德泰大會堂
 （AUD01）—— 詳見簽到頁的「Available Sign in Classroom List」。
+
+![可供簽到的課室清單](/images/signin-classroom-list.jpg)
+*簽到頁上的 Available Sign in Classroom List*
 
 ## 3–4. 執行職務並提交結果
 
@@ -68,8 +84,14 @@ LCH204、LCH206、LCH206A、LCH209、LCH213、LCH413。
 > **Missing the following work reports:**
 > \*\*\* Printer Check \*\*\* (expected: 1, actual: 0)
 
+![因未提交報告而無法簽退](/images/signout-blocked.jpg)
+*未提交檢查結果就無法簽退*
+
 提交結果之後，頁面會顯示 **Duty Completed**，
 **Sign Out (Desktop/AV)** 按鈕便會可用。
+
+![Duty Completed 與可用的簽退按鈕](/images/signout-completed.jpg)
+*Duty Completed —— 現在可以簽退*
 
 ## 出錯時怎麼辦
 
@@ -86,5 +108,8 @@ LCH204、LCH206、LCH206A、LCH209、LCH213、LCH413。
 | Correct Time | 應該的正確時間 |
 | Type | User service／Counter／Hostel Clinic／others |
 | Status | 由主管在調整後填寫 |
+
+![Abnormal sign in+out 試算表](/images/abnormal-signin-sheet.jpg)
+*「Abnormal sign in+out」工作簿，每月一個工作表*
 
 另外，凡是提早、遲到或超時**超過 15 分鐘**，都必須通知主管。

@@ -105,6 +105,9 @@ SEK 原有的兩個時段除外，其他全部為 3 間房一組。
 ::: danger 留意顯示模式
 **不要**停留在 **PC Screen Only** 或 **Second Screen Only**，應設為 **Extend**
 或 **Duplicate**。留意右下角顯示的設定。
+
+![Windows 投影選單](/images/windows-project-menu.jpg)
+*`Windows` + `P` —— 只能選 Extend 或 Duplicate*
 :::
 
 ### Microphone Sound Test —— 咪高峰測試
@@ -160,6 +163,11 @@ ITSC 有能力查閱登入紀錄，但只要求一張相片作為實際證明。
 
 從檢查表連結頁開啟 **→ Morning Check ←**，提交 **Morning Check** 表格。
 第 1 題是你的名字，第 2 題是房間組合。
+
+![檢查表連結頁，Morning Check 已標示](/images/links-morning-check.jpg)
+
+![ITSC Morning Check 表格](/images/morning-check-form.jpg)
+*Morning Check 表格*
 
 ::: info 表格的後續頁面
 此表格共 4 頁，這裡只記錄了第 1 頁。其餘頁面的逐項模式與

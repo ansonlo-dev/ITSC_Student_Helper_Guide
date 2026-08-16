@@ -17,6 +17,9 @@ interviews, seminars, course presentations, ceremonies and student activities.
 
 Ask to be walked through the on-loan procedure once before you do it alone.
 
+![The ITSC store room](/images/store-room.jpg)
+*MB402/4 — the ITSC Store Room*
+
 ## Equipment On Loan System (SUS IMS)
 
 The system has these tabs:
@@ -32,6 +35,9 @@ The system has these tabs:
 The right-hand panel of the Booking Listing shows each item's **Total** and
 **Available** count — check it before promising anything to a user.
 
+![The Equipment On Loan System booking listing](/images/loan-booking-listing.jpg)
+*Booking Listing — Total and Available per item on the right*
+
 ### A booking record contains
 
 - Booking ID, loan period (from / to)
@@ -43,6 +49,9 @@ The right-hand panel of the Booking Listing shows each item's **Total** and
 
 Actions along the bottom: **Save Booking**, **Close Booking**, **Check-Out**,
 **Send Summary Email**, **Exit**.
+
+![A booking record in the loan system](/images/loan-booking-record.jpg)
+*A booking record*
 
 ## Checking out
 
@@ -63,6 +72,9 @@ Actions along the bottom: **Save Booking**, **Close Booking**, **Check-Out**,
 A returned wireless presenter was found with its tiny USB receiver missing.
 The presenter and its receiver must be loaned out and returned **together** —
 check for the receiver every single time.
+
+![A wireless presenter and its USB receiver](/images/wireless-presenter.jpg)
+*The receiver clips into the presenter — check it is there*
 :::
 
 Report any damage or missing part immediately rather than passing it to the next

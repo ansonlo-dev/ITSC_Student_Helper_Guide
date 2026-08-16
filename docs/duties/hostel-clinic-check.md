@@ -23,6 +23,11 @@ for this duty appear with type **HC**.
 **Hostel Clinic Checklist**, opened from **→ Hostel Clinic Check ←**.
 25 questions.
 
+![The checklist links page with Hostel Clinic Check highlighted](/images/links-hostel-check.jpg)
+
+![The Hostel Clinic Checklist form](/images/hostel-form.jpg)
+*The Hostel Clinic Checklist*
+
 ### Identification
 
 | # | Question | What to put |

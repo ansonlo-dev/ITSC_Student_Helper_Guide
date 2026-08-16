@@ -58,6 +58,9 @@ proof, and the rest of the form is still trusted without one.
 Wear the ITSC Student Helper badge whenever you are on duty. Users need to know
 who you are, and staff need to know you belong where you are standing.
 
+![The ITSC Student Helper badge and lanyard](/images/badge.jpg)
+*The ITSC Student Helper badge*
+
 ## Taking leave
 
 If you cannot make a booked shift:
@@ -79,11 +82,17 @@ If you cannot make a booked shift:
 Both steps are required — the message alone does not free the slot. Send it as
 early as you can; a late leave message is nearly as disruptive as no message.
 
+![A leave message in the WhatsApp group](/images/whatsapp-leave.jpg)
+*A leave message in the group chat*
+
 ## Covering someone else's shift
 
 1. **Reply in the WhatsApp group** (e.g. "i can take").
 2. **Reserve the duty record** on
    [luhelperduty.online](https://luhelperduty.online).
+
+![Replying to take a shift](/images/whatsapp-cover.jpg)
+*Reply in the group, then reserve the slot yourself*
 
 ## Counter tidiness
 
@@ -92,6 +101,9 @@ We need to put everything back to its position, neat and tidy.
 - Chairs back to their position after seated.
 - Badges back to their cabinet.
 - Leave the counter workstation and phone as you found them.
+
+![The badge drawer at the counter](/images/badge-drawer.jpg)
+*Badges go back in the cabinet, not in your bag*
 
 ## Leaving a room after a check
 

@@ -18,6 +18,13 @@
 | **LCH206A** | Colour printer + **1** B&W printer |
 | **MB202** | B&W copier — **closes at 17:00** |
 
+![Printers in SEKG02](/images/printers-sekg02.jpg)
+
+![The printer in LCH213, the Language Laboratory](/images/printer-lch213.jpg)
+
+![The MB202 B&W copier](/images/printer-mb202.jpg)
+*SEKG02, LCH213 and MB202*
+
 ## The Ricoh printer key
 
 The key is needed for:
@@ -25,6 +32,9 @@ The key is needed for:
 1. Fixing a **paper jam**
 2. An **Octopus card stuck** in the reader
 3. **Paper refill**
+
+![The Ricoh printer key](/images/printer-key.jpg)
+*The Ricoh printer key — return it where you found it*
 
 ::: warning Lock up and return the key
 Lock the printer again after you finish, and return the key to **where you
@@ -38,6 +48,9 @@ picked it up**. The form checks the keys are back.
   shows the true remaining paper once the tray is seated properly.
 - **Machine Information** screen — shows K / C / M / Y toner as percentage bands,
   and paper level plus paper size for Tray 1, Tray 2, Tray 3 and the Bypass Tray.
+
+![The Machine Information screen](/images/printer-machine-info.jpg)
+*Machine Information — toner bands and per-tray paper levels*
 
 ## What to refill, and when
 
@@ -61,6 +74,11 @@ your first session.
 
 **Printer & Paper Stock Check**, opened from
 **→ Printer Check & Paper Stock Check ←**.
+
+![The checklist links page with Printer Check highlighted](/images/links-printer-check.jpg)
+
+![The Printer & Paper Stock Check form](/images/printer-check-form.jpg)
+*The Printer & Paper Stock Check form*
 
 ### Printer status
 

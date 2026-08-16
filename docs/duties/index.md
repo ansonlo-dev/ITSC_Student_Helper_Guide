@@ -10,6 +10,9 @@
 | Lecture Room Check | |
 | Ad-hoc Duty | |
 
+![The ITSC Student Helper duty summary](/images/duty-summary.jpg)
+*The duty summary*
+
 ## Pages
 
 | Duty | What it covers |
@@ -41,6 +44,9 @@ There is a duty bag in **LCH206A** and another in **MB202**, each containing:
 3. Mic & Headphone Covers (3 types)
 4. Audio CD
 5. AA Batteries × 2
+
+![The duty bag and its contents](/images/duty-bag.jpg)
+*The duty bag: badge, mic, covers, audio CD and batteries*
 
 ### Which microphone belongs where
 

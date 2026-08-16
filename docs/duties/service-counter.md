@@ -4,6 +4,9 @@
 
 **Work venue: MB402** — the ITSC Service Counter.
 
+![The ITSC Service Counter](/images/counter.jpg)
+*The ITSC Service Counter, MB402*
+
 | | Counter service hours |
 | --- | --- |
 | Normal | Mon – Fri, 8:30 am – 6:30 pm |
@@ -18,6 +21,9 @@
 Typical enquiry topics: service hotline, user account, on loan, network, 2FA,
 and other ad-hoc issues.
 
+![The counter workstation](/images/counter-workstation.jpg)
+*The counter workstation — two screens and the hotline phone*
+
 ## Hotline
 
 The hotline runs on **Cisco Finesse**.
@@ -27,6 +33,9 @@ The hotline runs on **Cisco Finesse**.
 | Username | `8453` (left seat) / `8454` (right seat) |
 | Password | `112233` |
 | Extension | `8453` / `8454` — same as the username |
+
+![The Cisco Finesse login screen](/images/finesse-login.jpg)
+*Cisco Finesse — username and extension are the same number*
 
 ### Taking a call
 
@@ -46,6 +55,9 @@ the counter or logged for follow-up. Say which it is when you pass it on.
 | --- | --- |
 | Username | `7992` |
 | Password | `1234` |
+
+![The voicemail sign in screen](/images/voicemail-login.jpg)
+*The hotline voice mail login*
 
 Check messages during your shift and log anything actionable on the enquiry form.
 
@@ -82,6 +94,9 @@ Mark down **each** encountered user enquiry and submit it via the
 - **Fixed by Student Helper**
 - **Not fixed**
 
+![The Issue Received by ITSC Student Helper form](/images/issue-form.jpg)
+*The enquiry form — every walk-in and call goes on it*
+
 ::: warning Pick the status honestly
 "Not fixed" is a valid, useful answer. Marking something fixed when the user
 walked away unhappy loses the follow-up entirely.
@@ -99,6 +114,9 @@ The **Duty and Service Counter Roster** is posted at the counter and lists who i
 on duty for each slot (08:30–10:30, 10:30–12:30, 14:00–16:00, 16:00–18:30) plus
 the M+ AM/PM and **Lunch Standby Roster** (12:30–14:00, Lunch Mobile 1 and 2).
 
+![The Duty and Service Counter Roster](/images/counter-roster.jpg)
+*The Duty and Service Counter Roster, posted at the counter*
+
 ### Where the duty staff sit
 
 **Room behind the counter**
@@ -109,6 +127,9 @@ the M+ AM/PM and **Lunch Standby Roster** (12:30–14:00, Lunch Mobile 1 and 2).
 | | Paul | Ivan | |
 | | Kenneth | Daniel | |
 
+![Seating plan for the room behind the counter](/images/seating-behind.jpg)
+*Room behind the counter*
+
 **MB402/1 — room opposite the counter**
 
 | | |
@@ -116,6 +137,9 @@ the M+ AM/PM and **Lunch Standby Roster** (12:30–14:00, Lunch Mobile 1 and 2).
 | Felix | Bill |
 | Andrew | Johnny |
 | | Elaine |
+
+![Seating plan for MB402/1](/images/seating-opposite.jpg)
+*MB402/1, opposite the counter*
 
 ## Equipment loan at the counter
 
@@ -172,6 +196,9 @@ Before you sign out, submit the **Counter Checklist** form
 | 5 | **MB402 Badge Exist or Not** | Exist / Not exist |
 | 6 | **Remark** | Free text |
 
+![The Counter Checklist form](/images/counter-checklist.jpg)
+*The Counter Checklist*
+
 Questions 2 and 3 are checked on the counter machine — MB402 has SDL installed.
 Questions 4 and 5 are the same key and badge counted on the
 [Printer Check](/duties/printing#item-existence-checks) form; count them, do not
@@ -180,3 +207,6 @@ assume.
 ## Useful links for counter duty
 
 See [Systems & Links](/reference/links) for the full list.
+
+![The counter useful links page](/images/counter-useful-links.jpg)
+*The useful links page — Counter Check is the one you submit*

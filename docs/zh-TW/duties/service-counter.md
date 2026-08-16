@@ -4,6 +4,9 @@
 
 **工作地點：MB402** —— ITSC 服務櫃檯。
 
+![ITSC 服務櫃檯](/images/counter.jpg)
+*ITSC 服務櫃檯，MB402*
+
 | | 櫃檯服務時間 |
 | --- | --- |
 | 平日 | 星期一至五，上午 8:30 – 下午 6:30 |
@@ -18,6 +21,9 @@
 常見查詢類別：服務熱線、用戶帳戶、器材外借、網絡、雙重驗證（2FA），以及其他
 臨時事項。
 
+![櫃檯工作站](/images/counter-workstation.jpg)
+*櫃檯工作站 —— 兩個螢幕與熱線電話*
+
 ## 熱線
 
 熱線系統為 **Cisco Finesse**。
@@ -27,6 +33,9 @@
 | Username | `8453`（左座）／`8454`（右座） |
 | Password | `112233` |
 | Extension | `8453`／`8454` —— 與 Username 相同 |
+
+![Cisco Finesse 登入畫面](/images/finesse-login.jpg)
+*Cisco Finesse —— 用戶名稱與分機號碼相同*
 
 ### 接聽來電
 
@@ -44,6 +53,9 @@
 | --- | --- |
 | Username | `7992` |
 | Password | `1234` |
+
+![留言信箱登入畫面](/images/voicemail-login.jpg)
+*熱線留言信箱登入*
 
 當值期間要查聽留言，凡需要跟進的都要填入查詢表格。
 
@@ -79,6 +91,9 @@
 - **Fixed by Student Helper**（學生助理已解決）
 - **Not fixed**（未解決）
 
+![Issue Received by ITSC Student Helper 表格](/images/issue-form.jpg)
+*查詢表格 —— 每一宗親臨及來電都要記錄*
+
 ::: warning 如實選擇狀態
 「Not fixed」是一個有效而且有用的答案。用戶不滿意地離開卻標記為已解決，只會令
 整個跟進流程斷掉。
@@ -96,6 +111,9 @@
 10:30–12:30、14:00–16:00、16:00–18:30）的當值職員，以及 M+ 上下午和**午膳
 候命輪值表**（12:30–14:00，Lunch Mobile 1 及 2）。
 
+![當值及服務櫃檯輪值表](/images/counter-roster.jpg)
+*張貼在櫃檯的 Duty and Service Counter Roster*
+
 ### 當值職員座位表
 
 **櫃檯後方房間**
@@ -106,6 +124,9 @@
 | | Paul | Ivan | |
 | | Kenneth | Daniel | |
 
+![櫃檯後方房間座位表](/images/seating-behind.jpg)
+*櫃檯後方房間*
+
 **MB402/1 —— 櫃檯對面房間**
 
 | | |
@@ -113,6 +134,9 @@
 | Felix | Bill |
 | Andrew | Johnny |
 | | Elaine |
+
+![MB402/1 座位表](/images/seating-opposite.jpg)
+*MB402/1，櫃檯對面*
 
 ## 櫃檯的器材外借
 
@@ -162,6 +186,9 @@
 | 5 | **MB402 Badge Exist or Not** | Exist／Not exist |
 | 6 | **Remark** | 自由填寫 |
 
+![Counter Checklist 表格](/images/counter-checklist.jpg)
+*Counter Checklist*
+
 第 2、3 題在櫃檯的機器上檢查 —— MB402 裝有 SDL。第 4、5 題與
 [打印機檢查](/zh-TW/duties/printing#物品存在檢查)表格上點算的是同一套鎖匙及
 工作證；要實際點算，不要假設。
@@ -169,3 +196,6 @@
 ## 櫃檯常用連結
 
 完整清單見[系統與連結](/zh-TW/reference/links)。
+
+![櫃檯常用連結頁](/images/counter-useful-links.jpg)
+*常用連結頁 —— Counter Check 是你要提交的一項*

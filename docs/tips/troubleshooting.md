@@ -18,6 +18,9 @@ first**, before submitting a ticket or asking for immediate help:
 Most classroom calls are resolved by one of these four. Work through them in
 order before escalating.
 
+![The Windows Project menu](/images/windows-project-menu.jpg)
+*`Windows` + `P` — pick **Extend***
+
 ## The faults you will actually meet
 
 From the checking duties, in rough order of frequency:

@@ -28,6 +28,9 @@
 - 首次申領或更改銀行資料時，須填寫銀行名稱及帳戶號碼。
 - Department/Unit 填 **ITSC**；Position Employed 填 **Student Helper**。
 
+![已填妥的申領表範本](/images/claim-form.jpg)
+*時薪及計件僱員申領表（範本）*
+
 ## 查閱工作紀錄
 
 在 [ics.ln.edu.hk/helper](https://ics.ln.edu.hk/helper) 中，可以：
@@ -35,7 +38,17 @@
 - 選擇 **Useful Information → Work Records Inquiry**，或
 - 在更份狀態頁按 **Check Pervious Work Records**。
 
+![Useful Information 選單中的 Work Records Inquiry](/images/work-records-menu.jpg)
+
+![Check Pervious Work Records 按鈕](/images/work-records-button.jpg)
+*兩條路徑都會到達同一頁*
+
 設定起訖日期，按 **Search Records**，即可看到你的薪酬登入／登出時間、地點、
 工作時數及每日總計 —— 並可匯出為 **CSV、Excel 或 PDF**。
+
+![工作紀錄搜尋結果](/images/work-records-results.jpg)
+
+![當天的更份狀態](/images/booking-status-cards.jpg)
+*更份狀態頁顯示進行中、即將開始及已結束的更份*
 
 提交申領表之前，請先與這裡的紀錄核對。

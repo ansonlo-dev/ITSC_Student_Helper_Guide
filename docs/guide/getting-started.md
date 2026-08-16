@@ -4,6 +4,9 @@ Welcome to the ITSC Student Helper team at Lingnan University. This site is the
 written version of the Student Helper Orientation: what the team does, how each
 duty is carried out, and who to contact when something is beyond your scope.
 
+![Lingnan University campus](/images/campus.jpg)
+*Lingnan University*
+
 ## What we do
 
 Student Helpers support **SUS — System & User Service**. The work splits into two
@@ -39,6 +42,12 @@ Specialist contacts for specific problems are on
   organised by channel: General, 1 Morning Check, 2a Printer Check,
   2b Paper Stock, 3 Computer Lab Check, 4 Lecture Room Check, and the Hostel
   Clinic Checklist.
+
+![Teams channels and files for ITSC Student Helpers](/images/teams-channels.jpg)
+*Teams — the checklists and reference files live here*
+
+![The ITSC Student Helpers WhatsApp group](/images/whatsapp-group.jpg)
+*The WhatsApp group — day-to-day messages and leave requests*
 
 ## How to use this guide
 

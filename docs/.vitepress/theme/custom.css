@@ -1,0 +1,35 @@
+/* Screenshots and photos carry a lot of this guide's meaning, so give them a
+   frame that reads as a figure rather than as inline decoration. */
+.vp-doc img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 1.25rem auto;
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 8px;
+  background: var(--vp-c-bg-soft);
+}
+
+/* An italic line directly under an image acts as its caption. */
+.vp-doc img + em,
+.vp-doc p > img + em {
+  display: block;
+  margin-top: -0.75rem;
+  text-align: center;
+  font-size: 0.85em;
+  color: var(--vp-c-text-2);
+}
+
+/* Photographs of rooms and equipment do not need to be full width. */
+.vp-doc img[src*="/images/"] {
+  max-height: 460px;
+  width: auto;
+}
+
+/* Wide tables (room rotas, schedules) should scroll rather than push the page. */
+.vp-doc div[class*="language-"] + table,
+.vp-doc table {
+  display: block;
+  overflow-x: auto;
+  max-width: 100%;
+}

@@ -22,6 +22,11 @@ Additional slots (Computer Lab Helper 4, and the combined "Computer Lab and
 Lecture" slot) cover rooms such as SEKG03 No.21-45, LBY303 Teacher PC No.01-24
 and LCH206A No.01-24 — check the booking calendar for your evening's assignment.
 
+![The computer lab helper weekly rota](/images/lab-rota.jpg)
+
+![The booking calendar showing lab slots](/images/lab-booking-calendar.jpg)
+*The rota, and the same slots on the booking calendar*
+
 ## XClass
 
 Labs where you would otherwise log in to more than 20 machines have **XClass**
@@ -56,6 +61,11 @@ down.
 ## The form
 
 **Computer Lab Checklist**, opened from **→ Computer Lab Check ←**.
+
+![The checklist links page with Computer Lab Check highlighted](/images/links-lab-check.jpg)
+
+![The Computer Lab Checklist form](/images/lab-checklist-form.jpg)
+*The Computer Lab Checklist*
 
 There are two variants of the checklist page — one for labs **with** a table
 glass partition and one **without** — because the partition rooms have extra

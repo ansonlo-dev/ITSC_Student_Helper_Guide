@@ -12,6 +12,9 @@
 | **Thu** | LCH113, LCH115, LCH201, LCH202, LCH206, LCH209, LCH213, LCH319AB, LCH319CD | LYH201/1, LYH201/2, LYH308, LYH309, LYH310, LYH316, LYH317, LYH319, LYH320 |
 | **Fri** | Sin Chow Ming, LCHUG14, LCH411, LCH413, LCH416, LYH111, LYH112, Chan Tak Tai Auditorium | SEKG03, SEKG09, SEK104, SEK106, SEK107, SEK108, SEK205, SEK206 |
 
+![The lecture room weekly rota](/images/lecture-room-rota.jpg)
+*The weekly rota as posted*
+
 ::: tip Access
 If you cannot get into a room, ask staff to grant access — do not skip it
 silently.
@@ -21,6 +24,11 @@ silently.
 
 **Lecture Room Checklist (ITSC Student Helper)**, opened from
 **→ Lecture Room Check ←**. It runs over two pages, 26 questions.
+
+![The checklist links page with Lecture Room Check highlighted](/images/links-lecture-room.jpg)
+
+![The Lecture Room Checklist form](/images/lecture-room-form.jpg)
+*The Lecture Room Checklist*
 
 Refer to the **Classroom Equipment List** spreadsheet linked at the top of the
 form — it tells you what each room is supposed to have.

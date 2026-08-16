@@ -54,6 +54,9 @@
 當值期間必須佩戴 ITSC Student Helper 工作證。用戶需要知道你的身分，職員亦需要
 知道你有權出現在該處。
 
+![ITSC Student Helper 工作證及頸繩](/images/badge.jpg)
+*ITSC Student Helper 工作證*
+
 ## 請假
 
 若無法出席已預訂的更份：
@@ -74,10 +77,16 @@
 兩個步驟缺一不可 —— 只發訊息並不會釋放該更份。而且要盡早發出；太遲的請假訊息
 造成的困擾，與不發訊息相差無幾。
 
+![WhatsApp 群組中的請假訊息](/images/whatsapp-leave.jpg)
+*群組中的請假訊息*
+
 ## 接手他人的更份
 
 1. **在 WhatsApp 群組回覆**（例如「i can take」）。
 2. **在 [luhelperduty.online](https://luhelperduty.online) 預訂該更份紀錄。**
+
+![回覆接手更份](/images/whatsapp-cover.jpg)
+*在群組回覆，然後自行預訂該更份*
 
 ## 櫃檯整潔
 
@@ -86,6 +95,9 @@
 - 坐過的椅子要推回原位。
 - 工作證放回抽屜櫃。
 - 櫃檯工作站及電話保持你到達時的狀態。
+
+![櫃檯的工作證抽屜](/images/badge-drawer.jpg)
+*工作證要放回抽屜櫃，不要帶走*
 
 ## 檢查完離開房間之前
 

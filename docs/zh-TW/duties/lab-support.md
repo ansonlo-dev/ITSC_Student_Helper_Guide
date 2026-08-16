@@ -21,6 +21,11 @@
 負責 SEKG03 No.21-45、LBY303 Teacher PC No.01-24、LCH206A No.01-24 等房間 ——
 請查看預訂日曆確認當晚的分配。
 
+![電腦室助理每週分工表](/images/lab-rota.jpg)
+
+![預訂日曆上的電腦室時段](/images/lab-booking-calendar.jpg)
+*分工表，以及預訂日曆上的同一批時段*
+
 ## XClass
 
 需要登入超過 20 部電腦的電腦室都裝有 **XClass**，可以一次過檢查整個電腦室。
@@ -52,6 +57,11 @@ XClass 的房間就要逐部處理；用 `Alt`+`F4` 再按 `Enter` 是最快的�
 ## 表格
 
 **Computer Lab Checklist**，從 **→ Computer Lab Check ←** 開啟。
+
+![檢查表連結頁，Computer Lab Check 已標示](/images/links-lab-check.jpg)
+
+![Computer Lab Checklist 表格](/images/lab-checklist-form.jpg)
+*Computer Lab Checklist*
 
 檢查表有兩個版本 —— **有**枱面玻璃隔板的電腦室，以及**沒有**的 —— 因為有隔板
 的房間多幾個項目。以下是「沒有隔板」的版本。

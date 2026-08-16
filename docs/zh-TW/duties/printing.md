@@ -18,6 +18,13 @@
 | **LCH206A** | 彩色打印機 + **1** 部黑白打印機 |
 | **MB202** | 黑白影印機 —— **17:00 關閉** |
 
+![SEKG02 的打印機](/images/printers-sekg02.jpg)
+
+![語言實驗室 LCH213 的打印機](/images/printer-lch213.jpg)
+
+![MB202 黑白影印機](/images/printer-mb202.jpg)
+*SEKG02、LCH213 及 MB202*
+
 ## Ricoh 打印機鎖匙
 
 以下情況需要用到鎖匙：
@@ -25,6 +32,9 @@
 1. 清除**卡紙**
 2. **八達通卡卡住**在讀卡器內
 3. **補充紙張**
+
+![Ricoh 打印機鎖匙](/images/printer-key.jpg)
+*Ricoh 打印機鎖匙 —— 用完放回原處*
 
 ::: warning 鎖好並歸還鎖匙
 完成後要重新鎖好打印機，並把鎖匙歸還到**你取用的位置**。表格會檢查鎖匙是否
@@ -38,6 +48,9 @@
   不會顯示真實的剩餘紙量。
 - **Machine Information 畫面** —— 以百分比區間顯示 K / C / M / Y 碳粉存量，
   以及 Tray 1、Tray 2、Tray 3 及 Bypass Tray 的紙張存量與紙張尺寸。
+
+![Machine Information 畫面](/images/printer-machine-info.jpg)
+*Machine Information —— 碳粉區間與各紙盤存量*
 
 ## 何時補充耗材
 
@@ -59,6 +72,11 @@
 
 **Printer & Paper Stock Check**，從
 **→ Printer Check & Paper Stock Check ←** 開啟。
+
+![檢查表連結頁，Printer Check 已標示](/images/links-printer-check.jpg)
+
+![Printer & Paper Stock Check 表格](/images/printer-check-form.jpg)
+*Printer & Paper Stock Check 表格*
 
 ### 打印機狀態
 

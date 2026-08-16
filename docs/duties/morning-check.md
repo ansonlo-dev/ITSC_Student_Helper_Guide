@@ -117,6 +117,9 @@ Confirm it displays correctly.
 Do **not** leave it on **PC Screen Only** or **Second Screen Only**. It should be
 set to **Extend** or **Duplicate**. Check the display setting shown in the
 bottom-right corner.
+
+![The Windows Project menu](/images/windows-project-menu.jpg)
+*`Windows` + `P` — Extend or Duplicate, never the other two*
 :::
 
 ### Microphone sound test
@@ -176,6 +179,11 @@ ITSC can read login records, but only asks for one photo as practical proof.
 
 Open **→ Morning Check ←** from the checklist links page and submit the
 **Morning Check** form. Question 1 is your name, question 2 is the room group.
+
+![The checklist links page with Morning Check highlighted](/images/links-morning-check.jpg)
+
+![The ITSC Morning Check form](/images/morning-check-form.jpg)
+*The Morning Check form*
 
 ::: info Later pages of this form
 The form runs to 4 pages; only the first is documented here. The remaining pages
