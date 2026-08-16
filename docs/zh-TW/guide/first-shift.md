@@ -30,6 +30,7 @@ Computer Lab and Lecture，以及 Hostel B / H / WJY Helper。
 
 - **預訂** —— 前往該日期，然後點擊你想要的職務欄與時間列交界的空白格。
 <iframe src="https://drive.google.com/file/d/11J8WsrhzQzOCJ29Z_XfsRGXLjteWGa6J/preview" width="1920" height="1080" allowfullscreen="true" allow="fullscreen *"></iframe>
+
 - **刪除預訂** —— 在日曆中打開自己的預訂並移除。每次請假都必須自行完成這一步。
 <iframe src="https://drive.google.com/file/d/1O-ExogyRe5WKD05MFXmQosT60HfmDRbs/preview" width="1920" height="1080" allowfullscreen="true" allow="fullscreen *"></iframe>
 
