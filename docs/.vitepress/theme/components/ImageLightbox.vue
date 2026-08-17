@@ -335,6 +335,14 @@ onBeforeUnmount(() => {
   cursor: grabbing;
 }
 
+/* The controls sit above the image, which can be wide enough to reach the
+   edges of the screen. */
+.lightbox__toolbar,
+.lightbox__nav,
+.lightbox__footer {
+  z-index: 1;
+}
+
 .lightbox__toolbar {
   position: absolute;
   top: 0.75rem;

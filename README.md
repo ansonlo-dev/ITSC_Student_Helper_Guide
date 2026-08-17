@@ -84,17 +84,49 @@ locales — only the alt text and caption differ per language. They were extract
 from the orientation deck with `mutool extract`, then resized to 1400px and
 re-encoded as JPEG.
 
-Two screen recordings of the booking system live in `docs/public/videos/`.
-
-::: warning Repository size
-The two MP4s are ~64 MB combined and are committed directly. Re-encoding them
-(H.264, CRF 28) would cut that to a few MB; consider that or Git LFS before the
-repo grows further.
-:::
-
 Images are styled by `docs/.vitepress/theme/custom.css` — a border, rounded
 corners and a height cap, with an italic line directly under an image rendered
 as its caption.
+
+### Screen recordings
+
+The two recordings of the booking system live in `docs/public/videos/`, served
+from the site itself rather than embedded from Google Drive, so they play with
+the browser's own controls and need no sign-in. They are H.264 (CRF 23,
+`+faststart`) at their original resolution — visually identical to the raw
+captures at ~1 MB instead of ~64 MB combined — with a poster frame beside each:
+
+```bash
+ffmpeg -i in.mp4 -c:v libx264 -crf 23 -preset slow -pix_fmt yuv420p \
+  -c:a aac -b:a 64k -ac 1 -movflags +faststart docs/public/videos/mediaN.mp4
+ffmpeg -ss 1 -i docs/public/videos/mediaN.mp4 -frames:v 1 -q:v 4 \
+  docs/public/videos/mediaN-poster.jpg
+```
+
+Embed one with the globally registered component (`preload="none"`, so nothing
+downloads until the reader presses play):
+
+```md
+<VideoPlayer
+  src="/videos/media1.mp4"
+  ratio="1910 / 878"
+  caption="Booking a duty — pick the slot, set start and end, then Save"
+/>
+```
+
+`ratio` is the recording's own `width / height`
+(`ffprobe -show_entries stream=width,height`), which reserves the right box
+before the file loads. `src` is a `docs/public` path — the component applies the
+site `base` itself, which a raw `<video>` tag in Markdown does not.
+
+### Zooming screenshots
+
+`ImageLightbox.vue`, mounted once in `theme/Layout.vue`, opens any image in
+`.vp-doc` full screen on click: wheel, pinch, buttons and double click zoom;
+drag pans; arrow keys step through the other images on the page; `Esc` closes.
+It uses one delegated listener on `document`, so images added by any page or
+component are covered without registration. Opt an image out with
+`data-no-zoom`; images inside links are already excluded.
 
 ## Sources
 
