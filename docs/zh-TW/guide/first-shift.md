@@ -28,47 +28,23 @@
 LU Campus Printer、Computer Lab Helper 1–4、Lecture Room Helper 1–2、
 Computer Lab and Lecture，以及 Hostel B / H / WJY Helper。
 
-<style>
-.video-container {
-  position: relative;
-  width: 100%;
-  height: 0;
-  padding-bottom: 56.25%; /* 16:9 Aspect Ratio */
-  overflow: hidden;
-}
-.video-container iframe {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-}
-</style>
-
 - **預訂** —— 前往該日期，然後點擊你想要的職務欄與時間列交界的空白格。
-<div class="video-container">
-  <iframe src="https://drive.google.com/file/d/11J8WsrhzQzOCJ29Z_XfsRGXLjteWGa6J/preview" allow="autoplay" allowfullscreen></iframe>
-</div>
-
 - **刪除預訂** —— 在日曆中打開自己的預訂並移除。每次請假都必須自行完成這一步。
-<div class="video-container">
-  <iframe src="https://drive.google.com/file/d/1O-ExogyRe5WKD05MFXmQosT60HfmDRbs/preview" allow="autoplay" allowfullscreen></iframe>
-</div>
 
 ![更份預訂日曆](/images/booking-calendar.jpg)
 *每一欄是一個職務時段；點擊空白格即可預訂*
 
-<video controls preload="metadata">
-  <source src="/videos/media1.mp4" type="video/mp4">
-</video>
+<VideoPlayer
+  src="/videos/media1.mp4"
+  ratio="1910 / 878"
+  caption="預訂更份 —— 選時段、設定開始與結束時間、選擇房間，然後按 Save"
+/>
 
-*預訂更份 —— 選時段、設定開始與結束時間、選擇房間，然後按 Save*
-
-<video controls preload="metadata">
-  <source src="/videos/media2.mp4" type="video/mp4">
-</video>
-
-*刪除預訂 —— 打開自己的紀錄並刪除*
+<VideoPlayer
+  src="/videos/media2.mp4"
+  ratio="1912 / 874"
+  caption="刪除預訂 —— 打開自己的紀錄並刪除"
+/>
 
 ## 2. 簽到／簽退
 

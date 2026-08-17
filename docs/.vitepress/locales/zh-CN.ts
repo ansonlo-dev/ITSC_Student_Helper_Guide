@@ -87,5 +87,19 @@ export default {
   'notFound.title': '找不到页面',
   'notFound.quote': '此页已移除或从未存在，请尝试使用搜索功能。',
   'notFound.linkLabel': '返回首页',
-  'notFound.linkText': '返回指南首页'
+  'notFound.linkText': '返回指南首页',
+
+  // =============================================================================
+  // 8. MEDIA - 视频与图片
+  // =============================================================================
+  'video.unsupported': '你的浏览器无法播放这段视频。',
+  'video.download': '改为下载文件。',
+
+  'lightbox.dialog': '图片查看器',
+  'lightbox.zoomIn': '放大',
+  'lightbox.zoomOut': '缩小',
+  'lightbox.reset': '适应屏幕',
+  'lightbox.close': '关闭',
+  'lightbox.previous': '上一张图片',
+  'lightbox.next': '下一张图片'
 }

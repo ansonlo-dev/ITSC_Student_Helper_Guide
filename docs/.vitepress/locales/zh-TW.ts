@@ -87,5 +87,19 @@ export default {
   'notFound.title': '找不到頁面',
   'notFound.quote': '此頁已移除或從未存在，請試用搜尋功能。',
   'notFound.linkLabel': '返回首頁',
-  'notFound.linkText': '返回指南首頁'
+  'notFound.linkText': '返回指南首頁',
+
+  // =============================================================================
+  // 8. MEDIA - 影片與圖片
+  // =============================================================================
+  'video.unsupported': '你的瀏覽器無法播放這段影片。',
+  'video.download': '改為下載檔案。',
+
+  'lightbox.dialog': '圖片檢視器',
+  'lightbox.zoomIn': '放大',
+  'lightbox.zoomOut': '縮小',
+  'lightbox.reset': '符合畫面大小',
+  'lightbox.close': '關閉',
+  'lightbox.previous': '上一張圖片',
+  'lightbox.next': '下一張圖片'
 }

@@ -34,20 +34,14 @@
   max-width: 100%;
 }
 
-/* Screen recordings of the booking system, framed like the screenshots. */
-.vp-doc video {
-  display: block;
-  max-width: 100%;
-  margin: 1.25rem auto;
-  border: 1px solid var(--vp-c-divider);
-  border-radius: 8px;
-  background: var(--vp-c-bg-soft);
+/* Every screenshot opens in the full-screen viewer (`ImageLightbox.vue`), so
+   advertise that with the cursor. Images inside links keep their own cursor. */
+.vp-doc img:not(a img):not([data-no-zoom]) {
+  cursor: zoom-in;
 }
 
-.vp-doc video + p > em {
-  display: block;
-  margin-top: -0.5rem;
-  text-align: center;
-  font-size: 0.85em;
-  color: var(--vp-c-text-2);
+/* The page must not scroll behind the open viewer. */
+html.lightbox-open,
+html.lightbox-open body {
+  overflow: hidden;
 }

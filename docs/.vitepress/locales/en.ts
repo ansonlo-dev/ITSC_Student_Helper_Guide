@@ -88,5 +88,19 @@ export default {
   'notFound.title': 'PAGE NOT FOUND',
   'notFound.quote': 'This page has moved or never existed. Try the search box.',
   'notFound.linkLabel': 'Go to home',
-  'notFound.linkText': 'Back to guide'
+  'notFound.linkText': 'Back to guide',
+
+  // =============================================================================
+  // 8. MEDIA - 影片與圖片
+  // =============================================================================
+  'video.unsupported': 'Your browser cannot play this video.',
+  'video.download': 'Download the file instead.',
+
+  'lightbox.dialog': 'Image viewer',
+  'lightbox.zoomIn': 'Zoom in',
+  'lightbox.zoomOut': 'Zoom out',
+  'lightbox.reset': 'Fit to screen',
+  'lightbox.close': 'Close',
+  'lightbox.previous': 'Previous image',
+  'lightbox.next': 'Next image'
 }
