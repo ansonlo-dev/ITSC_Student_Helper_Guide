@@ -12,6 +12,9 @@
 | **四** | LCH113、LCH115、LCH201、LCH202、LCH206、LCH209、LCH213、LCH319AB、LCH319CD | LYH201/1、LYH201/2、LYH308、LYH309、LYH310、LYH316、LYH317、LYH319、LYH320 |
 | **五** | Sin Chow Ming、LCHUG14、LCH411、LCH413、LCH416、LYH111、LYH112、陈德泰大会堂 | SEKG03、SEKG09、SEK104、SEK106、SEK107、SEK108、SEK205、SEK206 |
 
+![教室每周轮值表](/images/lecture-room-rota.jpg)
+*张贴版本的每周轮值表*
+
 ::: tip 进入房间
 若无法进入某房间，请找职员开通权限（grant access）—— 不要就这样略过不做。
 :::
@@ -20,6 +23,11 @@
 
 **Lecture Room Checklist (ITSC Student Helper)**，从 **→ Lecture Room Check ←**
 开启。共两页、26 题。
+
+![检查表连结页，Lecture Room Check 已标示](/images/links-lecture-room.jpg)
+
+![Lecture Room Checklist 表格](/images/lecture-room-form.jpg)
+*Lecture Room Checklist*
 
 请参考表格顶部连结的 **Classroom Equipment List** 电子表格 —— 它列明每间房间
 应有的设备。

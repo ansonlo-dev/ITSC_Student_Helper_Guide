@@ -3,6 +3,9 @@
 欢迎加入岭南大学 ITSC 学生助理团队。本网站是学生助理迎新简介的文字版：团队的
 工作范围、各项职务的执行方法，以及遇到超出职权范围的情况时应该联系谁。
 
+![岭南大学校园](/images/campus.jpg)
+*岭南大学*
+
 ## 我们的工作
 
 学生助理支援 **SUS（System & User Service，系统及用户服务）**。工作分为两大部分：
@@ -34,6 +37,12 @@
 - **Microsoft Teams —“ITSC Student Helpers”** —— 检查表及参考文件，按频道
   分类：General、1 Morning Check、2a Printer Check、2b Paper Stock、
   3 Computer Lab Check、4 Lecture Room Check，以及 Hostel Clinic Checklist。
+
+![ITSC Student Helpers WhatsApp 群组](/images/whatsapp-group.jpg)
+*WhatsApp 群组 —— 日常信息与请假*
+
+![Teams 频道与文件](/images/teams-channels.jpg)
+*Teams —— 检查表与参考文件存放处*
 
 ## 如何使用本指南
 

@@ -16,6 +16,9 @@ ITSC 在服务柜台外借视听及电脑器材 —— 包括流动扩音系统�
 
 在你独自处理之前，请要求同事示范一次外借程序。
 
+![ITSC 储藏室](/images/store-room.jpg)
+*MB402/4 —— ITSC 储藏室*
+
 ## 器材外借系统（SUS IMS）
 
 系统设有以下分页：
@@ -31,6 +34,9 @@ ITSC 在服务柜台外借视听及电脑器材 —— 包括流动扩音系统�
 Booking Listing 右方面板显示每项物品的 **Total** 及 **Available** 数量 —— 向
 用户承诺之前，先查看这里。
 
+![器材外借系统的预约清单](/images/loan-booking-listing.jpg)
+*Booking Listing —— 右方显示每项物品的总数与可借数量*
+
 ### 预约纪录包含
 
 - Booking ID、借用期（from／to）
@@ -42,6 +48,9 @@ Booking Listing 右方面板显示每项物品的 **Total** 及 **Available** �
 
 底部的操作按钮：**Save Booking**、**Close Booking**、**Check-Out**、
 **Send Summary Email**、**Exit**。
+
+![外借系统中的预约纪录](/images/loan-booking-record.jpg)
+*一笔预约纪录*
 
 ## 借出流程
 
@@ -61,6 +70,9 @@ Booking Listing 右方面板显示每项物品的 **Total** 及 **Available** �
 ::: warning 无线简报器：借出与归还都要成对
 曾经有无线简报器归还时，其细小的 USB 接收器不见了。简报器与接收器必须**一同**
 借出及归还 —— 每一次都要检查接收器是否在。
+
+![无线简报器及其 USB 接收器](/images/wireless-presenter.jpg)
+*接收器夹在简报器内 —— 每次都要确认它在*
 :::
 
 发现任何损坏或缺件，须立即上报，不要留给下一位借用人。外借联系人：

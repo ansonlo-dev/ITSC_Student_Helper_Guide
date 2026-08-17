@@ -77,6 +77,25 @@ map in the script is a starting point, not a substitute for a read-through.
 English but absent from another language. Missing keys fall back to English
 rather than breaking the build.
 
+## Media
+
+Screenshots and photos live in `docs/public/images/` and are shared by all three
+locales — only the alt text and caption differ per language. They were extracted
+from the orientation deck with `mutool extract`, then resized to 1400px and
+re-encoded as JPEG.
+
+Two screen recordings of the booking system live in `docs/public/videos/`.
+
+::: warning Repository size
+The two MP4s are ~64 MB combined and are committed directly. Re-encoding them
+(H.264, CRF 28) would cut that to a few MB; consider that or Git LFS before the
+repo grows further.
+:::
+
+Images are styled by `docs/.vitepress/theme/custom.css` — a border, rounded
+corners and a height cap, with an italic line directly under an image rendered
+as its caption.
+
 ## Sources
 
 Everything on the site is derived from the originals kept in `ref/`:

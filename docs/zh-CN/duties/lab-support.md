@@ -21,6 +21,11 @@
 负责 SEKG03 No.21-45、LBY303 Teacher PC No.01-24、LCH206A No.01-24 等房间 ——
 请查看预订日历确认当晚的分配。
 
+![电脑室助理每周分工表](/images/lab-rota.jpg)
+
+![预订日历上的电脑室时段](/images/lab-booking-calendar.jpg)
+*分工表，以及预订日历上的同一批时段*
+
 ## XClass
 
 需要登入超过 20 部电脑的电脑室都装有 **XClass**，可以一次过检查整个电脑室。
@@ -52,6 +57,11 @@ XClass 的房间就要逐台处理；用 `Alt`+`F4` 再按 `Enter` 是最快的�
 ## 表格
 
 **Computer Lab Checklist**，从 **→ Computer Lab Check ←** 开启。
+
+![检查表连结页，Computer Lab Check 已标示](/images/links-lab-check.jpg)
+
+![Computer Lab Checklist 表格](/images/lab-checklist-form.jpg)
+*Computer Lab Checklist*
 
 检查表有两个版本 —— **有**桌面玻璃隔板的电脑室，以及**没有**的 —— 因为有隔板
 的房间多几个项目。以下是“没有隔板”的版本。
@@ -150,7 +160,7 @@ Machine Name - Issue
 2. **系统内置的 Windows Camera App。**
 
 ::: warning LKKG0X —— 只能用 Zoom
-LKKG0X 无法在系统 Camera App 更改镜头设置，这两间房必须用 Zoom 检查。
+LKKG0X 无法在系统 Camera App 更改镜头设置，这些房间必须用 Zoom 检查。
 :::
 
 最常见的误报，是有人把**镜头盖**关上或把镜头拨开，令画面全黑。上报之前先检查

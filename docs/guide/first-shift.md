@@ -60,6 +60,18 @@ Helper 1–2, Computer Lab and Lecture, and Hostel B / H / WJY Helper.
 ![The duty booking calendar](/images/booking-calendar.jpg)
 *Each column is a duty slot; click an empty cell to book it*
 
+<video controls preload="metadata">
+  <source src="/videos/media1.mp4" type="video/mp4">
+</video>
+
+*Booking a duty — pick the slot, set start and end, choose the room, then Save*
+
+<video controls preload="metadata">
+  <source src="/videos/media2.mp4" type="video/mp4">
+</video>
+
+*Deleting a booking — open your own entry and delete it*
+
 ## 2. Sign in / Sign out
 
 **[ics.ln.edu.hk/helper](https://ics.ln.edu.hk/helper)**

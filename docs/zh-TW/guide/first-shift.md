@@ -58,6 +58,18 @@ Computer Lab and Lecture，以及 Hostel B / H / WJY Helper。
 ![更份預訂日曆](/images/booking-calendar.jpg)
 *每一欄是一個職務時段；點擊空白格即可預訂*
 
+<video controls preload="metadata">
+  <source src="/videos/media1.mp4" type="video/mp4">
+</video>
+
+*預訂更份 —— 選時段、設定開始與結束時間、選擇房間，然後按 Save*
+
+<video controls preload="metadata">
+  <source src="/videos/media2.mp4" type="video/mp4">
+</video>
+
+*刪除預訂 —— 打開自己的紀錄並刪除*
+
 ## 2. 簽到／簽退
 
 **[ics.ln.edu.hk/helper](https://ics.ln.edu.hk/helper)**

@@ -54,6 +54,9 @@
 值班期间必须佩戴 ITSC Student Helper 工作证。用户需要知道你的身份，职员亦需要
 知道你有权出现在该处。
 
+![ITSC Student Helper 工作证及颈绳](/images/badge.jpg)
+*ITSC Student Helper 工作证*
+
 ## 请假
 
 若无法出席已预订的班次：
@@ -74,10 +77,16 @@
 两个步骤缺一不可 —— 只发信息并不会释放该班次。而且要尽早发出；太迟的请假信息
 造成的困扰，与不发信息相差无几。
 
+![WhatsApp 群组中的请假信息](/images/whatsapp-leave.jpg)
+*群组中的请假信息*
+
 ## 接手他人的班次
 
 1. **在 WhatsApp 群组回复**（例如“i can take”）。
 2. **在 [luhelperduty.online](https://luhelperduty.online) 预订该班次纪录。**
+
+![回复接手班次](/images/whatsapp-cover.jpg)
+*在群组回复，然后自行预订该班次*
 
 ## 柜台整洁
 
@@ -86,6 +95,9 @@
 - 坐过的椅子要推回原位。
 - 工作证放回抽屉柜。
 - 柜台工作站及电话保持你到达时的状态。
+
+![柜台的工作证抽屉](/images/badge-drawer.jpg)
+*工作证要放回抽屉柜，不要带走*
 
 ## 检查完离开房间之前
 

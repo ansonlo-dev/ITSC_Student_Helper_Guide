@@ -160,7 +160,7 @@ Machine Name - Issue
 2. **系統內置的 Windows Camera App。**
 
 ::: warning LKKG0X —— 只能用 Zoom
-LKKG0X 無法在系統 Camera App 更改鏡頭設定，這兩間房必須用 Zoom 檢查。
+LKKG0X 無法在系統 Camera App 更改鏡頭設定，這些房間必須用 Zoom 檢查。
 :::
 
 最常見的誤報，是有人把**鏡頭蓋**關上或把鏡頭撥開，令畫面全黑。呈報之前先檢查

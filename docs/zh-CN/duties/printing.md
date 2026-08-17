@@ -18,6 +18,13 @@
 | **LCH206A** | 彩色打印机 + **1** 部黑白打印机 |
 | **MB202** | 黑白复印机 —— **17:00 关闭** |
 
+![SEKG02 的打印机](/images/printers-sekg02.jpg)
+
+![语言实验室 LCH213 的打印机](/images/printer-lch213.jpg)
+
+![MB202 黑白复印机](/images/printer-mb202.jpg)
+*SEKG02、LCH213 及 MB202*
+
 ## Ricoh 打印机钥匙
 
 以下情况需要用到钥匙：
@@ -25,6 +32,9 @@
 1. 清除**卡纸**
 2. **八达通卡卡住**在读卡器内
 3. **补充纸张**
+
+![Ricoh 打印机钥匙](/images/printer-key.jpg)
+*Ricoh 打印机钥匙 —— 用完放回原处*
 
 ::: warning 锁好并归还钥匙
 完成后要重新锁好打印机，并把钥匙归还到**你取用的位置**。表格会检查钥匙是否
@@ -38,6 +48,9 @@
   不会显示真实的剩余纸量。
 - **Machine Information 画面** —— 以百分比区间显示 K / C / M / Y 碳粉存量，
   以及 Tray 1、Tray 2、Tray 3 及 Bypass Tray 的纸张存量与纸张尺寸。
+
+![Machine Information 画面](/images/printer-machine-info.jpg)
+*Machine Information —— 碳粉区间与各纸盒存量*
 
 ## 何时补充耗材
 
@@ -59,6 +72,11 @@
 
 **Printer & Paper Stock Check**，从
 **→ Printer Check & Paper Stock Check ←** 开启。
+
+![检查表连结页，Printer Check 已标示](/images/links-printer-check.jpg)
+
+![Printer & Paper Stock Check 表格](/images/printer-check-form.jpg)
+*Printer & Paper Stock Check 表格*
 
 ### 打印机状态
 

@@ -55,6 +55,21 @@ Computer Lab and Lecture，以及 Hostel B / H / WJY Helper。
   <iframe src="https://drive.google.com/file/d/1O-ExogyRe5WKD05MFXmQosT60HfmDRbs/preview" allow="autoplay" allowfullscreen></iframe>
 </div>
 
+![班次预订日历](/images/booking-calendar.jpg)
+*每一栏是一个职务时段；点击空白格即可预订*
+
+<video controls preload="metadata">
+  <source src="/videos/media1.mp4" type="video/mp4">
+</video>
+
+*预订班次 —— 选时段、设置开始与结束时间、选择房间，然后按 Save*
+
+<video controls preload="metadata">
+  <source src="/videos/media2.mp4" type="video/mp4">
+</video>
+
+*删除预订 —— 打开自己的纪录并删除*
+
 ## 2. 签到／签退
 
 **[ics.ln.edu.hk/helper](https://ics.ln.edu.hk/helper)**
@@ -67,10 +82,20 @@ Computer Lab and Lecture，以及 Hostel B / H / WJY Helper。
 登入后选择 **Helper Sign in/out**，再选 **User Service Helper** 或
 **Hostel Clinic Helper**，然后按 **Sign In (Desktop/AV)**。
 
+![签到／签退登入页](/images/signin-login.jpg)
+
+![Helper Sign in/out 选单](/images/signin-menu.jpg)
+*选择 User Service Helper 或 Hostel Clinic Helper*
+
 页面会显示你目前的位置、系统日期时间、用户状态，以及最近 20 次的签到／签退纪录。
+
+![显示状态与近期纪录的签到页](/images/signin-page.jpg)
+*你的状态与最近 20 次纪录*
 
 ::: tip 只有已订班的助理才能签到
 如果你当天没有预订，页面会显示“No Booking Records Today”，你将无法签到。
+
+![No Booking Records Today](/images/signin-no-booking.jpg)
 :::
 
 ### 可供签到的房间
@@ -80,6 +105,9 @@ LCH204、LCH206、LCH206A、LCH209、LCH213、LCH413。
 
 **教室：** 完整名单涵盖 SEK、MB、LBY、LKK、WYL、LCH 及 LYH 各座，以及陈德泰大会堂
 （AUD01）—— 详见签到页的“Available Sign in Classroom List”。
+
+![可供签到的教室清单](/images/signin-classroom-list.jpg)
+*签到页上的 Available Sign in Classroom List*
 
 ## 3–4. 执行职务并提交结果
 
@@ -92,8 +120,14 @@ LCH204、LCH206、LCH206A、LCH209、LCH213、LCH413。
 > **Missing the following work reports:**
 > \*\*\* Printer Check \*\*\* (expected: 1, actual: 0)
 
+![因未提交报告而无法签退](/images/signout-blocked.jpg)
+*未提交检查结果就无法签退*
+
 提交结果之后，页面会显示 **Duty Completed**，
 **Sign Out (Desktop/AV)** 按钮便会可用。
+
+![Duty Completed 与可用的签退按钮](/images/signout-completed.jpg)
+*Duty Completed —— 现在可以签退*
 
 ## 出错时怎么办
 
@@ -110,5 +144,8 @@ LCH204、LCH206、LCH206A、LCH209、LCH213、LCH413。
 | Correct Time | 应该的正确时间 |
 | Type | User service／Counter／Hostel Clinic／others |
 | Status | 由主管在调整后填写 |
+
+![Abnormal sign in+out 电子表格](/images/abnormal-signin-sheet.jpg)
+*“Abnormal sign in+out”工作簿，每月一个工作表*
 
 另外，凡是提早、迟到或超时**超过 15 分钟**，都必须通知主管。
