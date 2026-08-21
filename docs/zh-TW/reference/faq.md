@@ -4,7 +4,7 @@
 
 ### 我怎樣取得更份？
 
-自行到 [luhelperduty.online](https://luhelperduty.online) 預訂。沒有人會替你
+自行到 [helperduty.top](https://helperduty.top) 預訂。沒有人會替你
 分配更份。
 
 ### 我可以工作多少小時？

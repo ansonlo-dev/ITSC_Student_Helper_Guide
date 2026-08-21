@@ -4,7 +4,7 @@
 
 ## 工作流程
 
-1. **自行预订班次** —— [luhelperduty.online](https://luhelperduty.online)
+1. **自行预订班次** —— [helperduty.top](https://helperduty.top)
 2. **值班时签到** —— [ics.ln.edu.hk/helper](https://ics.ln.edu.hk/helper)
 3. **执行职务** —— 柜台、打印机检查、电脑室检查等
 4. **提交检查结果** —— 该项职务对应的 Microsoft Forms 检查表
@@ -17,7 +17,7 @@
 
 ## 1. 班次预订系统
 
-**[luhelperduty.online](https://luhelperduty.online)**
+**[helperduty.top](https://helperduty.top)**
 
 | 栏位 | 内容 |
 | --- | --- |

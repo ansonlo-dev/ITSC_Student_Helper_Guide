@@ -4,7 +4,7 @@
 
 | 系统 | 网址 | 用户名称 | 密码 |
 | --- | --- | --- | --- |
-| **班次预订系统** | [luhelperduty.online](https://luhelperduty.online) | 你的 CNA | 你的**学号** |
+| **班次预订系统** | [helperduty.top](https://helperduty.top) | 你的 CNA | 你的**学号** |
 | **签到／签退** | [ics.ln.edu.hk/helper](https://ics.ln.edu.hk/helper) | 你的 CNA | 你的 **LU 密码** |
 
 ::: warning 两个系统，两个不同密码

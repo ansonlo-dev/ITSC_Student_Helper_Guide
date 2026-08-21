@@ -4,7 +4,7 @@
 
 ### How do I get a shift?
 
-Reserve it yourself on [luhelperduty.online](https://luhelperduty.online).
+Reserve it yourself on [helperduty.top](https://helperduty.top).
 Nobody assigns shifts to you.
 
 ### How many hours can I work?

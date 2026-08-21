@@ -4,7 +4,7 @@
 
 | 系統 | 網址 | 用戶名稱 | 密碼 |
 | --- | --- | --- | --- |
-| **更份預訂系統** | [luhelperduty.online](https://luhelperduty.online) | 你的 CNA | 你的**學生編號** |
+| **更份預訂系統** | [helperduty.top](https://helperduty.top) | 你的 CNA | 你的**學生編號** |
 | **簽到／簽退** | [ics.ln.edu.hk/helper](https://ics.ln.edu.hk/helper) | 你的 CNA | 你的 **LU 密碼** |
 
 ::: warning 兩個系統，兩個不同密碼

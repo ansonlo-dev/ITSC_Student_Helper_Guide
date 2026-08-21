@@ -4,7 +4,7 @@
 
 | System | Address | Username | Password |
 | --- | --- | --- | --- |
-| **Duty Booking System** | [luhelperduty.online](https://luhelperduty.online) | Your CNA | Your **Student ID** |
+| **Duty Booking System** | [helperduty.top](https://helperduty.top) | Your CNA | Your **Student ID** |
 | **Sign in / Sign out** | [ics.ln.edu.hk/helper](https://ics.ln.edu.hk/helper) | Your CNA | Your **LU password** |
 
 ::: warning Two systems, two different passwords

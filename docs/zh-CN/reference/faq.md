@@ -4,7 +4,7 @@
 
 ### 我怎样取得班次？
 
-自行到 [luhelperduty.online](https://luhelperduty.online) 预订。没有人会替你
+自行到 [helperduty.top](https://helperduty.top) 预订。没有人会替你
 分配班次。
 
 ### 我可以工作多少小时？

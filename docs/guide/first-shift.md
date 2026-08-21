@@ -4,7 +4,7 @@ Every duty follows the same five steps, whatever you are rostered on.
 
 ## The work flow
 
-1. **Reserve the duty yourself** — [luhelperduty.online](https://luhelperduty.online)
+1. **Reserve the duty yourself** — [helperduty.top](https://helperduty.top)
 2. **Sign in when you are on duty** — [ics.ln.edu.hk/helper](https://ics.ln.edu.hk/helper)
 3. **Perform the duty** — counter, printer check, lab check, etc.
 4. **Submit the checking result** — the Microsoft Forms checklist for that duty
@@ -17,7 +17,7 @@ having submitted the checking result. Skipping step 1 or step 4 will block you.
 
 ## 1. Duty Booking System
 
-**[luhelperduty.online](https://luhelperduty.online)**
+**[helperduty.top](https://helperduty.top)**
 
 | Field | Value |
 | --- | --- |

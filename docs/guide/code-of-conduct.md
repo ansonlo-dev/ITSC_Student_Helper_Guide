@@ -77,7 +77,7 @@ If you cannot make a booked shift:
    ```
 
 2. **Remove your duty record** from
-   [luhelperduty.online](https://luhelperduty.online) yourself.
+   [helperduty.top](https://helperduty.top) yourself.
 
 Both steps are required — the message alone does not free the slot. Send it as
 early as you can; a late leave message is nearly as disruptive as no message.
@@ -89,7 +89,7 @@ early as you can; a late leave message is nearly as disruptive as no message.
 
 1. **Reply in the WhatsApp group** (e.g. "i can take").
 2. **Reserve the duty record** on
-   [luhelperduty.online](https://luhelperduty.online).
+   [helperduty.top](https://helperduty.top).
 
 ![Replying to take a shift](/images/whatsapp-cover.jpg)
 *Reply in the group, then reserve the slot yourself*

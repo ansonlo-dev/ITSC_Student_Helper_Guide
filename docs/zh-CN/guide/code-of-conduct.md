@@ -72,7 +72,7 @@
    Reason: sickness
    ```
 
-2. **自行从 [luhelperduty.online](https://luhelperduty.online) 移除你的班次纪录。**
+2. **自行从 [helperduty.top](https://helperduty.top) 移除你的班次纪录。**
 
 两个步骤缺一不可 —— 只发信息并不会释放该班次。而且要尽早发出；太迟的请假信息
 造成的困扰，与不发信息相差无几。
@@ -83,7 +83,7 @@
 ## 接手他人的班次
 
 1. **在 WhatsApp 群组回复**（例如“i can take”）。
-2. **在 [luhelperduty.online](https://luhelperduty.online) 预订该班次纪录。**
+2. **在 [helperduty.top](https://helperduty.top) 预订该班次纪录。**
 
 ![回复接手班次](/images/whatsapp-cover.jpg)
 *在群组回复，然后自行预订该班次*

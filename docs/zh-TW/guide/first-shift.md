@@ -4,7 +4,7 @@
 
 ## 工作流程
 
-1. **自行預訂更份** —— [luhelperduty.online](https://luhelperduty.online)
+1. **自行預訂更份** —— [helperduty.top](https://helperduty.top)
 2. **當值時簽到** —— [ics.ln.edu.hk/helper](https://ics.ln.edu.hk/helper)
 3. **執行職務** —— 櫃檯、打印機檢查、電腦室檢查等
 4. **提交檢查結果** —— 該項職務對應的 Microsoft Forms 檢查表
@@ -17,7 +17,7 @@
 
 ## 1. 更份預訂系統
 
-**[luhelperduty.online](https://luhelperduty.online)**
+**[helperduty.top](https://helperduty.top)**
 
 | 欄位 | 內容 |
 | --- | --- |

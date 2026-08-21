@@ -72,7 +72,7 @@
    Reason: sickness
    ```
 
-2. **自行從 [luhelperduty.online](https://luhelperduty.online) 移除你的更份紀錄。**
+2. **自行從 [helperduty.top](https://helperduty.top) 移除你的更份紀錄。**
 
 兩個步驟缺一不可 —— 只發訊息並不會釋放該更份。而且要盡早發出；太遲的請假訊息
 造成的困擾，與不發訊息相差無幾。
@@ -83,7 +83,7 @@
 ## 接手他人的更份
 
 1. **在 WhatsApp 群組回覆**（例如「i can take」）。
-2. **在 [luhelperduty.online](https://luhelperduty.online) 預訂該更份紀錄。**
+2. **在 [helperduty.top](https://helperduty.top) 預訂該更份紀錄。**
 
 ![回覆接手更份](/images/whatsapp-cover.jpg)
 *在群組回覆，然後自行預訂該更份*
