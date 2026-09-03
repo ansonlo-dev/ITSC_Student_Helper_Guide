@@ -12,6 +12,10 @@
 | Normal | Mon – Fri, 8:30 am – 6:30 pm |
 | Exam / Term Break | Mon – Fri, 9:00 am – 5:30 pm |
 
+**Closed on Saturdays, Sundays and public holidays.** Helpers sit **behind the
+ITC counter, next to the full-time staff** — which is why escalating an enquiry
+is usually a matter of turning to the person beside you.
+
 ## What the duty covers
 
 1. Handle user enquiries via **phone call or walk-in**
@@ -20,6 +24,14 @@
 
 Typical enquiry topics: service hotline, user account, on loan, network, 2FA,
 and other ad-hoc issues.
+
+::: tip Most enquiries are two topics
+**80% to 90% of basic user enquiries are about LUVPN and Duo two-factor
+authentication (2FA).** Learn those two first. The knowledge-base links on the
+counter useful-links page walk a user through **Duo 2FA re-activation** (a lost
+or new phone) and **LUVPN configuration in mainland China and overseas** — see
+[Account & 2FA Enquiries](/duties/accounts).
+:::
 
 ![The counter workstation](/images/counter-workstation.jpg)
 *The counter workstation — two screens and the hotline phone*
@@ -38,6 +50,22 @@ The hotline runs on **Cisco Finesse**.
 *Cisco Finesse — username and extension are the same number*
 
 ### Taking a call
+
+Introduce yourself professionally:
+
+> "Good morning, ITC, my name is [Name], how may I help you?"
+
+Listen attentively, keep an appropriate speaking speed and a polite tone, and
+practise **synthesising a long, complicated description into a concise, clear,
+actionable summary** — that summary is what goes on the form and what you hand
+to the duty staff.
+
+::: danger The Golden Rule — never guess
+**Never guess, and never give a user unverified or made-up information.** If you
+do not know the answer, stay calm and write down the user's **name,
+student/staff ID, location and contact number**, then pass the details to the
+full-time staff member sitting right next to you.
+:::
 
 Before you start troubleshooting, get the details you will need for the form:
 **name, email, ID, extension or phone number, department and location**. You
@@ -59,7 +87,9 @@ the counter or logged for follow-up. Say which it is when you pass it on.
 ![The voicemail sign in screen](/images/voicemail-login.jpg)
 *The hotline voice mail login*
 
-Check messages during your shift and log anything actionable on the enquiry form.
+Check messages during your shift, and **retrieve the recordings left outside
+operating hours**. Log each one as a standard incident ticket on the enquiry
+form, exactly as you would a live call.
 
 ::: danger Shared credentials
 The hotline and voicemail logins above are shared team credentials. Do not share
@@ -143,12 +173,23 @@ the M+ AM/PM and **Lunch Standby Roster** (12:30–14:00, Lunch Mobile 1 and 2).
 
 ## Equipment loan at the counter
 
+- **Check eligibility first** — only **current staff and active students** may
+  borrow. **Alumni are strictly not eligible.**
+- **Scan the equipment's QR code**, or type its label number into the database,
+  then click **Save Booking** to log the transaction.
 - **Always press Check-Out** in the system — the loan is not recorded otherwise.
 - **Check equipment on return**, item by item: does the wireless presenter still
   have its USB receiver, does the notebook power on, are all accessories back?
 - Know **what each item looks like and where it is stored**, and which
   **microphone type** the user needs.
 - Use the **barcode reader** rather than typing item numbers.
+
+::: danger Test it in front of the borrower
+For all electronic loan equipment — laptops, projectors, TV monitors — **power it
+on and verify that it works in front of the borrower before they walk away with
+it.** This is what stops a damaged item coming back with "it was already broken
+when I borrowed it".
+:::
 
 Full procedure on [Equipment on Loan](/duties/av-equipment).
 
@@ -198,6 +239,13 @@ Before you sign out, submit the **Counter Checklist** form
 
 ![The Counter Checklist form](/images/counter-checklist.jpg)
 *The Counter Checklist*
+
+::: warning Nothing sensitive left on the counter
+Keep the counter clean and professional at handover. **No personal documents and
+no sensitive information may be left exposed** — not on the desk, not on screen.
+Confirm the printer keys and the backup badges are back in the cabinet before you
+sign out; that is what questions 4 and 5 are for.
+:::
 
 Questions 2 and 3 are checked on the counter machine — MB402 has SDL installed.
 Questions 4 and 5 are the same key and badge counted on the

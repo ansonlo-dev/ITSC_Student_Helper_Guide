@@ -12,6 +12,17 @@ The booking system uses your **Student ID**; the sign-in system uses your **LU
 password**. Mixing them up is the most common login failure.
 :::
 
+| System | Where it works from |
+| --- | --- |
+| **Duty Booking System** | Campus Wi-Fi only, or **LUVPN** from off campus |
+| **Sign in / Sign out** | On campus, on the campus network — hostel helpers go to the nearest classroom block |
+
+::: danger The booking system stays inside the team
+It is a **private, standalone database**, not linked to the main LU systems.
+**Do not disclose that it exists to other university departments** (OSA, for
+example).
+:::
+
 ## Counter phone systems
 
 | System | Username | Password |

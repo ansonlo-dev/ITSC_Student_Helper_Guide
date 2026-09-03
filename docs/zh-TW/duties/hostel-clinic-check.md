@@ -6,6 +6,12 @@ Hostel WJY**。每座宿舍一位助理。
 此職務是宿舍網絡檢查 —— 在宿舍內實地量度校園網絡是否真的可用：Wi-Fi 連接、
 多個地區網站的連通性、LU 服務、延遲及頻寬。
 
+::: info 只限住在該宿舍的助理
+此職務**只限住在 Hall B、Hall H 或 WJY 宿舍的助理**擔任，屬**三小時更**，並且
+直接**在你自己的房間內**進行檢查：連接 **LU／LU1** Wi-Fi、做速度測試、確認對
+Google 的 ping 穩定，並在一更之內**提交兩次**宿舍檢查表格。
+:::
+
 ::: warning 每更提交兩次
 檢查結果須於**晚上 8:30** 及**晚上 10:00** 各提交一次 —— 是兩次，不是一次。
 表格本身亦註明：*「The test shall be carried out at 8:30pm.」*
@@ -42,6 +48,7 @@ Hostel WJY**。每座宿舍一位助理。
 | 5 | **WiFi Connection (LU-Advanced)** |
 
 兩個網絡都必須測試 —— 它們是不同的 SSID，其中一個可以壞而另一個正常。
+ITSC 指引稱之為 **LU／LU1**；表格上則寫作 LU 及 LU-Advanced。
 
 ### 網站瀏覽 —— Can Access／Cannot Access
 

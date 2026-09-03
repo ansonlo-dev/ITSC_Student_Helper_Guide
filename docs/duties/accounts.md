@@ -9,6 +9,22 @@ permissions. Those are staff actions. Your job is to point the user at the right
 self-service page, log the enquiry, and hand anything else to the duty staff.
 :::
 
+## Two topics cover most of the work
+
+**80% to 90% of basic user enquiries are about LUVPN and Duo two-factor
+authentication (2FA).** Both have a pre-defined knowledge base (KB) behind the
+counter useful-links page — use it rather than improvising an answer.
+
+| Enquiry | The KB link to open |
+| --- | --- |
+| **Duo 2FA re-activation** — lost phone, new phone | **Re-activated DUO** |
+| **LUVPN configuration in mainland China or overseas** | **VPN General Information** |
+| Password, account activation, other account questions | **Selfservice – Account related** |
+| Wi-Fi and campus network access | **Wireless User Guide** |
+
+Walk the user through the page step by step, with the keyboard in *their* hands.
+You are reading the instructions with them, not doing it for them.
+
 ## Never handle credentials
 
 - Never ask for, accept, or write down a user's password.

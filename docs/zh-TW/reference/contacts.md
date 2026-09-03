@@ -2,13 +2,27 @@
 
 ## 學生助理團隊
 
-| 姓名 | 職位 | 電郵 | 內線 |
-| --- | --- | --- | --- |
-| HUI Felix | Team Leader | felixhui@ln.edu.hk | 2616-8407 |
-| Paul Leung | Student Helper Admin | paulleung@ln.edu.hk | 2616-7393 |
-| LAU Daniel | Team Manager | laumf@ln.edu.hk | 2616-7585 |
-| Anson | Senior Student Helper（現場問題核實） | chikonglo@ln.hk | — |
-| Jason | Senior Student Helper（文件記錄） | yuxiangyin@ln.hk | — |
+| 姓名 | 職位 | 主要負責範圍 | 電郵 | 內線 |
+| --- | --- | --- | --- | --- |
+| HUI Felix | Team Leader | 統籌課室維護工作及學生助理協調 | felixhui@ln.edu.hk | 2616-8407 |
+| Paul Leung | Student Helper Admin | 計劃負責人 —— 臨時活動、工時上限豁免、薪酬審批 | paulleung@ln.edu.hk | 2616-7393 |
+| LAU Daniel | Team Manager | 統籌課室維護工作及學生助理協調 | laumf@ln.edu.hk | 2616-7585 |
+| Anson | Senior Student Helper（現場問題核實） | 以抽樣方式核實及覆核已提交的報告 | chikonglo@ln.hk | — |
+| Jason | Senior Student Helper（文件記錄） | 管理整體更表、出勤，以及當值簽到／簽退記錄 | yuxiangyin@ln.hk | — |
+| Counter Team | ITSC 服務櫃檯職員 | 坐在你旁邊的全職職員 —— 日常轉介及薪酬查詢 | — | — |
+
+## 應該用哪一個渠道
+
+| 事項 | 應該找誰 |
+| --- | --- |
+| 日常公佈、緊急報告、請假 | **WhatsApp 群組** |
+| 薪酬、工時爭議、換更 | 櫃檯**坐在你旁邊**的 ITSC 全職職員，或直接聯絡 **Jason** |
+| 當值期間任何不確定的事 | 先找**當值職員**，然後才找其他人 |
+
+::: danger 不要越級聯絡
+**不要聯絡部門架構圖上的高層 IT 總監或經理。** 他們不在學生助理的匯報線之內，
+由那裡開始只會拖慢答覆。
+:::
 
 ## 按問題類別
 

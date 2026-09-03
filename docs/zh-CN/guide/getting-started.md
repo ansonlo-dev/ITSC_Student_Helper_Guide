@@ -21,13 +21,14 @@
 
 ## 学生助理团队
 
-| 姓名 | 职位 | 电子邮件 | 分机 |
-| --- | --- | --- | --- |
-| HUI Felix | Team Leader | felixhui@ln.edu.hk | 2616-8407 |
-| Paul Leung | Student Helper Admin | paulleung@ln.edu.hk | 2616-7393 |
-| LAU Daniel | Team Manager | laumf@ln.edu.hk | 2616-7585 |
-| Anson | Senior Student Helper（现场问题核实） | chikonglo@ln.hk | — |
-| Jason | Senior Student Helper（文件记录） | yuxiangyin@ln.hk | — |
+| 姓名 | 职位 | 主要负责范围 | 电子邮件 | 分机 |
+| --- | --- | --- | --- | --- |
+| HUI Felix | Team Leader | 统筹课室维护工作及学生助理协调 | felixhui@ln.edu.hk | 2616-8407 |
+| Paul Leung | Student Helper Admin | 计划负责人 —— 临时活动、工时上限豁免、薪酬审批 | paulleung@ln.edu.hk | 2616-7393 |
+| LAU Daniel | Team Manager | 统筹课室维护工作及学生助理协调 | laumf@ln.edu.hk | 2616-7585 |
+| Anson | Senior Student Helper（现场问题核实） | 以抽样方式核实及复核已提交的报告 | chikonglo@ln.hk | — |
+| Jason | Senior Student Helper（文件记录） | 管理整体班表、出勤，以及值班签到／签退记录 | yuxiangyin@ln.hk | — |
+| Counter Team | ITSC 服务柜台职员 | 坐在你旁边的全职职员 —— 日常转介及薪酬查询 | — | — |
 
 各类问题的专责联系人请见[联系与升级处理](/zh-CN/reference/contacts)。
 
@@ -38,11 +39,24 @@
   分类：General、1 Morning Check、2a Printer Check、2b Paper Stock、
   3 Computer Lab Check、4 Lecture Room Check，以及 Hostel Clinic Checklist。
 
+![Teams 频道与文件](/images/teams-channels.jpg)
+*Teams —— 检查表与参考文件存放处*
+
 ![ITSC Student Helpers WhatsApp 群组](/images/whatsapp-group.jpg)
 *WhatsApp 群组 —— 日常信息与请假*
 
-![Teams 频道与文件](/images/teams-channels.jpg)
-*Teams —— 检查表与参考文件存放处*
+### 什么事找什么人
+
+| 事项 | 应该找谁 |
+| --- | --- |
+| 日常公布、紧急报告、请假 | **WhatsApp 群组** |
+| 薪酬、工时争议、换班 | 柜台**坐在你旁边**的 ITSC 全职职员，或直接联系 **Jason** |
+| 值班期间任何不确定的事 | 先找**值班职员**，然后才找其他人 |
+
+::: danger 不要越级联系
+**不要联系部门架构图上的高层 IT 总监或经理。** 他们不在学生助理的汇报线之内，
+由那里开始只会拖慢答复。上表已涵盖所有情况的正确途径。
+:::
 
 ## 如何使用本指南
 

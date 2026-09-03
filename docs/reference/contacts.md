@@ -2,13 +2,28 @@
 
 ## Student Helper team
 
-| Name | Role | Email | Extension |
-| --- | --- | --- | --- |
-| HUI Felix | Team Leader | felixhui@ln.edu.hk | 2616-8407 |
-| Paul Leung | Student Helper Admin | paulleung@ln.edu.hk | 2616-7393 |
-| LAU Daniel | Team Manager | laumf@ln.edu.hk | 2616-7585 |
-| Anson | Senior Student Helper (Onsite Issue Verify) | chikonglo@ln.hk | — |
-| Jason | Senior Student Helper (Documentation) | yuxiangyin@ln.hk | — |
+| Name | Role | Key scope | Email | Extension |
+| --- | --- | --- | --- | --- |
+| HUI Felix | Team Leader | Supervises classroom maintenance operations and helper coordination | felixhui@ln.edu.hk | 2616-8407 |
+| Paul Leung | Student Helper Admin | Programme manager — ad-hoc events, work-limit overrides, payroll approvals | paulleung@ln.edu.hk | 2616-7393 |
+| LAU Daniel | Team Manager | Supervises classroom maintenance operations and helper coordination | laumf@ln.edu.hk | 2616-7585 |
+| Anson | Senior Student Helper (Onsite Issue Verify) | Audits and cross-checks submitted reports by random spot-check | chikonglo@ln.hk | — |
+| Jason | Senior Student Helper (Documentation) | Manages the work schedule, attendance, and duty sign-in/out records | yuxiangyin@ln.hk | — |
+| Counter Team | ITSC Service Counter staff | The full-time staff sitting next to you — routine escalations and pay questions | — | — |
+
+## Which channel to use
+
+| Topic | Where it goes |
+| --- | --- |
+| Routine announcements, emergency reporting, leave | The **WhatsApp group** |
+| Salary, working-hour disputes, shift swaps | The full-time ITSC staff **sitting next to you** at the counter, or **Jason** directly |
+| Anything you are unsure of during a shift | The **duty staff** first, then others |
+
+::: danger Do not go over the team's head
+**Do not contact the senior IT directors or managers listed on the departmental
+chart.** They are not in the Student Helper reporting line, and starting there
+only delays the answer.
+:::
 
 ## By problem type
 

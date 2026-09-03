@@ -33,6 +33,7 @@ From the checking duties, in rough order of frequency:
 | Touch panel volume muted or turned down | Unmute, raise it on the panel |
 | Camera looks black | The **lens cover** is closed, or it is aimed away |
 | Cannot log in to a PC | Usually no network — fix it, do not just note it |
+| No sound from the speakers | Check the connections and the **Extron panel**; test from the PC as well as the AV source |
 | Yellow label missing | Peeled off by a student; report it |
 
 ::: tip Test cameras in Zoom

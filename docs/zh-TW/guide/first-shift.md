@@ -21,8 +21,17 @@
 
 | 欄位 | 內容 |
 | --- | --- |
-| 用戶名稱 | 你的 CNA |
+| 用戶名稱 | 你的 CNA（學生電郵地址） |
 | 密碼 | 你的**學生編號（Student ID）** |
+
+::: warning 只限校園網絡，或經 LUVPN
+更份預訂系統**只能在校園 Wi-Fi 網絡內**使用；身處校外時必須先連接 **LUVPN**。
+:::
+
+::: danger 這個系統不要外傳
+它是一個**獨立的私人資料庫** —— 並沒有與 LU 主要系統連接，所以密碼是學生編號而
+非 LU 密碼。**不要向大學其他部門（例如 OSA）透露這個系統的存在。**
+:::
 
 日曆設有日／週／月三種檢視。每一欄代表一個職務時段 —— ITSC Service Counter、
 LU Campus Printer、Computer Lab Helper 1–4、Lecture Room Helper 1–2、
@@ -46,6 +55,25 @@ Computer Lab and Lecture，以及 Hostel B / H / WJY Helper。
   caption="刪除預訂 —— 打開自己的紀錄並刪除"
 />
 
+### 預訂規則
+
+| 規則 | 內容 |
+| --- | --- |
+| **櫃檯更份** | 最短可以 **30 分鐘**為單位預訂 |
+| **維護檢查** | 打印機、電腦室、課室及早上檢查必須預訂**整個時段** |
+| **每週上限** | 系統會強制執行每週工時上限 —— 見[工時與薪酬](/zh-TW/guide/schedule-and-pay#工作時數) |
+| **時間重疊** | 重疊的預訂會被**直接攔截** |
+
+只有 Paul 可以在特定理由下豁免工時上限。
+
+### 請假與換更
+
+1. 在 **WhatsApp 發出詳細的請假訊息** —— 姓名、日期、時間、職務及原因。
+2. **找同學接更**。接更是**先到先得**。
+3. **自行在預訂系統刪除**你的更份。
+
+完整格式與例子見[工作注意事項](/zh-TW/guide/code-of-conduct#請假)。
+
 ## 2. 簽到／簽退
 
 **[ics.ln.edu.hk/helper](https://ics.ln.edu.hk/helper)**
@@ -57,6 +85,11 @@ Computer Lab and Lecture，以及 Hostel B / H / WJY Helper。
 
 登入後選擇 **Helper Sign in/out**，再選 **User Service Helper** 或
 **Hostel Clinic Helper**，然後按 **Sign In (Desktop/AV)**。
+
+::: warning 必須身在校園並連接校園網絡
+簽到與簽退只在你**實際身處校園並連接校園網絡**時才有效。宿舍助理必須走到
+**最近的課室大樓**才能簽到／簽退。
+:::
 
 ![簽到／簽退登入頁](/images/signin-login.jpg)
 
@@ -104,6 +137,22 @@ LCH204、LCH206、LCH206A、LCH209、LCH213、LCH413。
 
 ![Duty Completed 與可用的簽退按鈕](/images/signout-completed.jpg)
 *Duty Completed —— 現在可以簽退*
+
+### 簽退之前
+
+1. **提交該項職務的 Microsoft Form。**
+2. **等待副本（CC）寄到你的學生電郵** —— 那封收據就是提交成功的憑證。
+3. 然後才按 **Sign Out (Desktop/AV)**。
+
+::: danger 一定要用自己的帳戶提交
+每一份表格都必須**用自己的帳戶提交**。以他人名義提交的表格不會解除你的簽退限制，
+還會把檢查記錄算到別人頭上。
+:::
+
+::: warning 必須準時簽退
+2 小時的檢查 30 分鐘就做完了？你可以立即提交表格，但**必須等到時間到才簽退**。
+系統不會追蹤 IP 位址 —— 但每一次早退或遲退都會被記錄，並計入你的助理表現統計。
+:::
 
 ## 出錯時怎麼辦
 

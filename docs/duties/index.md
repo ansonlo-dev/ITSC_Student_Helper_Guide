@@ -1,5 +1,14 @@
 # Duties Overview
 
+The work falls into two categories:
+
+- **Category A — Service Counter Duty.** A fast-paced, high-engagement,
+  user-facing role, designed to develop your communication, problem-solving and
+  emergency-handling skills.
+- **Category B — Maintenance & Classroom Checks.** Preventive checks scheduled
+  around class hours, so that university teaching runs smoothly and without
+  technical interruptions.
+
 ## Duty summary
 
 | User Service | Hostel Clinic |
@@ -31,9 +40,9 @@
 | Duty | When |
 | --- | --- |
 | **Morning** | Mon – Fri, 08:30 – 10:30 |
-| **Printers** | Mon – Sun, 4 times per day: 10:30–12:00, 14:30–16:00, 17:00–18:00, 20:30–21:30 |
-| **Lecture Room & Computer Lab** | Mon – Fri 18:30 – 20:30; Sat 09:30 – 12:30 |
-| **Hostel** | Mon & Thu 19:00 – 22:00, in Hostel B, H, WJY |
+| **Printers** | Mon – Sun, 4 times per day: 10:30–12:00, 14:30–16:00, 17:00–18:00, 20:30–21:30 — **1 to 2 hours** per session |
+| **Lecture Room & Computer Lab** | Mon – Fri 18:30 – 20:30; Sat 09:30 – 12:30 — **2 hours** per session |
+| **Hostel** | Mon & Thu 19:00 – 22:00, in Hostel B, H, WJY — a **3-hour shift**, for helpers residing there |
 
 ## Duty materials
 

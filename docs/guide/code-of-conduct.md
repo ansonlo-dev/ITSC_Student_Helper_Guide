@@ -14,6 +14,20 @@ you can genuinely make, and drop them early when your studies need the time.
 Respect each other**
 :::
 
+Academics always come first — but while you are on duty, ITSC student helpers
+are expected to show the highest standard of each of those. Manage your own
+schedule and academic workload so that you can still fully enjoy your university
+life.
+
+## Why the programme exists
+
+::: tip More than a pay cheque
+As Paul puts it, the Student Helper programme is designed not just for earning
+money, but as an opportunity to improve your **communication**,
+**problem-solving** and **career readiness**. Have self-discipline, respect your
+peers — and above all, enjoy your university life.
+:::
+
 ## Do's and Don'ts
 
 | Do | Don't |
@@ -55,8 +69,16 @@ proof, and the rest of the form is still trusted without one.
 
 ## Wear your badge
 
-Wear the ITSC Student Helper badge whenever you are on duty. Users need to know
-who you are, and staff need to know you belong where you are standing.
+::: danger Mandatory dress code and identification
+Student helpers must wear the helper badge **while on duty, at all times**.
+:::
+
+The badge does three jobs:
+
+1. It establishes a **professional image**.
+2. It **identifies you** to staff and to the students you are helping.
+3. It lets **security guards identify you** when you ask for room access
+   after hours.
 
 ![The ITSC Student Helper badge and lanyard](/images/badge.jpg)
 *The ITSC Student Helper badge*
@@ -87,7 +109,8 @@ early as you can; a late leave message is nearly as disruptive as no message.
 
 ## Covering someone else's shift
 
-1. **Reply in the WhatsApp group** (e.g. "i can take").
+1. **Reply in the WhatsApp group** (e.g. "i can take"). Cover is
+   **first come, first served**.
 2. **Reserve the duty record** on
    [helperduty.top](https://helperduty.top).
 

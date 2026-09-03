@@ -6,6 +6,9 @@
 - Anything **more than 15 minutes** early, late, or overtime — let the managers
   know.
 - Work hours will be adjusted based on performance.
+- The **duty booking system enforces the limit itself**: it blocks a booking that
+  would take you past **16 hours** in a week, and it blocks overlapping bookings
+  outright. Only Paul can override the limit.
 
 ## Salary
 
@@ -35,6 +38,25 @@ Points to watch when filling it in:
 
 ![A sample completed claim form](/images/claim-form.jpg)
 *The Hourly Pay and Piecework Employee Claim Form (sample)*
+
+### The CAMP claim form, step by step
+
+Around the **6th to 8th of each month**, Paul pre-fills your worked hours on the
+CAMP form. Your part:
+
+1. **Verify the hours** against your own work records.
+2. **Fill in the yellow-highlighted fields by hand** — **Student ID**,
+   **Bank Account**, **Signature** and **Date**. The Finance Office (FO) requires
+   all four; a form missing one comes back to you.
+3. **Submit the signed form** — by email, in person, or over WhatsApp.
+
+::: warning Only complete sessions are paid
+A session is eligible for salary calculation only when it has **both a valid
+sign-in and a valid sign-out record**. A shift you worked but forgot to sign out
+of will not appear until the "Abnormal sign in+out" sheet is filled in and the
+record is corrected — see
+[Your First Shift](/guide/first-shift#if-something-goes-wrong).
+:::
 
 ## Checking your work records
 

@@ -2,7 +2,9 @@
 
 **晚間時段：星期一至五 18:30 – 20:30；星期六 09:30 – 12:30。**
 
-每晚由四個 Computer Lab Helper 時段分工檢查各電腦室。
+每晚由四個 Computer Lab Helper 時段分工檢查各電腦室。每節需要檢查 **9 至 20 部
+電腦**，視乎所屬電腦室而定：部分時段是整間房（例如 LCH206A），部分則只是指定的
+若干部機（例如 LKK 3 樓的 8 至 9 部）。你所預訂時段的說明會列明。
 
 ::: warning 準時簽到及簽退
 提早 15 分鐘簽退屬違規行為，並非「差不多」。開更收更兩頭都要準時。
@@ -127,7 +129,8 @@ Machine Name - Issue
 **只限教師電腦。**
 
 #### 14. Printer (Teacher PC)（打印機）
-*Test printing in Teacher PC* —— **Ok / Not ok / N/A**。
+*Test printing in Teacher PC* —— **Ok / Not ok / N/A**。用 **Notepad** 打印
+`1 2 3` 已經足夠確認預設打印機真的能出紙。
 **SEK105 及 LCH413 沒有打印機。** LCH CO3 則設有打印機。
 
 #### 15. Desk（枱）
@@ -140,6 +143,18 @@ Machine Name - Issue
 
 #### 18. Remark（備註）
 *Simple Description Other Problem.*
+
+### 安全與整潔
+
+- 離開前**把所有椅子排好**。
+- 確認**枱底及枱後的拖板與電線**收拾整齊、擺放安全 —— 不可雜亂纏繞、橫跨通道或
+  外露。
+
+### 專用軟件
+
+如果該電腦室裝有專用軟件 —— **SPSS**、**AMOS**、**SDL** —— 要確認它們**真的能
+啟動**，而不只是桌面上有圖示。哪些房間裝了什麼，見
+[軟件覆蓋](/zh-TW/reference/links#軟件覆蓋範圍)。
 
 ### 枱面玻璃隔板
 

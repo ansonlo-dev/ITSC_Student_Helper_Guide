@@ -2,7 +2,10 @@
 
 **Evening session: Mon – Fri 18:30 – 20:30; Sat 09:30 – 12:30.**
 
-Four Computer Lab Helper slots split the labs between them each evening.
+Four Computer Lab Helper slots split the labs between them each evening. A
+session covers **9 to 20 PCs**, depending on the lab: some slots are the whole
+room — LCH206A, for example — while others are a named handful, such as the
+8 to 9 specified PCs on LKK 3/F. Your booking's shift description says which.
 
 ::: warning Sign in and out on time
 Signing out 15 minutes early is a breach, not a rounding error. Be punctual at
@@ -132,7 +135,8 @@ is a common cause — and it needs fixing immediately, not just noting.
 **Teacher PC only.**
 
 #### 14. Printer (Teacher PC)
-*Test printing in Teacher PC* — **Ok / Not ok / N/A**.
+*Test printing in Teacher PC* — **Ok / Not ok / N/A**. Printing `1 2 3` from
+**Notepad** is enough to confirm the default printer actually outputs paper.
 **SEK105 and LCH413 have no printer.** LCH CO3 does have one.
 
 #### 15. Desk
@@ -146,6 +150,19 @@ loose.
 
 #### 18. Remark
 *Simple Description Other Problem.*
+
+### Safety and tidiness
+
+- **Arrange all the chairs neatly** before you leave.
+- Make sure the **power bars and cables under and behind the desks** are
+  organised and safely placed — not tangled, trailing or left exposed.
+
+### Specialised software
+
+Where a lab has specialised applications installed — **SPSS**, **AMOS**, **SDL**
+— confirm they **launch correctly**, not just that the icon is on the desktop.
+Which rooms have what is on
+[Software coverage](/reference/links#software-coverage).
 
 ### Table glass partition
 

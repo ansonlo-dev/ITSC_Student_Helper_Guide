@@ -21,8 +21,20 @@ having submitted the checking result. Skipping step 1 or step 4 will block you.
 
 | Field | Value |
 | --- | --- |
-| Username | Your CNA |
+| Username | Your CNA (your student email address) |
 | Password | Your **Student ID** |
+
+::: warning On campus, or on LUVPN
+The booking system is reachable **only from the campus Wi-Fi network**, or
+through **LUVPN** when you are off campus.
+:::
+
+::: danger Keep the system inside the team
+It is a **private, standalone database** — not linked to the main LU systems,
+which is why the password is your Student ID and not your LU password.
+**Do not disclose that it exists to other university departments** (OSA, for
+example).
+:::
 
 The calendar has Day / Week / Month views. Each column is a duty slot —
 ITSC Service Counter, LU Campus Printer, Computer Lab Helper 1–4, Lecture Room
@@ -48,6 +60,27 @@ Helper 1–2, Computer Lab and Lecture, and Hostel B / H / WJY Helper.
   caption="Deleting a booking — open your own entry and delete it"
 />
 
+### Booking rules
+
+| Rule | Detail |
+| --- | --- |
+| **Counter shifts** | Can be booked in blocks as short as **30 minutes** |
+| **Maintenance checks** | Printer, computer lab, lecture room and morning checks must be booked for the **entire time slot** |
+| **Weekly limit** | The system enforces a weekly maximum — see [Work Hours & Salary](/guide/schedule-and-pay#work-hours) |
+| **Overlaps** | Overlapping bookings are **blocked outright** |
+
+Only Paul can override the work limit, and only for a specific reason.
+
+### Leave and swaps
+
+1. Send a detailed **leave message on WhatsApp** — name, date, time, duty and
+   reason.
+2. **Find a substitute** to cover it. Cover is **first come, first served**.
+3. **Delete your booked slot yourself** in the booking system.
+
+The full wording and examples are on
+[Work Precautions](/guide/code-of-conduct#taking-leave).
+
 ## 2. Sign in / Sign out
 
 **[ics.ln.edu.hk/helper](https://ics.ln.edu.hk/helper)**
@@ -59,6 +92,12 @@ Helper 1–2, Computer Lab and Lecture, and Hostel B / H / WJY Helper.
 
 After logging in choose **Helper Sign in/out**, then either **User Service
 Helper** or **Hostel Clinic Helper**, and press **Sign In (Desktop/AV)**.
+
+::: warning You must be on campus, on the campus network
+Sign in and sign out only work when you are **physically on campus and connected
+to the campus network**. Hostel helpers have to walk to the **nearest classroom
+block** to sign in and out.
+:::
 
 ![The sign in and out login page](/images/signin-login.jpg)
 
@@ -110,6 +149,26 @@ Once the result is in, the page shows **Duty Completed** and the
 
 ![Duty Completed with the Sign Out button available](/images/signout-completed.jpg)
 *Duty Completed — now you can sign out*
+
+### Before you can sign out
+
+1. **Submit the duty's Microsoft Form.**
+2. **Wait for the CC'd copy to arrive in your student email** — that receipt is
+   your proof the submission went through.
+3. Then press **Sign Out (Desktop/AV)**.
+
+::: danger Always submit from your own account
+Submit every form **from your own account**. A form sent under someone else's
+name does not release your sign-out, and it credits the check to the wrong
+person.
+:::
+
+::: warning Sign out exactly on time
+Finished a 2-hour check in 30 minutes? You may submit the form straight away,
+but you must **wait and sign out exactly on time**. IP addresses are not tracked
+— but every early and late sign-out is logged and counts towards your helper
+performance statistics.
+:::
 
 ## If something goes wrong
 

@@ -8,6 +8,11 @@ camera, video camera, notebook and more.
 Staff and students can borrow for teaching, conferences, online meetings,
 interviews, seminars, course presentations, ceremonies and student activities.
 
+::: danger Who may borrow
+Only **current staff and active students** are eligible. **Alumni are strictly
+not eligible** — there is no discretion on this at the counter.
+:::
+
 **Service page:**
 <https://www.ln.edu.hk/itsc/services/multimedia-and-av-services/desktop-pc-av-equipment-on-loan-for-supporting-university-events>
 
@@ -55,11 +60,29 @@ Actions along the bottom: **Save Booking**, **Close Booking**, **Check-Out**,
 
 ## Checking out
 
-1. Confirm the booking exists and the loan period covers today.
-2. Collect the items from MB402/4.
-3. Test that each item powers on and all accessories are present.
-4. Scan or enter the **barcode** and record the check-out quantity.
-5. Record who collected it, and state the return deadline.
+1. **Check the borrower is eligible** — current staff or active student.
+2. Confirm the booking exists and the loan period covers today.
+3. Collect the items from MB402/4.
+4. **Inspect every accessory** before the item leaves the counter.
+5. **Power the item on and verify it works in front of the borrower.**
+6. **Scan the equipment's QR code**, or enter the **label / barcode number** in
+   the database, record the check-out quantity, and click **Save Booking** to log
+   the transaction.
+7. Record who collected it, and state the return deadline.
+
+::: danger Mandatory IT equipment testing rule
+For all electronic loan equipment — laptops, projectors, TV monitors — you
+**must power it on and verify functionality in front of the borrower before they
+walk away with it**. This is what prevents a borrower returning a damaged item
+later and claiming the equipment was "already broken when borrowed".
+:::
+
+::: warning Accessories check
+Inspect every accessory before you check an item out. A presentation pointer is
+only usable with **both** the pointer **and** its tiny USB wireless receiver — if
+the receiver is missing the item is useless, and it must be flagged rather than
+lent out.
+:::
 
 ## Checking in
 

@@ -21,8 +21,17 @@
 
 | 栏位 | 内容 |
 | --- | --- |
-| 用户名称 | 你的 CNA |
+| 用户名称 | 你的 CNA（学生电邮地址） |
 | 密码 | 你的**学号（Student ID）** |
+
+::: warning 只限校园网络，或经 LUVPN
+班次预订系统**只能在校园 Wi-Fi 网络内**使用；身处校外时必须先连接 **LUVPN**。
+:::
+
+::: danger 这个系统不要外传
+它是一个**独立的私人数据库** —— 并没有与 LU 主要系统连接，所以密码是学号而
+非 LU 密码。**不要向大学其他部门（例如 OSA）透露这个系统的存在。**
+:::
 
 日历设有日／周／月三种检视。每一栏代表一个职务时段 —— ITSC Service Counter、
 LU Campus Printer、Computer Lab Helper 1–4、Lecture Room Helper 1–2、
@@ -46,6 +55,25 @@ Computer Lab and Lecture，以及 Hostel B / H / WJY Helper。
   caption="删除预订 —— 打开自己的纪录并删除"
 />
 
+### 预订规则
+
+| 规则 | 内容 |
+| --- | --- |
+| **柜台班次** | 最短可以 **30 分钟**为单位预订 |
+| **维护检查** | 打印机、电脑室、课室及早上检查必须预订**整个时段** |
+| **每周上限** | 系统会强制执行每周工时上限 —— 见[工时与薪酬](/zh-CN/guide/schedule-and-pay#工作时数) |
+| **时间重叠** | 重叠的预订会被**直接拦截** |
+
+只有 Paul 可以在特定理由下豁免工时上限。
+
+### 请假与换班
+
+1. 在 **WhatsApp 发出详细的请假信息** —— 姓名、日期、时间、职务及原因。
+2. **找同学接班**。接班是**先到先得**。
+3. **自行在预订系统删除**你的班次。
+
+完整格式与例子见[工作注意事项](/zh-CN/guide/code-of-conduct#请假)。
+
 ## 2. 签到／签退
 
 **[ics.ln.edu.hk/helper](https://ics.ln.edu.hk/helper)**
@@ -57,6 +85,11 @@ Computer Lab and Lecture，以及 Hostel B / H / WJY Helper。
 
 登入后选择 **Helper Sign in/out**，再选 **User Service Helper** 或
 **Hostel Clinic Helper**，然后按 **Sign In (Desktop/AV)**。
+
+::: warning 必须身在校园并连接校园网络
+签到与签退只在你**实际身处校园并连接校园网络**时才有效。宿舍助理必须走到
+**最近的课室大楼**才能签到／签退。
+:::
 
 ![签到／签退登入页](/images/signin-login.jpg)
 
@@ -104,6 +137,22 @@ LCH204、LCH206、LCH206A、LCH209、LCH213、LCH413。
 
 ![Duty Completed 与可用的签退按钮](/images/signout-completed.jpg)
 *Duty Completed —— 现在可以签退*
+
+### 签退之前
+
+1. **提交该项职务的 Microsoft Form。**
+2. **等待副本（CC）寄到你的学生电邮** —— 那封收据就是提交成功的凭证。
+3. 然后才按 **Sign Out (Desktop/AV)**。
+
+::: danger 一定要用自己的账户提交
+每一份表格都必须**用自己的账户提交**。以他人名义提交的表格不会解除你的签退限制，
+还会把检查记录算到别人头上。
+:::
+
+::: warning 必须准时签退
+2 小时的检查 30 分钟就做完了？你可以立即提交表格，但**必须等到时间到才签退**。
+系统不会追踪 IP 地址 —— 但每一次早退或迟退都会被记录，并计入你的助理表现统计。
+:::
 
 ## 出错时怎么办
 

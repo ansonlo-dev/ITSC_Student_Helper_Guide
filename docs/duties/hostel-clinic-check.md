@@ -7,6 +7,13 @@ The duty is hostel network checking — measuring, from inside the hostels, whet
 the campus network actually works: Wi-Fi association, reachability of sites in
 several regions, LU services, latency and throughput.
 
+::: info Only for helpers who live there
+This duty is **exclusive to helpers residing in Hall B, Hall H or WJY**. It is a
+**3-hour shift**, and you run the checks **from your own room**: connect to the
+**LU / LU1** Wi-Fi, run the speed test, confirm a stable ping to Google, and
+submit the Hostel Check form **twice** during the shift.
+:::
+
 ::: warning Two submissions per shift
 Submit the checking result at **8:30 pm** and again at **10:00 pm** — two times,
 not one. The form itself notes: *"The test shall be carried out at 8:30pm."*
@@ -44,7 +51,8 @@ for this duty appear with type **HC**.
 | 5 | **WiFi Connection (LU-Advanced)** |
 
 Both networks must be tested — they are separate SSIDs and one can fail while
-the other works.
+the other works. The ITSC guidelines call them **LU / LU1**; the form names them
+LU and LU-Advanced.
 
 ### Website browsing — Can Access / Cannot Access
 

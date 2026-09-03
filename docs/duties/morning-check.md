@@ -82,7 +82,9 @@ circuit breaker.
 ### Manuals
 
 **All 3 instruction manuals** (1. PC, 2. AV, 3. Hotline) must be present and
-stuck on the lectern.
+stuck on the lectern. On the podium they are labelled the **System Login
+Manual**, the **Panel Guide** and the **Hotline Menu**. Note any that are
+missing.
 
 ### PC
 
@@ -102,10 +104,14 @@ keycaps (an `F4` key has gone missing before).
 
 Left click, right click and scroll wheel all work, with no stickiness.
 
-### Speaker sound test
+### Speaker sound test — the 10-second rule
 
-Play the audio test; if you hear sound it is OK. **Also test from the computer
-itself**, not only the AV source.
+Play a **brief YouTube video** — the President's welcoming address is the usual
+choice — to verify the audio output and the speaker volume. Ten seconds is
+enough.
+
+If there is no sound, check the **connections** and the **Extron panel** before
+you report it. **Also test from the computer itself**, not only the AV source.
 
 ### Podium monitor
 
@@ -124,9 +130,20 @@ bottom-right corner.
 
 ### Microphone sound test
 
-Switch the mic on; if you hear sound it is OK. Rooms with an **IR mic** must have
-that tested too. Morning Check has caught silent mics in LBY and LKKG01 before
-they affected a class — this item earns its place.
+In a general classroom, take the **wireless or lapel microphone out of the
+teacher's cabinet**, switch it on and do a quick voice check — saying "hello"
+into it is enough. Rooms with an **IR mic** must have that tested too.
+
+**Spares** — replacement batteries, headset covers and backup microphones — are
+stored in the **LCS 206A cabinet**.
+
+::: warning Special lecture theatres: use the podium microphone
+In **LBY, MBG22, MBG6 and LBY GC1**, do **not** use the wireless backups. Test
+with the **digital microphone mounted directly on the podium**.
+:::
+
+Morning Check has caught silent mics in LBY and LKKG01 before they affected a
+class — this item earns its place.
 
 ### Camera
 
@@ -140,6 +157,8 @@ C925 cameras. Paul has posted a demonstration video in the group.
 
 - MBY201 and the newer rooms use a different camera model from the older rooms.
 - The LKK new-build cameras are fixed to the curtain wall and have **no tripod**.
+- **Inspect the physical mount as well.** Report immediately if a tripod is
+  loose, or if a camera has been held in place temporarily with tape.
 
 ### Tripod
 
@@ -169,11 +188,22 @@ The requirement was introduced after a helper signed in and went for breakfast.
 It is not there to distrust you — it exists because the problem recurred.
 :::
 
+Two shots are expected, both uploaded through the Microsoft Form:
+
+1. A photo taken **from the teacher's angle**, showing the working dual-screen
+   PC.
+2. A **selfie taken with the room's webcam**.
+
 The photo must show the **time** and the **surrounding environment**, not just a
 selfie. A good pattern: photograph the camera while it is switched on, yourself,
 and the state of the room.
 
-ITSC can read login records, but only asks for one photo as practical proof.
+::: danger Found a fault? Post it now
+If a check turns up a fault, **post a photo to the WhatsApp group immediately** —
+do not wait until you submit the form.
+:::
+
+ITSC can read login records, but only asks for the photos as practical proof.
 
 ## Submit the result
 

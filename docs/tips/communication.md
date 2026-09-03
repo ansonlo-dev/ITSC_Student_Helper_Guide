@@ -15,6 +15,29 @@ Point 4 matters more than it looks. A colleague will drop what they are doing
 for someone standing at the counter, but will handle a phone enquiry differently
 — so say which it is before you describe the problem.
 
+## Introducing yourself
+
+Open every call and every walk-in the same way:
+
+> "Good morning, ITC, my name is [Name], how may I help you?"
+
+Give your name, keep the tone polite, and keep the pace steady.
+
+## Summarising what you heard
+
+Users describe things at length and out of order. Part of the job is
+**synthesising a long, complicated description into a concise, clear,
+actionable summary** — one line for the Issue Summary field, one short paragraph
+for the Issue Detail.
+
+::: danger The Golden Rule — never guess
+**Never give a user unverified or made-up information.** If you do not know the
+answer, stay calm, write down their **name, student/staff ID, location and
+contact number**, and hand the details to the full-time staff member sitting
+right next to you. "I don't know, but I will find out for you" is a complete and
+professional answer.
+:::
+
 ## Listening for the real question
 
 Users describe the symptom they noticed, not the problem they have. "The printer
