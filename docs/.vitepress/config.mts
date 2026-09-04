@@ -23,12 +23,17 @@ function nav(lang: Language): DefaultTheme.NavItem[] {
   ]
 }
 
+/**
+ * `collapsed: false` on a group makes it collapsible but open on arrival;
+ * omitting the key would render the group as a fixed, uncollapsible heading.
+ */
 function sidebar(lang: Language): DefaultTheme.SidebarItem[] {
   const t = createT(lang)
   const p = base(lang)
   return [
     {
       text: t('sidebar.group.gettingStarted'),
+      collapsed: false,
       items: [
         { text: t('sidebar.welcome'), link: `${p}/guide/getting-started` },
         { text: t('sidebar.firstShift'), link: `${p}/guide/first-shift` },
@@ -38,6 +43,7 @@ function sidebar(lang: Language): DefaultTheme.SidebarItem[] {
     },
     {
       text: t('sidebar.group.duties'),
+      collapsed: false,
       items: [
         { text: t('sidebar.dutiesOverview'), link: `${p}/duties/` },
         { text: t('sidebar.counter'), link: `${p}/duties/service-counter` },
@@ -52,6 +58,7 @@ function sidebar(lang: Language): DefaultTheme.SidebarItem[] {
     },
     {
       text: t('sidebar.group.tips'),
+      collapsed: false,
       items: [
         { text: t('sidebar.tipsOverview'), link: `${p}/tips/` },
         { text: t('sidebar.troubleshooting'), link: `${p}/tips/troubleshooting` },
@@ -60,6 +67,7 @@ function sidebar(lang: Language): DefaultTheme.SidebarItem[] {
     },
     {
       text: t('sidebar.group.reference'),
+      collapsed: false,
       items: [
         { text: t('sidebar.faq'), link: `${p}/reference/faq` },
         { text: t('sidebar.links'), link: `${p}/reference/links` },
