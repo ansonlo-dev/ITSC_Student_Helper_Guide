@@ -104,7 +104,7 @@ XClass 登入：用你自己的用户名称及密码，**Domain 填 `LNDAXUE`**�
 | 器材外借系统 | SUS IMS |
 | Classroom Equipment List | SharePoint，由 Lecture Room Checklist 连结 |
 | Abnormal sign in+out | Excel 文件，每月一个工作表 |
-| 申领表提交 | `hourlyclaim@LN.edu.hk` |
+| 申领表提交 | 交给 **Paul** —— 亲身递交、电邮或 WhatsApp |
 
 ::: info 保持本页更新
 部分连结存放在柜台常用连结页，并非公开网址。确认之后请把真实网址贴进来。

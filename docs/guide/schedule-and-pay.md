@@ -52,8 +52,8 @@ the next month to be paid for those hours.
 :::
 
 The form is the University's **Hourly Pay and Piecework Employee Claim Form**.
-Scan the completed and signed copy, send it to `hourlyclaim@LN.edu.hk`, and keep
-the paper copy.
+Always submit the completed and signed copy **to Paul** — in person, by email,
+or over WhatsApp — and keep a copy for yourself.
 
 Points to watch when filling it in:
 
@@ -66,16 +66,16 @@ Points to watch when filling it in:
 ![A sample completed claim form](/images/claim-form.jpg)
 *The Hourly Pay and Piecework Employee Claim Form (sample)*
 
-### The CAMP claim form, step by step
+### The claim form, step by step
 
 Around the **6th to 8th of each month**, Paul pre-fills your worked hours on the
-CAMP form. Your part:
+claim form. Your part:
 
 1. **Verify the hours** against your own work records.
 2. **Fill in the yellow-highlighted fields by hand** — **Student ID**,
    **Bank Account**, **Signature** and **Date**. The Finance Office (FO) requires
    all four; a form missing one comes back to you.
-3. **Submit the signed form** — by email, in person, or over WhatsApp.
+3. **Submit the signed form to Paul** — in person, by email, or over WhatsApp.
 
 ::: warning Only complete sessions are paid
 A session is eligible for salary calculation only when it has **both a valid

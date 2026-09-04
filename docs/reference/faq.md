@@ -75,8 +75,8 @@ your student email** before you press Sign Out.
 
 Payment is on the **20th of each month**. The cutoff is around the **6th to 8th**
 (on Saturday), the claim form arrives at your student email the **following
-Monday**, and you must print and submit it **within two days** — otherwise you
-wait until the next month.
+Monday**, and you must print it and submit it **to Paul within two days** —
+otherwise you wait until the next month.
 
 ### How do I check my hours?
 

@@ -107,7 +107,7 @@ Worth knowing before you mark something "Not ok":
 | Equipment On Loan System | SUS IMS |
 | Classroom Equipment List | SharePoint, linked from the Lecture Room Checklist |
 | Abnormal sign in+out | Excel file, one sheet per month |
-| Claim form submission | `hourlyclaim@LN.edu.hk` |
+| Claim form submission | To **Paul** — in person, by email, or over WhatsApp |
 
 ::: info Keep this page current
 Some links live behind the counter useful-links page rather than at a public
