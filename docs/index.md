@@ -6,6 +6,9 @@ hero:
   name: ITSC Student Helper Guide
   text: Everything you need for your shift
   tagline: The written version of the Student Helper Orientation — duties, systems and schedules for the Lingnan University Information Technology Services Centre.
+  image:
+    src: /student-helper-logo.png
+    alt: ITSC Student Helper badge
   actions:
     - theme: brand
       text: Get Started

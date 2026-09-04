@@ -6,6 +6,9 @@ hero:
   name: ITSC 學生助理指南
   text: 當值所需的一切
   tagline: 學生助理迎新簡介的文字版 —— 嶺南大學資訊科技服務中心的職務、系統與時間表。
+  image:
+    src: /student-helper-logo.png
+    alt: ITSC 學生助理徽章
   actions:
     - theme: brand
       text: 開始使用

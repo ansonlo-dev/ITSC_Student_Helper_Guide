@@ -150,6 +150,58 @@ export default defineConfig({
   lang: 'en-US',
   cleanUrls: true,
 
+  // LXGW WenKai, in its Simplified and Traditional cuts. Each stylesheet is cut
+  // into ~97 unicode-range subsets, so a reader only downloads the slices their
+  // page actually renders, and every face is `font-display: swap` — text is
+  // readable in the fallback immediately and the webfont swaps in behind it.
+  // `custom.css` picks the cut per locale.
+  //
+  // Regular only, deliberately. A Chinese page touches enough subsets that
+  // adding the bold cut roughly doubles the font bytes, and WenKai's real bold
+  // is so close to its regular that emphasis barely reads; the browser's
+  // synthesised bold is both free and easier to see. Measured on
+  // zh-TW/guide/schedule-and-pay: 6.3 MB with the bold cut, 3.2 MB without.
+  head: [
+    ['link', { rel: 'preconnect', href: 'https://cdn.jsdelivr.net', crossorigin: '' }],
+    ['link', { rel: 'stylesheet', href: 'https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-regular.css' }],
+    ['link', { rel: 'stylesheet', href: 'https://cdn.jsdelivr.net/npm/lxgw-wenkai-tc-webfont@1.2.0/lxgwwenkaitc-regular.css' }],
+    ['link', { rel: 'icon', type: 'image/png', href: '/ITSC_Student_Helper_Guide/favicon.png' }]
+  ],
+
+  /**
+   * The Chinese sources wrap at about 40 characters a line. A newline inside a
+   * paragraph becomes a markdown-it `softbreak`, which renders as "\n", and the
+   * browser collapses that to a space — so a word split across two source lines
+   * shows up as "積金易平 台" on the page. Every Chinese page had a handful of
+   * these; it only became obvious once WenKai widened the text.
+   *
+   * Drop the break when the characters on either side of it are both CJK. A
+   * break next to Latin text or a number keeps its space, because there it is
+   * a real word separator ("12 個月").
+   */
+  markdown: {
+    config: (md) => {
+      const CJK =
+        /[\u2E80-\u303E\u3041-\u33FF\u3400-\u4DBF\u4E00-\u9FFF\uF900-\uFAFF\uFE30-\uFE4F\uFF00-\uFF60]/
+
+      /** Nearest rendered character before/after a token, skipping tag tokens. */
+      const edgeChar = (tokens: any[], from: number, step: -1 | 1) => {
+        for (let i = from; i >= 0 && i < tokens.length; i += step) {
+          const c = tokens[i].content
+          if (tokens[i].type === 'softbreak' || !c) continue
+          return step === -1 ? c[c.length - 1] : c[0]
+        }
+        return ''
+      }
+
+      md.renderer.rules.softbreak = (tokens, idx) =>
+        CJK.test(edgeChar(tokens, idx - 1, -1)) &&
+        CJK.test(edgeChar(tokens, idx + 1, 1))
+          ? ''
+          : '\n'
+    }
+  },
+
   // `lastUpdated: true` reads git history at build time. The snap-installed bun
   // on this machine cannot spawn the system git binary, so it is left off.
   // Enable it if you build with Node, or in CI.

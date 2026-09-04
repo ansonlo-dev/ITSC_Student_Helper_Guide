@@ -6,6 +6,9 @@ hero:
   name: ITSC 学生助理指南
   text: 值班所需的一切
   tagline: 学生助理迎新简介的文字版 —— 岭南大学信息科技服务中心的职务、系统与时间表。
+  image:
+    src: /student-helper-logo.png
+    alt: ITSC 学生助理徽章
   actions:
     - theme: brand
       text: 开始使用
