@@ -139,6 +139,8 @@ SEK 原有的两个时段除外，其他全部为 3 间房一组。
 用 **Zoom → 设置 → 视频** 测试，因为 Windows 内置的 Camera App 在切换镜头时会
 freeze。在 Zoom 内可以同时看到 C930 及 C925 两款镜头。Paul 已在群组发放示范
 影片。
+
+附图逐步做法：[用 Zoom 测试镜头](/zh-CN/tips/troubleshooting#用-zoom-测试镜头)。
 :::
 
 - MBY201 及新房的镜头型号与旧房不同。

@@ -125,6 +125,8 @@ The form links a YouTube clip to play. Sound audible = Ok.
 Use **Zoom → Settings → Video**, not the Windows Camera app — the built-in app
 freezes when switching cameras. Also check the **webcam lens cover** is open; a
 covered lens gets misreported as a dead camera.
+
+Step by step, with screenshots: [Testing a webcam in Zoom](/tips/troubleshooting#testing-a-webcam-in-zoom).
 :::
 
 ### 22. Tripod for Webcams

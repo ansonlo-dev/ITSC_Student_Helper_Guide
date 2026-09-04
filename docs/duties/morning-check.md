@@ -153,6 +153,8 @@ Test **both** directions — **Facing Student** and **Facing Teacher**.
 Test with **Zoom → Settings → Video**, because the built-in Windows Camera app
 freezes when switching between cameras. In Zoom you can see both the C930 and
 C925 cameras. Paul has posted a demonstration video in the group.
+
+Step by step, with screenshots: [Testing a webcam in Zoom](/tips/troubleshooting#testing-a-webcam-in-zoom).
 :::
 
 - MBY201 and the newer rooms use a different camera model from the older rooms.

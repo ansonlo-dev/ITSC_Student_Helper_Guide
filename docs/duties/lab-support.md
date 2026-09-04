@@ -180,8 +180,9 @@ actually looked like.
 
 Two methods:
 
-1. **Zoom** — log in, **Settings → Video**; you can see both the C930 and C925
-   cameras. Paul has posted a demo video in the group.
+1. **Zoom** — **Settings → Video**; you can see both the C930 and C925 cameras.
+   Paul has posted a demo video in the group, and there is a step-by-step
+   walkthrough with screenshots here: [Testing a webcam in Zoom](/tips/troubleshooting#testing-a-webcam-in-zoom).
 2. **The built-in Windows Camera app.**
 
 ::: warning LKKG0X — Zoom only

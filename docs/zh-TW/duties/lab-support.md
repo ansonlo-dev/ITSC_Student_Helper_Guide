@@ -170,8 +170,8 @@ Machine Name - Issue
 
 兩種方法：
 
-1. **Zoom** —— 登入後 **設定 → 視頻**，可以同時看到 C930 及 C925 兩款鏡頭。
-   Paul 已在群組發放示範影片。
+1. **Zoom** —— **設定 → 視頻**，可以同時看到 C930 及 C925 兩款鏡頭。Paul 已在
+   群組發放示範影片，這裏亦有附圖的逐步做法：[用 Zoom 測試鏡頭](/zh-TW/tips/troubleshooting#用-zoom-測試鏡頭)。
 2. **系統內置的 Windows Camera App。**
 
 ::: warning LKKG0X —— 只能用 Zoom

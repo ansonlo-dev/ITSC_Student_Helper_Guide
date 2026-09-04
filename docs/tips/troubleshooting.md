@@ -36,10 +36,43 @@ From the checking duties, in rough order of frequency:
 | No sound from the speakers | Check the connections and the **Extron panel**; test from the PC as well as the AV source |
 | Yellow label missing | Peeled off by a student; report it |
 
-::: tip Test cameras in Zoom
-Use **Zoom → Settings → Video**, not the Windows Camera app — the built-in app
-freezes when switching between cameras. LKKG0X can *only* be checked this
-way.
+## Testing a webcam in Zoom
+
+Use **Zoom**, not the Windows Camera app — the built-in app freezes when you
+switch between cameras, and in **LKKG0X** the camera cannot be changed there at
+all. You do **not** need to sign in to Zoom; Settings works while signed out.
+
+**1. Find Zoom in the system tray.** Click the arrow at the right of the taskbar
+to open the hidden icons. Zoom is the blue **zm** icon — hovering it shows
+"Zoom - not signed in", which is fine.
+
+![The hidden icons tray with the Zoom icon](/images/zoom-tray-icon.jpg)
+*Signed out is fine — you still get Settings*
+
+**2. Right-click the Zoom icon and choose Settings…** Right-click, not
+left-click; a left-click just opens the Zoom window.
+
+![The Zoom tray menu, with Settings below Sign in](/images/zoom-tray-menu.jpg)
+*Screenshot, Join meeting, Share screen, Sign in, then **Settings…***
+
+**3. Open the Video tab.** The preview at the top is what the camera is seeing
+right now. A black preview almost always means the **lens cover is closed** or
+the camera has been turned away — check that before you report a fault.
+
+![Zoom Settings on the Video tab, showing the camera preview](/images/zoom-settings-video.jpg)
+*The preview shows the current camera; the Camera dropdown sits below it*
+
+**4. Switch cameras in the Camera dropdown.** A room with two webcams lists both
+here — select each in turn so that **Facing Teacher** and **Facing Students**
+are tested separately. If a camera you expect is missing from the list, that is
+itself a fault worth reporting.
+
+![The Camera dropdown listing the connected webcam](/images/zoom-camera-dropdown.jpg)
+*One entry means only one camera is connected*
+
+::: tip While you are in there
+Check the physical mount too — a loose tripod, or a camera held in place with
+tape, is a fault even when the picture is perfect.
 :::
 
 ## Before you escalate anything

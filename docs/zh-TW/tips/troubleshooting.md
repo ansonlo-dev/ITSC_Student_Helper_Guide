@@ -33,9 +33,39 @@
 | 喇叭沒有聲音 | 檢查接線及 **Extron 面板**；除 AV 訊號源外，電腦本身亦要測試 |
 | 黃色標籤缺失 | 被學生撕走，要呈報 |
 
-::: tip 用 Zoom 測試鏡頭
-用 **Zoom → 設定 → 視頻**，不要用 Windows Camera App —— 內置程式在切換鏡頭時
-會 freeze。LKKG0X *只能*用這個方法檢查。
+## 用 Zoom 測試鏡頭
+
+要用 **Zoom**，不要用 Windows Camera App —— 內置程式在切換鏡頭時會 freeze，而
+**LKKG0X** 根本無法在那裏更改鏡頭設定。你**不需要**登入 Zoom；未登入一樣可以
+開設定。
+
+**1. 在系統匣（system tray）找出 Zoom。** 按工作列右邊的箭嘴展開隱藏圖示，Zoom
+是藍色的 **zm** 圖示 —— 把滑鼠移上去會顯示「Zoom - not signed in」，這是正常的。
+
+![隱藏圖示中的 Zoom 圖示](/images/zoom-tray-icon.jpg)
+*未登入也沒問題 —— 一樣可以開設定*
+
+**2. 在 Zoom 圖示上按右鍵，選 Settings…** 要按右鍵，不是左鍵；按左鍵只會開啟
+Zoom 視窗。
+
+![Zoom 系統匣選單，Settings 在 Sign in 下方](/images/zoom-tray-menu.jpg)
+*Screenshot、Join meeting、Share screen、Sign in，然後就是 **Settings…***
+
+**3. 開啟 Video 分頁。** 上方的預覽畫面就是鏡頭現在看到的東西。預覽全黑，九成
+是**鏡頭蓋未打開**或鏡頭被撥開 —— 呈報之前先檢查這一點。
+
+![Zoom 設定的 Video 分頁，顯示鏡頭預覽](/images/zoom-settings-video.jpg)
+*預覽顯示目前的鏡頭；Camera 下拉選單就在下面*
+
+**4. 在 Camera 下拉選單切換鏡頭。** 有兩個鏡頭的房間，兩個都會列在這裏 —— 逐個
+選一次，分別測試 **Facing Teacher** 及 **Facing Students**。如果應該有的鏡頭沒
+有出現在清單上，這本身就是故障，要呈報。
+
+![Camera 下拉選單顯示已連接的鏡頭](/images/zoom-camera-dropdown.jpg)
+*只有一項，即是只連接了一個鏡頭*
+
+::: tip 順手一併檢查
+實體支架也要看 —— 腳架鬆動，或鏡頭是用膠紙臨時固定的，即使畫面正常也算故障。
 :::
 
 ## 升級處理之前

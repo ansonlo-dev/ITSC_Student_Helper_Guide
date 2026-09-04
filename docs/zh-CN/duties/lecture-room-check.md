@@ -124,6 +124,8 @@
 ::: tip 用 Zoom 测试镜头
 用 **Zoom → 设置 → 视频**，不要用 Windows Camera App —— 内置程序在切换镜头时
 会 freeze。同时要检查**镜头盖**是否已打开；盖着镜头经常被误报为镜头坏了。
+
+附图逐步做法：[用 Zoom 测试镜头](/zh-CN/tips/troubleshooting#用-zoom-测试镜头)。
 :::
 
 ### 22. Tripod for Webcams（镜头脚架）
