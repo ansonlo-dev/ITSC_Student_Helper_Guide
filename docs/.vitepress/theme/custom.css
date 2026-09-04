@@ -45,3 +45,29 @@ html.lightbox-open,
 html.lightbox-open body {
   overflow: hidden;
 }
+
+/* A trilingual guide should say so in the nav bar. VitePress hides the language
+   menu — along with the appearance toggle and the GitHub link — below 1280px and
+   folds them into the "..." menu, where a reader has no reason to look. Show the
+   three of them from 1040px instead, and drop "..." there so nothing is listed
+   twice.
+
+   1040px is measured, not guessed: below it the English bar (the widest of the
+   three, with the longest title and nav labels) pushes the GitHub icon past the
+   right edge. Both Chinese locales fit from 1000px. Re-measure if the title or
+   the nav items change.
+
+   The selectors are deliberately three levels deep: the rules being overridden
+   are scoped, so they carry an extra attribute selector. */
+@media (min-width: 1040px) {
+  .VPNavBar .content-body .VPNavBarTranslations,
+  .VPNavBar .content-body .VPNavBarAppearance,
+  .VPNavBar .content-body .VPNavBarSocialLinks {
+    display: flex;
+    align-items: center;
+  }
+
+  .VPNavBar .content-body .VPNavBarExtra {
+    display: none;
+  }
+}
