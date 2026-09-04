@@ -4,8 +4,8 @@
 
 | 系统 | 网址 | 用户名称 | 密码 |
 | --- | --- | --- | --- |
-| **班次预订系统** | [helperduty.top](https://helperduty.top) | 你的 CNA | 你的**学号** |
-| **签到／签退** | [ics.ln.edu.hk/helper](https://ics.ln.edu.hk/helper) | 你的 CNA | 你的 **LU 密码** |
+| **班次预订系统** | [helperduty.top](https://helperduty.top) | 你的用户名称 | 你的**学号** |
+| **签到／签退** | [ics.ln.edu.hk/helper](https://ics.ln.edu.hk/helper) | 你的用户名称 | 你的 **LU 密码** |
 
 ::: warning 两个系统，两个不同密码
 预订系统用**学号**；签到系统用 **LU 密码**。混淆这两者是最常见的登入失败

@@ -7,10 +7,10 @@ The duty is hostel network checking — measuring, from inside the hostels, whet
 the campus network actually works: Wi-Fi association, reachability of sites in
 several regions, LU services, latency and throughput.
 
-::: info Only for helpers who live there
-This duty is **exclusive to helpers residing in Hall B, Hall H or WJY**. It is a
-**3-hour shift**, and you run the checks **from your own room**: connect to the
-**LU / LU1** Wi-Fi, run the speed test, confirm a stable ping to Google, and
+::: info How the shift runs
+Any helper can book this duty — you do **not** have to live in the hostel. It is
+a **3-hour shift**, and you run the checks **from inside the hostel**: connect to
+the **LU / LU1** Wi-Fi, run the speed test, confirm a stable ping to Google, and
 submit the Hostel Check form **twice** during the shift.
 :::
 

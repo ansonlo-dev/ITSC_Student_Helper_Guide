@@ -21,7 +21,7 @@ having submitted the checking result. Skipping step 1 or step 4 will block you.
 
 | Field | Value |
 | --- | --- |
-| Username | Your CNA (your student email address) |
+| Username | Your Username (your student email address) |
 | Password | Your **Student ID** |
 
 ::: warning On campus, or on LUVPN
@@ -87,7 +87,7 @@ The full wording and examples are on
 
 | Field | Value |
 | --- | --- |
-| Username | Your CNA |
+| Username | Your Username |
 | Password | Your **LU password** |
 
 After logging in choose **Helper Sign in/out**, then either **User Service
@@ -165,9 +165,8 @@ person.
 
 ::: warning Sign out exactly on time
 Finished a 2-hour check in 30 minutes? You may submit the form straight away,
-but you must **wait and sign out exactly on time**. IP addresses are not tracked
-— but every early and late sign-out is logged and counts towards your helper
-performance statistics.
+but you must **wait and sign out exactly on time**. Every early and late
+sign-out is logged and counts towards your helper performance statistics.
 :::
 
 ## If something goes wrong

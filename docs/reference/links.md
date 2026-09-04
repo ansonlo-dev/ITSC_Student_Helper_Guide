@@ -4,8 +4,8 @@
 
 | System | Address | Username | Password |
 | --- | --- | --- | --- |
-| **Duty Booking System** | [helperduty.top](https://helperduty.top) | Your CNA | Your **Student ID** |
-| **Sign in / Sign out** | [ics.ln.edu.hk/helper](https://ics.ln.edu.hk/helper) | Your CNA | Your **LU password** |
+| **Duty Booking System** | [helperduty.top](https://helperduty.top) | Your Username | Your **Student ID** |
+| **Sign in / Sign out** | [ics.ln.edu.hk/helper](https://ics.ln.edu.hk/helper) | Your Username | Your **LU password** |
 
 ::: warning Two systems, two different passwords
 The booking system uses your **Student ID**; the sign-in system uses your **LU

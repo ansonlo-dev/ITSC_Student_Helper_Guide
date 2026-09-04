@@ -51,7 +51,7 @@ then sign out.
 ### Which password goes where?
 
 Booking system → your **Student ID**. Sign in/out system → your **LU password**.
-Both use your CNA as the username.
+Both use your username (your student email address).
 
 ### I forgot to sign in / signed out at the wrong time / worked overtime.
 
@@ -61,8 +61,8 @@ minutes early, late, or overtime, also tell the managers.
 ### I finished the check early. Can I sign out now?
 
 No. Submit the form straight away if you are done, but **wait and sign out
-exactly on time**. IP addresses are not tracked, but every early and late
-sign-out is logged for helper performance statistics.
+exactly on time**. Every early and late sign-out is logged for helper
+performance statistics.
 
 ### Can someone else submit the form for me?
 
