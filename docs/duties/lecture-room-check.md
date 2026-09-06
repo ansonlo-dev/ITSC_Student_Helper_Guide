@@ -15,9 +15,43 @@
 ![The lecture room weekly rota](/images/lecture-room-rota.jpg)
 *The weekly rota as posted*
 
+::: info Some rooms on the rota are not what they look like
+**LCH113** is on the Thursday list, but there is no such lecture room — the map
+position is a science laboratory marked "Do not enter". **LCH416** opens only
+with LU card access, which helpers do not have. Mark both **Room closed** and
+tell Paul; the rest are on [Room quirks](/reference/links#rooms-that-behave-differently).
+:::
+
+::: tip Collect the duty bag first
+The bag lives in **LCH206A** — badge, IR mic, hygiene covers, audio CD and
+batteries. You need it to test the microphones, so pick it up on your way, and
+put everything back in it when you return it.
+:::
+
 ::: tip Access
 If you cannot get into a room, ask staff to grant access — do not skip it
 silently.
+:::
+
+### When a room is locked
+
+Rooms get locked before they are supposed to be. LCH rooms have been found shut
+from 18:00, and LCH213 and LCH206A — which should stay open until 23:00 — are
+regularly closed early.
+
+1. **Call security and ask them to open it.** Main Hotline **2616 8705**,
+   SEK **2616 8706**, LCH **2616 7250** — the numbers are on
+   [Contacts & Escalation](/reference/contacts#campus-security).
+2. **Take a photo of the locked door.** Security have told ITSC the doors were
+   open, so the photo is what settles it.
+3. If nobody comes, mark the room **Room closed** on the form and say which room
+   it was.
+
+Wear your badge — it is how the guard knows to let you in.
+
+::: tip A room with a class in it
+Mark it **Room in use** and move on. You do not interrupt a lesson to run a
+check, and "in use" is a real answer, not a gap in your report.
 :::
 
 ## The form
@@ -97,6 +131,13 @@ or **Duplicate**. This is the single most common fault found.
 *Can read the data from CD?* — **Ok / Not ok / N/A**. LCH209 uses it for IELTS
 and password tests, and some teachers still teach from CDs.
 
+::: tip Reading is the test, playing is not
+The drive passes if the **icon in This PC changes** when you insert the disc and
+you can see the files on it. An audio track that no player will open is an
+**outdated file format on an old CD**, not a broken drive — do not report it as
+a fault.
+:::
+
 ### 14. Speaker Sound Test
 
 The form links a YouTube clip to play. Sound audible = Ok.
@@ -108,6 +149,13 @@ The form links a YouTube clip to play. Sound audible = Ok.
 ### 17. Wireless Infrared / Digital Hand-held Microphone Sound Test
 
 *Digital hand-held microphone will put on teacher Podium or table.*
+
+::: tip A silent mic is usually a flat battery
+**Change the battery before you report it.** Carry spares — they are kept in the
+**LCH206A** cabinet along with the hygiene covers, and the duty bag has two AA
+cells in it. In **MBG06** the IR mic is not supported at all: that room is
+tested on the **digital mic on the podium**.
+:::
 
 ### 18. Desk
 
@@ -142,6 +190,16 @@ includes the "Using the Control AV Control System" reference cards.
 ### 24. Visualizer Check Result
 
 Open it and switch inputs.
+
+::: warning Old AV rooms cannot send it to the projector
+In **LCH206, LCH209 and LCH213** the AV system is the older generation and
+**cannot put the visualizer on the projector directly**. Test it by opening the
+**PC's Camera app** and selecting the visualizer as a webcam. **MBG11** has no
+visualizer button on its panel at all — same method.
+
+If a visualizer powers on but shows nothing anywhere, **restart the AV system
+and re-select the source** before you report it.
+:::
 
 ### 25. Remark
 

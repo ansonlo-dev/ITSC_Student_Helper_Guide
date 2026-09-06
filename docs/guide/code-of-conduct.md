@@ -80,6 +80,13 @@ The badge does three jobs:
 3. It lets **security guards identify you** when you ask for room access
    after hours.
 
+::: warning No badge, no shift
+Collect your badge before your first duty. Working without one means the hours
+**are not counted**, and repeated cases can have your duties suspended
+altogether. If you have lost yours or cannot collect it — you are on exchange,
+or away from Hong Kong — tell Jason rather than working without it.
+:::
+
 ![The ITSC Student Helper badge and lanyard](/images/badge.jpg)
 *The ITSC Student Helper badge*
 
@@ -101,8 +108,13 @@ If you cannot make a booked shift:
 2. **Remove your duty record** from
    [helperduty.top](https://helperduty.top) yourself.
 
-Both steps are required — the message alone does not free the slot. Send it as
-early as you can; a late leave message is nearly as disruptive as no message.
+Both steps are required — the message alone does not free the slot.
+
+::: warning At least 30 minutes before the shift
+That is the floor, not the target. Send it as early as you know, so somebody
+else has a real chance to pick the slot up — a leave message posted after the
+duty has already started frees nothing and helps nobody.
+:::
 
 ![A leave message in the WhatsApp group](/images/whatsapp-leave.jpg)
 *A leave message in the group chat*
@@ -139,5 +151,10 @@ We need to put everything back to its position, neat and tidy.
 - Return the **Ricoh printer key** to where you picked it up, and lock the
   printer again.
 - Return the duty bag and its contents (badge, mic, covers, audio CD, batteries)
-  to LCH206A or MB202 as appropriate.
+  to LCH206A or MB202 as appropriate. **Put everything back inside it first** —
+  a CD left on a lectern and a bag left in the room after a check have both
+  happened, and the next helper is the one who pays for it.
+- If you used the last of something in the bag — the microphone hygiene covers,
+  for example — **take a different bag and say so in the group**, so it gets
+  restocked.
 - Loaned equipment must go back to the store room, complete with all accessories.

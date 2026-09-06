@@ -122,6 +122,18 @@ the **exact values**:
 Copy the numbers exactly in that format. Rounded or remembered figures are not
 useful for spotting a trend across weeks.
 
+::: tip If the OFCA page will not load
+It has been unavailable before. The network team's stand-in is
+<https://www.speedtest.net/> — use it, say on the form which tool you used, and
+still record latency, jitter, download and upload as numbers.
+:::
+
+::: warning "Ok" is not a ping result
+The network team have asked for this twice: a ping or speed-test question wants
+the **measured figures**, not the word "Ok". A tick tells them nothing about
+whether the hostel link degraded this week.
+:::
+
 ## If the network is down
 
 Record it honestly on the form — a failed check is a finding, not a mistake —

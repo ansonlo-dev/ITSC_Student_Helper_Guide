@@ -18,6 +18,13 @@ Two things, both required: post a leave message in the **WhatsApp group**, and
 **remove your duty record** from the booking system yourself. See
 [Work Precautions](/guide/code-of-conduct).
 
+### How late can I send a leave message?
+
+**At least 30 minutes before the shift starts**, and earlier if you already
+know. A message posted after the duty has begun frees nothing — and deleting the
+booking without posting the message is just as much of a problem, because nobody
+sees the slot going spare.
+
 ### Someone posted a leave message and I want to take it.
 
 Reply in the WhatsApp group, then **reserve the duty record** in the booking
@@ -47,6 +54,19 @@ Booking Records Today", you have no booking for today.
 You have not submitted the checking result. The page lists what is missing, for
 example "\*\*\* Printer Check \*\*\* (expected: 1, actual: 0)". Submit the form,
 then sign out.
+
+### How early can I sign in, and what counts as late?
+
+You can sign in from **15 minutes before** your shift, no earlier. More than
+**7 minutes** after the start is recorded as a late sign-in, and more than 7
+minutes before the end as an early sign-out; both appear in the monthly
+attendance statistics.
+
+### My duty covers several rooms. When do I sign in?
+
+**Sign in at the first room you reach**, then do the whole round, then submit
+the form and sign out — from any device, your own phone included. Doing the
+check first and signing in afterwards is recorded as a late sign-in.
 
 ### Which password goes where?
 
@@ -164,6 +184,44 @@ it self-diagnose and eject. Only then use the **pliers** (SEKG02 copier 01
 Tray 2, or the NAB206A B&W copier Tray 2), wrapping the card in **thick cloth**
 and warning the user the card may be damaged.
 
+### The room is locked. What do I do?
+
+**Call security to open it** — Main Hotline **2616 8705**, SEK **2616 8706**,
+LCH **2616 7250** — and **photograph the locked door**. If nobody comes, mark
+the room **Room closed** on the form. Wear your badge; it is how the guard
+identifies you.
+
+### The room has a class in it.
+
+Mark it **Room in use** and move on. You do not interrupt a lesson to run a
+check.
+
+### The CD will not play. Is the drive broken?
+
+Probably not. If the **icon in This PC changes** and you can see the files, the
+drive works — an audio track no player will open is an outdated file format on
+an old disc, not a hardware fault.
+
+### The visualizer will not show on the projector.
+
+In **LCH206, LCH209 and LCH213** it never will: the old AV system cannot feed it
+to the projector, so test it through the **PC's Camera app** as a webcam.
+**MBG11** has no visualizer button on the panel — same method. Otherwise
+**restart the AV system and re-select the source**.
+
+### A microphone has no sound.
+
+**Change the battery first.** Spares are in the LCH206A cabinet. In **MBG06**
+the IR mic is not supported at all — test the podium mic — and **LKK107, LKK108
+and LKK110** have a wired mic only.
+
+### How do I count the paper stock?
+
+In the **MB402 store room**, not off the shelf by the counter. An A4 box holds
+**5 packs** and an A3 box **3 packs**: record whole **boxes** where they are
+unopened and count the leftover **packs** in an opened one. Do not convert
+between the two.
+
 ### When do I report toner?
 
 When it is empty, or when any colour reads **under 20% – 30%** on the
@@ -184,4 +242,7 @@ Tell staff straight away. Problems get much more expensive when they are hidden.
 
 ### What should I bring or wear?
 
-Wear your **ITSC Student Helper badge** whenever you are on duty.
+Wear your **ITSC Student Helper badge** whenever you are on duty. Working
+without one means the **hours are not counted**, and it is what identifies you
+to security when you need a room opened. Collect it from MB402 before your first
+shift; if you cannot, tell Jason.

@@ -117,6 +117,35 @@ you will not be able to sign in.
 ![No Booking Records Today](/images/signin-no-booking.jpg)
 :::
 
+### The timing the system watches
+
+| | |
+| --- | --- |
+| **Sign in** | From **15 minutes before** the shift starts — no earlier |
+| **Late** | More than **7 minutes** after the start is recorded as a **late sign-in** |
+| **Sign out** | Any time once the report is in, but **on time** — more than 7 minutes early is recorded as an **early sign-out** |
+
+Those 7 minutes are the tolerance used in the **monthly attendance statistics**
+posted in the group. Below it, nothing is counted against you; above it, both
+ends of every shift show up in the table.
+
+### Doing a duty that covers several rooms
+
+A printer check crosses four locations and a morning check covers three rooms.
+The order is always the same:
+
+1. **Sign in from the first room you reach.**
+2. Do the whole round.
+3. **Submit the form and sign out** — from any device, your own phone or laptop
+   included. You do not have to walk back to the machine you signed in on, and
+   you do not have to stay in the room once you are finished.
+
+::: warning Sign in first, then check
+Checking every room first and signing in afterwards is recorded as a late
+sign-in, and "I was already working" is not accepted as the reason. The
+sign-in time is the start of the shift.
+:::
+
 ### Rooms you can sign in from
 
 **Computer labs:** SEKG02, SEKG03, SEK105, MB202, LBY301, LBY303, LCH201,
@@ -168,6 +197,20 @@ Finished a 2-hour check in 30 minutes? You may submit the form straight away,
 but you must **wait and sign out exactly on time**. Every early and late
 sign-out is logged and counts towards your helper performance statistics.
 :::
+
+## The reminder emails
+
+The system writes to your student email by itself:
+
+| Email | When |
+| --- | --- |
+| **Sign-in / sign-out reminder** | On a ten-minute cycle, while a shift of yours is open |
+| **Submit your checking result** | When a shift ends without a report |
+| **Tomorrow's duty summary** | Every night at **22:30** |
+
+Read the 22:30 one. It is the reason "I forgot I had a duty" stopped being an
+accepted explanation — but it is a safety net, not the roster. The booking
+system is still the thing you check.
 
 ## If something goes wrong
 

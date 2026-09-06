@@ -91,6 +91,13 @@ Check messages during your shift, and **retrieve the recordings left outside
 operating hours**. Log each one as a standard incident ticket on the enquiry
 form, exactly as you would a live call.
 
+::: warning Voice mail is part of counter duty, every shift
+Checking it when you sign in and before you sign out is expected of whoever is
+at the counter — it is asked for in the group most mornings, and skipping it is
+followed up by name. A missed message is a user who phoned outside opening hours
+and heard nothing back.
+:::
+
 ::: danger Shared credentials
 The hotline and voicemail logins above are shared team credentials. Do not share
 them outside the Student Helper team, and do not leave them written down at the
@@ -129,7 +136,15 @@ Mark down **each** encountered user enquiry and submit it via the
 
 ::: warning Pick the status honestly
 "Not fixed" is a valid, useful answer. Marking something fixed when the user
-walked away unhappy loses the follow-up entirely.
+walked away unhappy loses the follow-up entirely. A voice mail or web-inbox
+message that leaves **no way to contact the person back** is logged and marked
+unresolved — it is still a record.
+:::
+
+::: danger Every call gets a record
+**One phone call, one submission.** Not a summary at the end of your shift, not
+"nothing unusual today" — each call the counter takes is written up on this
+form while you still remember the details.
 :::
 
 ::: tip Ask when unsure

@@ -29,18 +29,19 @@ From the checking duties, in rough order of frequency:
 | --- | --- |
 | Projection mode not set to Duplicate / Extend | `Windows`+`P` → **Extend** |
 | Power plug pulled out | Check the power bar under the desk — [walkthrough](#the-pc-will-not-power-on) |
-| Monitor cable loose | Reseat at both ends |
+| Monitor cable loose | Reseat at both ends — [walkthrough](#the-monitor-is-dark-or-shows-no-signal) |
 | Touch panel volume muted or turned down | Unmute, raise it on the panel |
 | Camera looks black | The **lens cover** is closed, or it is aimed away |
 | Cannot log in to a PC | Usually no network — [fix it](#no-internet-or-the-pc-will-not-let-you-log-in), do not just note it |
 | No sound from the speakers | Check the **output device** in Windows, the connections and the **Extron panel** — [walkthrough](#no-sound-—-check-the-output-device-not-just-the-volume) |
 | Yellow label missing | Peeled off by a student; report it |
 
-## The three you fix on the spot
+## The faults you fix on the spot
 
-These three account for most of the "it is broken" calls, and all three are
-fixed without a ticket. Work them in this order: **power, then network, then
-sound** — a machine with no power cannot be tested for anything else.
+These four account for most of the "it is broken" calls, and all four are fixed
+without a ticket. Work them in this order — **power, then the screen, then the
+network, then sound**: a machine with no power cannot be tested for anything
+else.
 
 ### The PC will not power on
 
@@ -63,6 +64,28 @@ charging a phone, or by a foot under the desk.
 
 If it stays dead with everything properly plugged in, stop and report it as
 `Machine Name - Cannot Power On`. Do not open the case.
+
+### The monitor is dark, or shows no signal
+
+A lit PC with a dark screen is a **monitor** fault, not a power fault. Two
+things cause nearly all of them: the monitor's own power, and a cable that has
+worked loose at the back.
+
+1. **The monitor has its own plug and its own switch.** Follow its cable to the
+   power bar as well. Not every panel has an obvious button on the front — on
+   some models the power control sits underneath or behind the bottom bezel, so
+   feel for it before you call the screen dead.
+2. **Reseat the video cable at both ends** — the socket on the back of the
+   monitor and the port on the back of the PC. HDMI and VGA plugs both back out
+   far enough to lose signal while still looking connected.
+3. **On a second monitor or a projector, check `Windows` + `P`** — a screen set
+   to **PC Screen Only** is not broken, it is switched off.
+4. **In a room where the teacher PC feeds wall-mounted TVs**, the HDMI lead at
+   the PC end is the usual culprit. SEK105 has lost its picture on every panel
+   more than once purely because HDMI 1 had been pulled out of the teacher PC.
+
+Only report a monitor once the power, both cable ends and the display mode have
+all been checked.
 
 ### No internet, or the PC will not let you log in
 
@@ -111,6 +134,28 @@ Windows can be sending the audio to the wrong place entirely.
 Test **from the PC as well as from the AV source** — sound that works on one and
 not the other narrows the fault to that path, and that detail belongs in your
 report.
+
+## Faults that are not faults
+
+Some rooms are simply built differently, and every term the same handful of
+non-faults get reported. Check this list before you write "Not ok" — the full
+table is on [Room quirks](/reference/links#rooms-that-behave-differently).
+
+| What you see | What it actually is |
+| --- | --- |
+| **No small webcam in an LKK ground-floor room** | The camera is fixed to the wall. It appears on the PC as **"Black Magic"**, and the view is changed from the **control panel**, not from the PC. |
+| **No sound from the IR mic in MBG06** | That room runs the **digital microphone on the teacher's podium**; the IR mic is not supported there. Test the podium mic instead. |
+| **No wireless mic in LKK107, LKK108 or LKK110** | Those rooms have a **wired mic only**. Normal — not a missing item. |
+| **The visualizer will not go to the projector in LCH206, LCH209 or LCH213** | Old AV system. It cannot feed the projector directly — open it in the **PC's Camera app** as a webcam instead. |
+| **A visualizer that powers on but shows nothing** | **Restart the AV system and re-select the source** before reporting it. |
+| **A CD that will not play** | If the drive icon changes in **This PC** and you can see the files, the **drive works**. An audio track that no player will open is an outdated file format, not a hardware fault. |
+| **A wireless mic that has gone quiet** | Change the **battery** first. Spares are in the **LCH206A** cabinet — take some with you when you check. |
+
+::: tip Report the room, not the impression
+When something really is broken, say which room and which item, and attach the
+photo. "One mic is dead" costs the AV team a trip; "MBG19 gooseneck mic — no
+sound, batteries changed" does not.
+:::
 
 ## Testing a webcam in Zoom
 
@@ -186,6 +231,18 @@ machine — report it.
 ::: warning Ask rather than guess
 Ask full-time staff if there is anything you are uncertain of. **Seek help from
 the duty staff first, then others.**
+:::
+
+::: danger A classroom PC that fails during a lesson is not yours to fix
+When a teacher reports a dead PC in a room that has a class in it, **report it
+and let the PC and AV teams go**. Trivial things are fine — picking a USB stick
+out of the lectern cabinet, reseating a plug you can reach. A machine that will
+not start in front of a full room is not, and a helper going to look at it only
+delays the staff who can actually fix it.
+
+**Do not offer the teacher another room, either.** Whose job it is to find one
+is not settled, and moving a whole class is almost never the quickest way out.
+Pass the request to the duty staff.
 :::
 
 Escalate straight away, without troubleshooting, when it involves:

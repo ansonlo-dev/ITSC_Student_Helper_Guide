@@ -74,6 +74,10 @@ You are supposed to arrive before the room is occupied. Repeatedly reporting
 "in use" means the check is being done too late.
 :::
 
+Locked rooms are a different matter: **call security to open it** — Main Hotline
+**2616 8705**, SEK **2616 8706**, LCH **2616 7250** — and photograph the door if
+nobody comes. Wear your badge; it is what identifies you to the guard.
+
 ### Lamp — lighting in the room
 
 Report any broken light. MBG11, for example, has a history of tripping its
@@ -135,11 +139,18 @@ teacher's cabinet**, switch it on and do a quick voice check — saying "hello"
 into it is enough. Rooms with an **IR mic** must have that tested too.
 
 **Spares** — replacement batteries, headset covers and backup microphones — are
-stored in the **LCS 206A cabinet**.
+stored in the **LCH206A cabinet**.
 
 ::: warning Special lecture theatres: use the podium microphone
 In **LBY, MBG22, MBG6 and LBY GC1**, do **not** use the wireless backups. Test
-with the **digital microphone mounted directly on the podium**.
+with the **digital microphone mounted directly on the podium**. **MBG06 does not
+support the IR mic at all** — silence from it there is not a fault.
+:::
+
+::: tip Change the battery before you report a silent mic
+Carry spare cells with you; a flat battery is the usual cause. **LKK107, LKK108
+and LKK110 have no wireless mic** — the wired one is all there is, and that is
+normal.
 :::
 
 Morning Check has caught silent mics in LBY and LKKG01 before they affected a
@@ -180,6 +191,14 @@ meaningfully test the microphone or the other equipment.
 
 Open it and switch inputs to test.
 
+::: warning Old AV rooms need the Camera app
+**LCH206, LCH209 and LCH213** run the older AV system, which cannot put the
+visualizer on the projector directly — open the **PC's Camera app** and select
+the visualizer as a webcam instead. **MBG11** has no visualizer button on its
+panel; same method. A visualizer that powers on but shows nothing usually comes
+back after you **restart the AV system and re-select the source**.
+:::
+
 ## Work evidence (required)
 
 Morning Check requires a **photo** as work evidence, and the field is
@@ -198,7 +217,11 @@ Two shots are expected, both uploaded through the Microsoft Form:
 
 The photo must show the **time** and the **surrounding environment**, not just a
 selfie. A good pattern: photograph the camera while it is switched on, yourself,
-and the state of the room.
+and the state of the room. **The teacher's monitor must be visibly powered on**
+in the shot — that is the detail Paul checks, and a photo that does not show it
+comes back to you.
+
+You do not need to rename the file; the form records who submitted it.
 
 ::: danger Found a fault? Post it now
 If a check turns up a fault, **post a photo to the WhatsApp group immediately** —

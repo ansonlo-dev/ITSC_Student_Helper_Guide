@@ -68,9 +68,22 @@ The light must be **steady green**.
 ![The Octopus reader light on a Ricoh copier](/images/printer-guide/octopus-light.jpg)
 *The Octopus light — steady green is the only acceptable state*
 
-::: warning This one you cannot fix
-If the light is not steady green there is nothing you can do at the machine —
-**report it to ITSC**.
+::: warning Check the copier is powered on first
+A dead reader is often a **dead copier**: the reader takes its power from the
+machine, so when the copier switches itself off — after an error, or because
+somebody pressed the switch — the Octopus screen goes dark with it. Open the
+front cover of the copier and look for the **red power button inside**; pressing
+it brings the machine and the reader back together. This has fixed SEKG02 more
+than once.
+
+If the copier is plainly running and the light still is not steady green, there
+is nothing more you can do at the machine — **report it to ITSC**.
+:::
+
+::: tip The reader has its own key
+The **card reader key hangs on the same ring as the printer key**. Use it to
+restart the reader on its own before you resort to power-cycling the whole
+copier.
 :::
 
 ### 2. Octopus screen and copier screen
@@ -179,6 +192,24 @@ panels** and confirm there are no further errors.
 ![Re-checking the copier touch panel](/images/printer-guide/recheck-panel.jpg)
 *Last step — confirm the panel is clear*
 
+## The new colour copiers
+
+In **September 2026** the colour copiers in **SEKG02** and **LCH206A** were
+replaced with **Ricoh C6010** units. They do not behave like the older machines:
+
+- The panel **asks you to log in** before it shows anything, so the usual status
+  screen is not there when you walk up.
+- **Check Status** does work once the **screen protector is peeled off** the
+  panel — helpers who left the film on could not get a status reading at all.
+- When they were installed they could **scan and copy but not receive print jobs
+  from the PCs**.
+
+ITSC asked for these two to be marked **"Out of Service"** on the form while the
+vendor works on them, and promised fuller training on the new model. Check the
+WhatsApp group for the current instruction before you invent an answer, and if
+the panel will not tell you anything, say so on the form rather than writing
+"Ok".
+
 ## Toner
 
 - Replace the toner when it is **empty**.
@@ -202,6 +233,11 @@ another in the **NAB206A B&W copier, Tray 2**. Pliers are available at
 3. **Wrap the card in thick cloth first** — it protects the card and gives you
    grip.
 4. **Warn the user that the card may be damaged** before you start pulling.
+
+If it still will not come out, or you are not on duty and the owner is standing
+there, **the security guard can help** — hand the card to the **Security
+Office**, photograph it, and post it in the WhatsApp group so ITSC can tell the
+owner where it went.
 
 ::: tip The card reader has its own power switch
 Turning **the card reader's power off, waiting 1 minute, then turning it back
@@ -236,6 +272,23 @@ weekend shifts.
 Count the remaining **A4 and A3 paper boxes** in the **MB402 paper store** and
 record how many are left. Know where the boxes are kept and what the packaging
 looks like before your first session.
+
+::: warning Count the store room, not the shelf
+The stock being counted is the one in the **MB402 warehouse**. The few packs
+sitting on the shelf by the counter are not it.
+:::
+
+### How to count boxes and packs
+
+| Paper | Packs in a box |
+| --- | --- |
+| **A4** | 5 |
+| **A3** | 3 |
+
+- **Unopened boxes** — just record the number of **boxes**.
+- **An opened box** — count how many **packs** are left in it.
+- **Do not convert** between the two. The form has a field for each, and
+  converting packs back into boxes is how the count goes wrong.
 
 ::: tip If you run out of time
 If paper is low but you cannot finish refilling within your session, **mark it on

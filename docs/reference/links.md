@@ -96,8 +96,26 @@ Worth knowing before you mark something "Not ok":
 | --- | --- |
 | SEK105 | No CD-Rom, no printer |
 | LCH413 | No printer |
+| LYH308 | No PC — check the lighting and the TV only |
+| LKK107, LKK108, LKK110 | No wireless mic; the wired mic is the only one, and that is normal |
+| MBG11 | No visualizer option on the touch panel — use the PC's Camera app |
 | LKK new-build rooms | No tripod (cameras fixed to the curtain wall) |
 | LKKG0X | Camera settings cannot be changed in the Windows Camera app — use Zoom |
+
+## Rooms that behave differently
+
+Every one of these has been reported as a fault by a helper who did not know:
+
+| Room | What is different |
+| --- | --- |
+| **MBG06** | The room's microphone is the **digital mic on the teacher's podium**. The IR mic is **not supported** — no sound from it is not a fault. |
+| **LKK ground floor** | The webcam is **fixed to the wall**, not a small camera on the desk. It shows up on the PC as **"Black Magic"**, and the view is switched from the **control panel**. |
+| **LCH206, LCH209, LCH213** | **Old AV system.** The visualizer cannot be sent straight to the projector — open it in the **PC's Camera app** as a webcam instead. |
+| **LYH319 / LYH320** | Wired by the AV team in **combined mode** — one control panel serves both rooms. |
+| **WYL314** | A **conference room**; a notebook stands in for the teacher PC. |
+| **LCH416** | Opens only with **LU card access**, which helpers do not have — mark **Room closed**. |
+| **LCH113** | **There is no such lecture room.** LCH 1/F has a science laboratory marked "Do not enter" where the map shows LCH113. If it appears on your rota, mark **Room closed** and tell Paul. |
+| **SEKG02, LCH206A colour copiers** | Replaced in September 2026 with **Ricoh C6010** units that ask you to log in — see [Printer Check](/duties/printing#the-new-colour-copiers). |
 
 ## Other references
 

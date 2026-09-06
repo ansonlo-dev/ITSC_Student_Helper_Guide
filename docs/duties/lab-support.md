@@ -12,6 +12,14 @@ Signing out 15 minutes early is a breach, not a rounding error. Be punctual at
 both ends of the shift.
 :::
 
+::: tip Locked out, or a class still running
+Labs are often locked before their posted closing time. **Call security to open
+it** — Main Hotline **2616 8705**, SEK **2616 8706**, LCH **2616 7250** — and
+**photograph the locked door**, because security have reported the doors as
+open. If the lab has a class or an assessment in it, mark it **Room in use** and
+say so in the remark; you do not interrupt it.
+:::
+
 ## Who checks what
 
 | Day | Computer Lab Helper 1 | Computer Lab Helper 2 | Computer Lab Helper 3 |
@@ -200,6 +208,13 @@ the **lens cover closed** or turned it away. Check the cover before reporting.
 - Monitor cable loose
 - Touch panel volume muted or turned right down
 - Webcam case cover left closed
+
+Every one of those is fixable at the machine in under a minute, and most reports
+of "PC cannot power on" and "no sound" in the labs turn out to be the first two
+and the wrong Windows output device. Walk through
+[the faults you fix on the spot](/tips/troubleshooting#the-faults-you-fix-on-the-spot)
+before you write anything down — then report what survived it, in the
+`Machine Name - Issue` format, with a photo.
 
 ## Before you leave
 
