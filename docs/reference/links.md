@@ -121,6 +121,7 @@ Every one of these has been reported as a fault by a helper who did not know:
 
 | Resource | Where |
 | --- | --- |
+| Every ITSC printer — capabilities, addresses and fees | [Printer Directory](/facilities/printers) |
 | Equipment on Loan service page | <https://www.ln.edu.hk/itsc/services/multimedia-and-av-services/desktop-pc-av-equipment-on-loan-for-supporting-university-events> |
 | Equipment On Loan System | SUS IMS |
 | Classroom Equipment List | SharePoint, linked from the Lecture Room Checklist |

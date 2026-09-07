@@ -60,9 +60,16 @@ TERMS = [
     ("导修室", "辅导室"), ("储物室", "储藏室"), ("工作证", "工作证"),
     ("翌週", "次周"), ("紙盤", "纸盒"), ("纸盘", "纸盒"),
     ("死线", "截止时间"), ("影音", "视听"), ("屏幕", "显示器"),
+    # --- printer directory vocabulary ---------------------------------------
+    # 支援 is deliberately absent: it is the tech "support" in most of the guide
+    # but plain "assist" in a couple of places, and a blanket rule would flatten
+    # both. Fix those by hand if they read wrong.
+    ("选单", "菜单"), ("上载", "上传"), ("位址", "地址"),
+    ("未有人", "没有人"), ("未有记录", "没有记录"),
     # --- fixups after the broad rules above ---------------------------------
     ("校园安全（人身安全）", "校园保卫（人身安全）"),
     ("一台分机器", "一台机器"),
+    ("保存格", "单元格"),  # 儲存格, mangled by the broad 储存 -> 保存 rule
 ]
 
 # Mainland convention uses “ ” rather than the 「 」 used in TW/HK.

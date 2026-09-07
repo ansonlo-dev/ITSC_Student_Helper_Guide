@@ -118,6 +118,7 @@ XClass 登入：用你自己的用戶名稱及密碼，**Domain 填 `LNDAXUE`**�
 
 | 資源 | 位置 |
 | --- | --- |
+| ITSC 打印機的功能、位址與收費 | [打印機一覽](/zh-TW/facilities/printers) |
 | 器材外借服務頁面 | <https://www.ln.edu.hk/itsc/services/multimedia-and-av-services/desktop-pc-av-equipment-on-loan-for-supporting-university-events> |
 | 器材外借系統 | SUS IMS |
 | Classroom Equipment List | SharePoint，由 Lecture Room Checklist 連結 |

@@ -145,7 +145,8 @@ is a common cause — and it needs fixing immediately, not just noting.
 #### 14. Printer (Teacher PC)
 *Test printing in Teacher PC* — **Ok / Not ok / N/A**. Printing `1 2 3` from
 **Notepad** is enough to confirm the default printer actually outputs paper.
-**SEK105 and LCH413 have no printer.** LCH CO3 does have one.
+**SEK105 and LCH413 have no printer.** LCH CO3 does have one. Which room has
+which machine is in the [Printer Directory](/facilities/printers).
 
 #### 15. Desk
 

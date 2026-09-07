@@ -21,6 +21,13 @@ across 4 campus locations**. It ends with the Printer & Paper Stock Check form.
 | **LCH206A** | Colour printer + **1** B&W printer |
 | **MB202** | B&W copier — **closes at 17:00** |
 
+::: tip Every ITSC printer, not just these seven
+The [Printer Directory](/facilities/printers) lists all **15 ITSC machines** —
+what each one does, its IP address and host name, and the fees. It is the page to
+open when a user asks where to print in colour or A3, or how to print from their
+own laptop.
+:::
+
 ![Printers in SEKG02](/images/printers-sekg02.jpg)
 
 ![The printer in LCH213, the Language Laboratory](/images/printer-lch213.jpg)
@@ -204,6 +211,10 @@ replaced with **Ricoh C6010** units. They do not behave like the older machines:
 - When they were installed they could **scan and copy but not receive print jobs
   from the PCs**.
 
+Their full specification is in the Printer Directory —
+[SEKG02](/facilities/printers#sekg02-colour-copier) and
+[LCH206A](/facilities/printers#lch206a-colour-copier).
+
 ITSC asked for these two to be marked **"Out of Service"** on the form while the
 vendor works on them, and promised fuller training on the new model. Check the
 WhatsApp group for the current instruction before you invent an answer, and if
@@ -246,12 +257,14 @@ on** also works: the reader runs a self-diagnosis and ejects the card safely.
 
 ## Scanning
 
-- **Free scanning** — scanning to an email address — is available on **all
-  copiers in our computer labs**.
+- **Free scanning** — scanning to an email address — is available on **almost
+  every copier in our computer labs**.
 - Use the copier's **built-in Scanning function**.
+- **One cannot do it**: the **SEKG02 B&W Copier 01**.
 
 Users ask about this at the counter, so it is worth knowing which machines can do
-it.
+it — the [Printer Directory](/facilities/printers) marks scanning machine by
+machine.
 
 ## What to refill, and when
 

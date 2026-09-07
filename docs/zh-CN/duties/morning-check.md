@@ -56,6 +56,14 @@ SEK 原有的两个时段除外，其他全部为 3 间房一组。
 - **SEKG03 & Software** —— 另需检查 **SPSS & AMOS** 及 **SDL**。
 - **SEK105 & Printer** —— 另需检查该房的打印机。
 
+::: info “SEK105”那台打印机究竟是哪一台？
+[系统与链接](/zh-CN/reference/links#没有某些设备的房间)写明 **SEK105 没有
+打印机**，而打印机资料表把 SEK 区唯一那台放在 **SEKG03**，主机名却是
+`prn-lab-sek105.ln.edu.hk`。也就是说，时段名称用的是主机名，不是房间。动手
+标“Not ok”之前，先向值班职员确认要检查的是哪一台；该机的资料见
+[打印机一览](/zh-CN/facilities/printers#sekg03)。
+:::
+
 各房间装有哪些软件，见[软件覆盖范围](/zh-CN/reference/links#软件覆盖范围)。
 
 ## 逐项检查与注意事项

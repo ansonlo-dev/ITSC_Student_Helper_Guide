@@ -21,6 +21,7 @@ export default {
   // =============================================================================
   'sidebar.group.gettingStarted': '入门',
   'sidebar.group.duties': '职务',
+  'sidebar.group.facilities': '设施资料',
   'sidebar.group.tips': '提示',
   'sidebar.group.reference': '参考',
 
@@ -38,6 +39,8 @@ export default {
   'sidebar.labCheck': '电脑室检查',
   'sidebar.lectureRoomCheck': '教室检查',
   'sidebar.hostelClinicCheck': '宿舍网络检查',
+
+  'sidebar.printerDirectory': '打印机一览',
 
   'sidebar.tipsOverview': '提示总览',
   'sidebar.troubleshooting': '故障排查手册',
@@ -101,5 +104,74 @@ export default {
   'lightbox.reset': '适应屏幕',
   'lightbox.close': '关闭',
   'lightbox.previous': '上一张图片',
-  'lightbox.next': '下一张图片'
+  'lightbox.next': '下一张图片',
+
+  // =============================================================================
+  // 9. PRINTER DIRECTORY - 打印机一览
+  // =============================================================================
+  'printers.search': '搜索房间、地址、牌子或型号',
+  'printers.filter.needs': '需要',
+  'printers.showing': '显示 {total} 台中的 {shown} 台',
+  'printers.reset': '清除筛选',
+  'printers.none': '没有打印机同时符合以上条件，请取消其中一项再试。',
+
+  'printers.need.colour': '彩色',
+  'printers.need.a3': 'A3',
+  'printers.need.duplex': '双面',
+  'printers.need.scanToEmail': '扫描至邮件',
+  'printers.need.copy': '复印',
+  'printers.need.ownDevice': '用自己的电脑',
+  'printers.need.mobile': '用手机',
+  'printers.need.free': '免费',
+
+  'printers.pill.colour': '彩色',
+  'printers.pill.bw': '黑白',
+  'printers.pill.a3': 'A3',
+  'printers.pill.scan': '扫描',
+  'printers.pill.paid': '八达通',
+  'printers.pill.free': '免费',
+
+  'printers.field.ip': 'IP 地址',
+  'printers.field.host': '主机名',
+  'printers.copy': '复制',
+  'printers.copied': '已复制',
+
+  'printers.group.output': '纸张与输出',
+  'printers.group.printFrom': '可以从哪里打印',
+  'printers.group.atTheMachine': '在机器上可做',
+
+  'printers.feature.colour': '彩色',
+  'printers.feature.bw': '黑白',
+  'printers.feature.a4': 'A4',
+  'printers.feature.a3': 'A3',
+  'printers.feature.duplex': '双面',
+  'printers.feature.campusWindows': '学校的 Windows 电脑',
+  'printers.feature.campusMac': '学校的 Mac',
+  'printers.feature.personalWindows': '自己的 Windows 电脑',
+  'printers.feature.personalMac': '自己的 Mac',
+  'printers.feature.personalLinux': '自己的 Linux 电脑',
+  'printers.feature.webPdf': '打印机网页（上传 PDF）',
+  'printers.feature.android': 'Android 手机',
+  'printers.feature.ios': 'iPhone 或 iPad',
+  'printers.feature.scanToEmail': '扫描至邮件',
+  'printers.feature.copy': '复印',
+  'printers.feature.nfcOctopus': '手机八达通（NFC）',
+  'printers.feature.charged': '需要收费',
+  'printers.feature.selfPaper': '要自备纸张',
+
+  'printers.support.yes': '可以',
+  'printers.support.no': '不可以',
+  'printers.support.untested': '未测试',
+  'printers.support.unknown': '没有记录',
+  'printers.legend.untested': '未测试 —— 装好驱动程序理论上可行，但没有人实际试过。',
+  'printers.legend.unknown': '来源电子表格没有填这一格。',
+
+  'printers.note.campusNetwork': '以上全部都要连校园网络 —— 校园 Wi-Fi，或在校外经 LUVPN。',
+  'printers.mobile.web': '用浏览器开该 IP 地址，在左边菜单按 Print，然后上传要打印的 PDF。',
+  'printers.mobile.ricohApp':
+    '在“RICOH Smart Device Connector”App 内加入该主机名，再从 App 打印 PDF。',
+
+  'printers.queues.title': '个人电脑的打印队列',
+  'printers.queues.driver': '驱动程序',
+  'printers.queues.note': '在 Ubuntu 24.04 上测试过。任何支持以 URI 添加打印机的系统都可用同一地址。'
 }

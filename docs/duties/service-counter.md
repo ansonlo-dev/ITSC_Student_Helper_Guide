@@ -25,6 +25,12 @@ is usually a matter of turning to the person beside you.
 Typical enquiry topics: service hotline, user account, on loan, network, 2FA,
 and other ad-hoc issues.
 
+::: tip Printing questions have their own page
+"Where can I print in colour?", "How much is A3?", "Can I print from my laptop?"
+— all of it is in the [Printer Directory](/facilities/printers), with the fees
+and every machine's address.
+:::
+
 ::: tip Most enquiries are two topics
 **80% to 90% of basic user enquiries are about LUVPN and Duo two-factor
 authentication (2FA).** Learn those two first. The knowledge-base links on the

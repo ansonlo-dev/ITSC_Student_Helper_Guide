@@ -138,7 +138,8 @@ Machine Name - Issue
 #### 14. Printer (Teacher PC)（打印机）
 *Test printing in Teacher PC* —— **Ok / Not ok / N/A**。用 **Notepad** 打印
 `1 2 3` 已经足够确认默认打印机真的能出纸。
-**SEK105 及 LCH413 没有打印机。** LCH CO3 则设有打印机。
+**SEK105 及 LCH413 没有打印机。** LCH CO3 则设有打印机。哪个房间有哪一台机器，
+见[打印机一览](/zh-CN/facilities/printers)。
 
 #### 15. Desk（枱）
 

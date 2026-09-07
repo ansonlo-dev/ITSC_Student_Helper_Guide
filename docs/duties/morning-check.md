@@ -60,6 +60,15 @@ every student machine in the room.
 - **SEKG03 & Software** — also check **SPSS & AMOS**, and **SDL**.
 - **SEK105 & Printer** — also check the printer in that room.
 
+::: info Which printer is the "SEK105" one?
+[Systems & Links](/reference/links#rooms-without-certain-equipment) records that
+**SEK105 has no printer**, and the printer sheet puts the only SEK-block machine
+in **SEKG03** — under the host name `prn-lab-sek105.ln.edu.hk`. So the name on
+the slot is the host name, not the room. Ask the duty staff to confirm which
+machine you are meant to check before you mark anything "Not ok"; the entry is in
+the [Printer Directory](/facilities/printers#sekg03).
+:::
+
 See [Software coverage](/reference/links#software-coverage) for which rooms have
 which software.
 

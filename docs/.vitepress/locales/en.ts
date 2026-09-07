@@ -22,6 +22,7 @@ export default {
   // =============================================================================
   'sidebar.group.gettingStarted': 'Getting Started',
   'sidebar.group.duties': 'Duties',
+  'sidebar.group.facilities': 'Facilities',
   'sidebar.group.tips': 'Tips',
   'sidebar.group.reference': 'Reference',
 
@@ -39,6 +40,8 @@ export default {
   'sidebar.labCheck': 'Computer Lab Check',
   'sidebar.lectureRoomCheck': 'Lecture Room Check',
   'sidebar.hostelClinicCheck': 'Hostel Clinic Check',
+
+  'sidebar.printerDirectory': 'Printer Directory',
 
   'sidebar.tipsOverview': 'Overview',
   'sidebar.troubleshooting': 'Troubleshooting Playbook',
@@ -102,5 +105,78 @@ export default {
   'lightbox.reset': 'Fit to screen',
   'lightbox.close': 'Close',
   'lightbox.previous': 'Previous image',
-  'lightbox.next': 'Next image'
+  'lightbox.next': 'Next image',
+
+  // =============================================================================
+  // 9. PRINTER DIRECTORY - 打印機一覽
+  // =============================================================================
+  'printers.search': 'Search a room, address, brand or model',
+  'printers.filter.needs': 'Needs',
+  'printers.showing': 'Showing {shown} of {total} printers',
+  'printers.reset': 'Clear filters',
+  'printers.none': 'No printer does all of that. Drop a filter and try again.',
+
+  'printers.need.colour': 'Colour',
+  'printers.need.a3': 'A3',
+  'printers.need.duplex': 'Double-sided',
+  'printers.need.scanToEmail': 'Scan to email',
+  'printers.need.copy': 'Copy',
+  'printers.need.ownDevice': 'From your own computer',
+  'printers.need.mobile': 'From a phone',
+  'printers.need.free': 'Free',
+
+  'printers.pill.colour': 'Colour',
+  'printers.pill.bw': 'B&W',
+  'printers.pill.a3': 'A3',
+  'printers.pill.scan': 'Scan',
+  'printers.pill.paid': 'Octopus',
+  'printers.pill.free': 'Free',
+
+  'printers.field.ip': 'IP address',
+  'printers.field.host': 'Host name',
+  'printers.copy': 'Copy',
+  'printers.copied': 'Copied',
+
+  'printers.group.output': 'Paper & output',
+  'printers.group.printFrom': 'Can print from',
+  'printers.group.atTheMachine': 'At the machine',
+
+  'printers.feature.colour': 'Colour',
+  'printers.feature.bw': 'Black & white',
+  'printers.feature.a4': 'A4',
+  'printers.feature.a3': 'A3',
+  'printers.feature.duplex': 'Double-sided',
+  'printers.feature.campusWindows': 'A campus Windows PC',
+  'printers.feature.campusMac': 'A campus Mac',
+  'printers.feature.personalWindows': 'Your own Windows PC',
+  'printers.feature.personalMac': 'Your own Mac',
+  'printers.feature.personalLinux': 'Your own Linux PC',
+  'printers.feature.webPdf': 'Its web page (upload a PDF)',
+  'printers.feature.android': 'An Android phone',
+  'printers.feature.ios': 'An iPhone or iPad',
+  'printers.feature.scanToEmail': 'Scan to email',
+  'printers.feature.copy': 'Copy',
+  'printers.feature.nfcOctopus': 'Octopus on a phone (NFC)',
+  'printers.feature.charged': 'Charges for printing',
+  'printers.feature.selfPaper': 'You supply the paper',
+
+  'printers.support.yes': 'Yes',
+  'printers.support.no': 'No',
+  'printers.support.untested': 'Not tested',
+  'printers.support.unknown': 'Not recorded',
+  'printers.legend.untested':
+    'Not tested — it should work once the driver is installed, but nobody has confirmed it.',
+  'printers.legend.unknown': 'Not recorded in the source sheet.',
+
+  'printers.note.campusNetwork':
+    'All of these need the campus network — campus Wi-Fi, or LUVPN from off campus.',
+  'printers.mobile.web':
+    'Open the IP address in a browser, choose Print in the left sidebar, then upload the PDF.',
+  'printers.mobile.ricohApp':
+    'Add the host name in the RICOH Smart Device Connector app, then print the PDF from there.',
+
+  'printers.queues.title': 'Queue for a personal computer',
+  'printers.queues.driver': 'Driver',
+  'printers.queues.note':
+    'Tested on Ubuntu 24.04. The same address works from any system that can add a printer by URI.'
 }
