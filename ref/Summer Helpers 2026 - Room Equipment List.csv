@@ -1,0 +1,210 @@
+﻿,Room,,Display,,,,,Camera,,Rom,,Network,Mic,,,,,Printer,Software
+Building,Room,Room Type,"PC with Dual
+ Monitors",Notebook with Single Monitor,Projector,Display Panel,Visualizer,Webcams,PTZ Camera,USB Bluray Rom,CD Rom,Wireless Presentation Gateway,Gooseneck Mic,IR Wireless Mic,Digital Wireless Mic,Wired Mic,Ceiling Mic,Printer,XClass,SPSS & AMOS,SDL,Matlab
+AUD,AUD (Chan Tak Tai Auditorium),Multi-purpose Hall,Yes,,1 (OCDM),,1,"1 (Facing Teacher)
+1 (Facing Student)",,,,,1,,,1,,,,Yes,,
+LBY,LBY301,Language Laboratory,Yes,,1,,1,"1 (Facing Teacher)
+1 (Facing Student)",,,,,1,3 (On-loan request),,1,,1 (B&W),Yes,,Yes,
+LBY,LBY303,Language Laboratory,Yes,,1,,1,"1 (Facing Teacher)
+1 (Facing Student)",,,,,1,3 (On-loan request),,1,,1 (B&W),Yes,,Yes,
+LBY,LBYG01,Lecture Theatre,,Yes,,,1,,3,1,,14,1,,"1 (Rechargeable on lectern)
+ 2 (On-loan request)",1,Yes,,,Yes,,
+LBY,LBYG02,Lecture Theatre,,Yes,,,1,,3,1,,19,1,,"1 (Rechargeable on lectern)
+ 2 (On-loan request)",1,Yes,,,Yes,,
+LBY,LBYG06,Lecture Room,Yes,,,"1 (108"" LED Wall)
+ 1 (43"" Confident Monitor)",1,,2,,,,1,3 (On-loan request),2 (On-loan request),1,Yes,,,Yes,,
+LCH,LCH101,Lecture Room,,,,,,,,,,,,,,,,,,Yes,,
+LCH,LCH102,Lecture Room,,,,,,1,,,,,,,,,,,,Yes,,
+LCH,LCH103,Lecture Room,,,,,,,,,,,,,,,,,,Yes,,
+LCH,LCH104,Lecture Room,,,,,,,,,,,,,,,,,,Yes,,
+LCH,LCH105,Lecture Room,,,,,,,,,,,,,,,,,,Yes,,
+LCH,LCH106,Lecture Room,,,,,,,,,,,,,,,,,,Yes,,
+LCH,LCH110,Lecture Room,,,,,,,,,,,,,,,,,,Yes,,
+LCH,LCH111,Lecture Room,,,,,,,,,,,,,,,,,,Yes,,
+LCH,LCH113,Science Laboratory,Yes,,1,,1,"1 (Facing Teacher)
+1 (Facing Student)",,,,,1,2 (On-loan request),,1,,,,Yes,,
+LCH,LCH115,Lecture Room,Yes,,1,,1,"1 (Facing Teacher)
+1 (Facing Student)",,,,,1,3 (On-loan request),,1,,,,Yes,,
+LCH,LCH117,Lecture Room,,,,,,,,,,,,,,,,,,Yes,,
+LCH,LCH118,Lecture Room,,,,,,,,,,,,,,,,,,Yes,,
+LCH,LCH201,Language Laboratory,Yes,,1,,1,"1 (Facing Teacher)
+1 (Facing Student)",,,1,,1,3 (On-loan request),,1,,1 (B&W),Yes,,Yes,
+LCH,LCH201A,Lecture Room,Yes,,1,,1,1 (Facing Teacher),,,1,,1,Yes,,,,,,Yes,,R2024b
+LCH,LCH202,Language Laboratory,Yes,,1,,1,"1 (Facing Teacher)
+1 (Facing Student)",,,1,,1,3 (On-loan request),,1,,1 (B&W),Yes,,Yes,
+LCH,LCH204,Computer Teaching Lab,Yes,,1,,1,1 (Facing Teacher),,1,ALL,,1,Yes,,1,,1 (B&W),,Yes,,R2024b
+LCH,LCH206,Teaching Computer Laboratory,Yes,,1,,1,"1 (Facing Teacher)
+1 (Facing Student)",,1,1,,1,Yes,,1,,1 (B&W),Yes,Yes,Yes,R2026a
+LCH,LCH206A,Computer Lab,,,,,,,,,,,,,,,,"1 (B&W)
+1 (Colour)",,Yes,,Yes
+LCH,LCH209,Teaching Computer Laboratory,Yes,,1,,1,"1 (Facing Teacher)
+1 (Facing Student)",,,,,1,3 (On-loan request),,1,,1 (B&W),Yes,Yes,,Yes
+LCH,LCH213,Teaching Computer Laboratory,Yes,,1,,1,"1 (Facing Teacher)
+1 (Facing Student)",,1,,,1,3 (On-loan request),,1,,1 (B&W),,Yes,,R2026a
+LCH,LCH214,Lecture Room,,,,,,,,,,,,,,,,,,Yes,,
+LCH,LCH319AB,Lecture Room,Yes,,1,,1,"1 (Facing Teacher)
+1 (Facing Student)",,,,,1,2 (On-loan request),,1,,,,Yes,,
+LCH,LCH319CD,Lecture Room,Yes,,2,,1,"1 (Facing Teacher)
+1 (Facing Student)",,,,,1,2 (On-loan request),,1,,,,Yes,,
+LCH,LCH411,Music Lab Laboratory,Yes,,1,,,"1 (Facing Teacher)
+1 (Facing Student)",,,,Yes,1,,2,1,,,,Yes,,
+LCH,LCH413,AI Laboratory,Yes,,,4 (2x2 video wall),1,"1 (Facing Teacher)
+1 (Facing Student)",,,,Yes,1,,2 (Rechargeable on lectern),1,,,,Yes,,
+LCH,LCH414/2,Science Laboratory,Single monitor,,,1 (Touch Panel),1,,,,,,,2,,1,,,,Yes,,
+LCH,LCH416,Science Laboratory,Yes,,,1 (Touch Panel),1,"1 (Facing Teacher)
+1 (Facing Student)",,,,,1,1,,1,,,,Yes,,
+LCH,LCHLG01 (Sin Chow Ming Hall),Multi-purpose Hall,Yes,,2,,1,"1 (Facing Teacher)
+1 (Facing Student)",,,,,1,,"1 (Rechargeable on lectern)
+ 2 (On-loan request)",1,,,,Yes,,
+LCH,LCHUG04B,Lecture Room,,,,,,,,,,,,,,,,,,Yes,,
+LCH,LCHUG08,Lecture Room,,,,,,,,,,,,,,,,,,Yes,,
+LCH,LCHUG09,Lecture Room,,,,,,,,,,,,,,,,,,Yes,,
+LCH,LCHUG10,Lecture Room,,,,,,,,,,,,,,,,,,Yes,,
+LCH,LCHUG11,Lecture Room,,,,,,,,,,,,,,,,,,Yes,,
+LCH,LCHUG12,Lecture Room,,,,,,,,,,,,,,,,,,Yes,,
+LCH,LCHUG14,Lecture Room,Yes,,1,,1,"1 (Facing Teacher)
+1 (Facing Student)",,,,,1,3 (On-loan request),,1,,,,Yes,,
+LKK,LKK101,Lecture Room,Yes,,1,,1,"1 (Facing Teacher)
+1 (Facing Student)",,,,,1,3 (On-loan request),,1,,,,Yes,,
+LKK,LKK102,Lecture Room,Yes,,1,,1,"1 (Facing Teacher)
+1 (Facing Student)",,,,,1,3 (On-loan request),,1,,,,Yes,,
+LKK,LKK103,Lecture Room,Yes,,1,,1,"1 (Facing Teacher)
+1 (Facing Student)",,,,,1,3 (On-loan request),,1,,,,Yes,,
+LKK,LKK104,Tutorial Room,Yes,,,"1 (86"" Interactive Panel)",1,"1 (Facing Teacher)
+1 (Facing Student)",,,,,1,3 (On-loan request),,1,,,,Yes,,
+LKK,LKK105,Lecture Room,Yes,,1,,1,"1 (Facing Teacher)
+1 (Facing Student)",,,,,1,3 (On-loan request),,1,,,,Yes,,
+LKK,LKK106,Tutorial Room,Yes,,,"1 (86"" Interactive Panel)",1,"1 (Facing Teacher)
+1 (Facing Student)",,,,,1,3 (On-loan request),,1,,,,Yes,,
+LKK,LKK107,Lecture Room,Yes,,1,,1,"1 (Facing Teacher)
+1 (Facing Student)",,,,,1,3 (On-loan request),,1,,,,Yes,,
+LKK,LKK108,Tutorial Room,Yes,,,"1 (86"" Interactive Panel)",1,"1 (Facing Teacher)
+1 (Facing Student)",,,,,1,3 (On-loan request),,1,,,,Yes,,
+LKK,LKK110,Tutorial Room,Yes,,,"1 (86"" Interactive Panel)",1,"1 (Facing Teacher)
+1 (Facing Student)",,,,,1,3 (On-loan request),,1,,,,Yes,,
+LKK,LKK201,Lecture Room,Yes,,1,,1,"1 (Facing Teacher)
+1 (Facing Student)",,,,,1,3 (On-loan request),,1,,,,Yes,,
+LKK,LKK202,Lecture Room,Yes,,1,,1,"1 (Facing Teacher)
+1 (Facing Student)",,,,,1,3 (On-loan request),,1,,,,Yes,,
+LKK,LKK203,Lecture Room,Yes,,1,,1,"1 (Facing Teacher)
+1 (Facing Student)",,,,,1,3 (On-loan request),,1,,,,Yes,,
+LKK,LKK204,Tutorial Room,Yes,,,"1 (86"" Interactive Panel)",1,"1 (Facing Teacher)
+1 (Facing Student)",,,,,1,3 (On-loan request),,1,,,,Yes,,
+LKK,LKK205,Lecture Room,Yes,,1,,1,"1 (Facing Teacher)
+1 (Facing Student)",,,,,1,3 (On-loan request),,1,,,,Yes,,
+LKK,LKK206,Tutorial Room,Yes,,,"1 (86"" Interactive Panel)",1,"1 (Facing Teacher)
+1 (Facing Student)",,,,,1,3 (On-loan request),,1,,,,Yes,,
+LKK,LKK207,Lecture Room,Yes,,1,,1,"1 (Facing Teacher)
+1 (Facing Student)",,,,,1,3 (On-loan request),,1,,,,Yes,,
+LKK,LKK208,Tutorial Room,Yes,,,"1 (86"" Interactive Panel)",1,"1 (Facing Teacher)
+1 (Facing Student)",,,,,1,3 (On-loan request),,1,,,,Yes,,
+LKK,LKK210,Tutorial Room,Yes,,,"1 (86"" Interactive Panel)",1,"1 (Facing Teacher)
+1 (Facing Student)",,,,,1,3 (On-loan request),,1,Yes,,,Yes,,
+LKK,LKK301,Lecture Room,Yes,,1,,1,"1 (Facing Teacher)
+1 (Facing Student)",,,,,1,3 (On-loan request),,1,,,,Yes,,
+LKK,LKK302,Lecture Room,Yes,,1,,1,"1 (Facing Teacher)
+1 (Facing Student)",,,,,1,3 (On-loan request),,1,,,,Yes,,
+LKK,LKK303,Lecture Room,Yes,,1,,1,"1 (Facing Teacher)
+1 (Facing Student)",,,,,1,3 (On-loan request),,1,,,,Yes,,
+LKK,LKK304,Tutorial Room,Yes,,,"1 (86"" Interactive Panel)",1,"1 (Facing Teacher)
+1 (Facing Student)",,,,,1,3 (On-loan request),,1,,,,Yes,,
+LKK,LKK305,Lecture Room,Yes,,1,,1,"1 (Facing Teacher)
+1 (Facing Student)",,,,,1,3 (On-loan request),,1,,,,Yes,,
+LKK,LKK306,Tutorial Room,Yes,,,"1 (86"" Interactive Panel)",1,"1 (Facing Teacher)
+1 (Facing Student)",,,,,1,3 (On-loan request),,1,,,,Yes,,
+LKK,LKK307,Lecture Room,Yes,,1,,1,"1 (Facing Teacher)
+1 (Facing Student)",,,,,1,3 (On-loan request),,1,,,,Yes,,
+LKK,LKK308,Tutorial Room,Yes,,,"1 (86"" Interactive Panel)",1,"1 (Facing Teacher)
+1 (Facing Student)",,,,,1,3 (On-loan request),,1,,,,Yes,,
+LKK,LKK310,Tutorial Room,Yes,,,"1 (86"" Interactive Panel)",1,"1 (Facing Teacher)
+1 (Facing Student)",,,,,1,3 (On-loan request),,1,,,,Yes,,
+LKK,LKKG01,Tutorial Room,Yes,,1,4,1,,2,,,5,1,3 (On-loan request),,1,Yes,,,Yes,,
+LKK,LKKG02,Tutorial Room,Yes,,1,4,1,,2,,,5,1,3 (On-loan request),,1,Yes,,,Yes,,
+LKK,LKKG03,Tutorial Room,Yes,,1,4,1,,2,,,5,1,3 (On-loan request),,1,Yes,,,Yes,,
+LKK,LKKG04,Tutorial Room,Yes,,1,4,1,,2,,,5,1,3 (On-loan request),,1,Yes,,,Yes,,
+LKK,LKKG05,Tutorial Room,Yes,,1,5,1,,2,,,6,1,3 (On-loan request),,1,Yes,,,Yes,,
+LYH,LYH111,Lecture Room,,Yes,,4 (2x2 video wall),1,,2,1,,,1,3 (On-loan request),1 (Rechargeable on lectern),1,Yes,,,Yes,,Yes
+LYH,LYH112,Lecture Room,,Yes,,4 (2x2 video wall),1,,2,1,,,1,3 (On-loan request),1 (Rechargeable on lectern),1,Yes,,,Yes,,R2024a
+LYH,LYH201/1,Lecture Room,,Yes,1,,1,,2,1,,,1,3 (On-loan request),,1,Yes,,,Yes,,R2024a
+LYH,LYH201/2,Lecture Room,,Yes,1,1,1,,2,,,,1,3 (On-loan request),,1,Yes,,,Yes,,R2024a
+LYH,LYH308,Conferencing Room,,,2,"1 (86"" Interactive Panel)
+4 (65"" DIsplay)",,,,2,,,,,,,,,,Yes,,
+LYH,LYH309,Conferencing Room,,Yes w/o monitor,1,,,1,,,,,,,2 (On-loan request),"2 (Handheld Mic)
+DECT Mic",,,,Yes,,
+LYH,LYH310,Conferencing Room,,Yes w/o monitor,,"3 (85"" Display)",,,,1,,,1,,2 (On-loan request),"2 (Handheld Mic)
+DECT Mic",,,,Yes,,
+LYH,LYH316,Function Room,Yes,,1,,1,"1 (Facing Teacher)
+1 (Facing Student)",,,1,,1,2 (On-loan request),,1,,,,Yes,,R2026a
+LYH,LYH317,Lecture Room,Yes,,,"1 (108"" LED Wall)",1,"1 (Facing Teacher)
+1 (Facing Student)",,,,,1,,1 (Rechargeable on lectern),1,,,,Yes,,
+LYH,LYH319,Lecture Room,Yes,,,"2 (86"" Interactive Panel)",1,"1 (Facing Teacher)
+1 (Facing Student)",,,1,,1,,1 (Rechargeable on lectern),1,,,,Yes,,R2024b
+LYH,LYH320,Lecture Room,Yes,,,"1 (108"" LED Wall)",1,"1 (Facing Teacher)
+1 (Facing Student)",,,1,,1,,1 (Rechargeable on lectern),1,,,,Yes,,R2024b
+MB,MB202,Teaching Computer Laboratory,Yes,,1,,1,"1 (Facing Teacher)
+1 (Facing Student)",,,1,,1,3 (On-loan request),,1,,1 (B&W),Yes,Yes,,R2024b
+MB,MBG01,Lecture Theatre,Yes,,1,,1,"1 (Facing Teacher)
+1 (Facing Student)",,1,,Yes,1,,"1 (Rechargeable on lectern)
+ 2 (On-loan request)",1,,,,Yes,,
+MB,MBG06,Lecture Theatre,Yes,,1,,1,"1 (Facing Teacher)
+1 (Facing Student)",,,,Yes,1,,"1 (Rechargeable on lectern)
+ 2 (On-loan request)",1,,,,Yes,,
+MB,MBG07,Lecture Theatre,Yes,,1,"4 (86"" Interactive Panel)",1,1 (Facing Student),3,1,,5,1,,"1 (Rechargeable on lectern)
+ 2 (On-loan request)",1,Yes,,,Yes,,
+MB,MBG09,Lecture Room,Yes,,1,,1,"1 (Facing Teacher)
+1 (Facing Student)",,,,,1,3 (On-loan request),,1,,,,Yes,,
+MB,MBG10,Lecture Room,Yes,,1,,1,"1 (Facing Teacher)
+1 (Facing Student)",,,,,1,3 (On-loan request),,1,,,,Yes,,
+MB,MBG11,Lecture Room,Yes,,1,,1,"1 (Facing Teacher)
+1 (Facing Student)",,,,,1,3 (On-loan request),,1,,,,Yes,,
+MB,MBG12,Lecture Room,Yes,,1,,1,"1 (Facing Teacher)
+1 (Facing Student)",,,,,1,3 (On-loan request),,1,,,,Yes,,
+MB,MBG19,Lecture Theatre,Yes,,1,,1,"1 (Facing Teacher)
+1 (Facing Student)",,1,,Yes,1,,"1 (Rechargeable on lectern)
+ 2 (On-loan request)",1,,,,Yes,,
+MB,MBG22,Lecture Theatre,Yes,,1,,1,"1 (Facing Teacher)
+1 (Facing Student)",,1,,Yes,1,,"1 (Rechargeable on lectern)
+ 2 (On-loan request)",1,,,,Yes,,
+SEK,SEK104,Lecture Room,Yes,,2,,1,"1 (Facing Teacher)
+1 (Facing Student)",,,,,1,3 (On-loan request),,1,,,,Yes,,
+SEK,SEK105,CDS Teaching Laboratory,"Single monitor
+ (all in one PC)",,,"2 (85"" Display in Corridor)
+ 4 (85"" Display in Discussion room)
+ 4 (42"" Touch Screen in Discussion room)
+ 4 (85"" Display in Classroom)",,"1 (Facing Teacher)
+1 (All in one PC)",,,,,1,Yes,,1,,,Yes,Yes,,R2026a
+SEK,SEK106,Lecture Room,Yes,,1,,1,"1 (Facing Teacher)
+1 (Facing Student)",,,,,1,3 (On-loan request),,1,,,,Yes,,
+SEK,SEK107,Lecture Room,Yes,,1,,1,"1 (Facing Teacher)
+1 (Facing Student)",,,,,1,3 (On-loan request),,1,,,,Yes,,
+SEK,SEK108,Lecture Room,Yes,,1,,1,"1 (Facing Teacher)
+1 (Facing Student)",,,,,1,3 (On-loan request),,1,,,,Yes,,
+SEK,SEK205,Lecture Room,Yes,,2,,1,"1 (Facing Teacher)
+1 (Facing Student)",,,,,1,3 (On-loan request),,1,,,,Yes,,
+SEK,SEK206,Lecture Room,Yes,,,"2 (86"" Interactive Panel)",1,"1 (Facing Teacher)
+1 (Facing Student)",,,,,1,3 (On-loan request),,1,,,,Yes,,
+SEK,SEKG02,Teaching Computer Laboratory,Single monitor,,1,,,"1 (Facing Teacher)
+1 (Facing Student)",,,,,1,3 (On-loan request),,1,,"2 (B&W)
+1 (Colour)",,Yes,,
+SEK,SEKG02/1,Computer Laboratory,,,,,,,,,,,,,,,,,,Yes,,
+SEK,SEKG03,Teaching Computer Laboratory,Yes,,,"1 (163"" LED Wall)",1,"1 (Facing Teacher)
+1 (Facing Student)",,,,,1,3 (On-loan request),,1,,1 (B&W),Yes,Yes,,Yes
+SEK,SEKG09 (Chan Wai Nam Function Hall),Multi-purpose Hall,Yes,,2,,1,"1 (Facing Teacher)
+1 (Facing Student)",,,,,1,2 (On-loan request),2 (On-loan request),1,,,,Yes,,
+WYL,WYL101,Lecture Room,Yes,,1,,1,"1 (Facing Teacher)
+1 (Facing Student)",,,,,1,3 (On-loan request),,1,,,,Yes,,
+WYL,WYL103,Tutorial Room,Yes,,,"1 (75"" Interactive Panel)",1,"1 (Facing Teacher)
+1 (Facing Student)",,,,,1,3 (On-loan request),,1,,,,Yes,,
+WYL,WYL105,Tutorial Room,Yes,,,"1 (75"" Interactive Panel)",1,"1 (Facing Teacher)
+1 (Facing Student)",,,,,1,3 (On-loan request),,1,,,,Yes,,
+WYL,WYL107,Tutorial Room,Yes,,,"1 (75"" Interactive Panel)",1,"1 (Facing Teacher)
+1 (Facing Student)",,,,,1,3 (On-loan request),,1,,,,Yes,,
+WYL,WYL109,Tutorial Room,Yes,,,"1 (75"" Interactive Panel)",1,"1 (Facing Teacher)
+1 (Facing Student)",,,,,1,3 (On-loan request),,1,,,,Yes,,
+WYL,WYL111,Tutorial Room,Yes,,,"1 (86"" Interactive Panel)",1,"1 (Facing Teacher)
+1 (Facing Student)",,,,,1,3 (On-loan request),,1,,,,Yes,,
+WYL,WYL113,Tutorial Room,Yes,,,"1 (86"" Interactive Panel)",1,"1 (Facing Teacher)
+1 (Facing Student)",,,,,1,3 (On-loan request),,1,,,,Yes,,
+WYL,WYL115,Tutorial Room,Yes,,,"1 (75"" Interactive Panel)",1,"1 (Facing Teacher)
+1 (Facing Student)",,,,,1,3 (On-loan request),,1,,,,Yes,,
+WYL,WYL314,Meeting Room,Yes w/o monitor,,,"1 (98"" Display)",,,,2,,,,,2 (On-loan request),,,,,Yes

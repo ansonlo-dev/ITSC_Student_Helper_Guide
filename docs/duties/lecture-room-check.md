@@ -15,6 +15,12 @@
 ![The lecture room weekly rota](/images/lecture-room-rota.jpg)
 *The weekly rota as posted*
 
+::: tip Check what the room is supposed to have
+[Room Equipment](/facilities/rooms) lists every projector, camera, microphone and
+software title the room-checking sheet records for each of these rooms. Look the
+room up before you mark anything "Not ok" — some of them never had the thing.
+:::
+
 ::: info Some rooms on the rota are not what they look like
 **LCH113** is on the Thursday list, but there is no such lecture room — the map
 position is a science laboratory marked "Do not enter". **LCH416** opens only

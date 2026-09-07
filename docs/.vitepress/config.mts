@@ -59,7 +59,10 @@ function sidebar(lang: Language): DefaultTheme.SidebarItem[] {
     {
       text: t('sidebar.group.facilities'),
       collapsed: false,
-      items: [{ text: t('sidebar.printerDirectory'), link: `${p}/facilities/printers` }]
+      items: [
+        { text: t('sidebar.printerDirectory'), link: `${p}/facilities/printers` },
+        { text: t('sidebar.roomEquipment'), link: `${p}/facilities/rooms` }
+      ]
     },
     {
       text: t('sidebar.group.tips'),

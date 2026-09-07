@@ -20,13 +20,19 @@ bun run docs:preview  # preview the production build
 docs/
 ├── .vitepress/
 │   ├── config.mts          # builds all three locales from translation keys
-│   └── locales/
-│       ├── index.ts        # Language type, createT(), missingKeys()
-│       ├── en.ts           # UI strings — flat dot-notation keys
-│       ├── zh-TW.ts
-│       └── zh-CN.ts
+│   ├── data/               # the two directories' data, one file each
+│   │   ├── printers.ts
+│   │   └── rooms.ts        # GENERATED — see scripts/build-rooms-data.py
+│   ├── locales/
+│   │   ├── index.ts        # Language type, createT(), missingKeys()
+│   │   ├── en.ts           # UI strings — flat dot-notation keys
+│   │   ├── zh-TW.ts
+│   │   └── zh-CN.ts
+│   └── theme/
+│       ├── components/     # globally registered, usable from any page
+│       └── custom.css
 ├── index.md                # English content (root locale)
-├── guide/  duties/  tips/  reference/
+├── guide/  duties/  facilities/  tips/  reference/
 ├── zh-TW/                  # 繁體中文 content, same tree
 └── zh-CN/                  # 简体中文 content, same tree
 ```
@@ -57,6 +63,34 @@ custom containers and the per-locale search index.
 
 Internal links must carry the locale prefix — `/zh-TW/duties/printing` from a
 `zh-TW` page. The build fails on dead links, so mistakes surface immediately.
+
+## The two directories
+
+`/facilities/printers` and `/facilities/rooms` are Vue components rather than
+Markdown tables — 15 printers x 18 capabilities and 114 rooms x 20 columns are
+unreadable as a table and hopeless on a phone. Both filter first and expand one
+card at a time, both carry their own data and translations, and both take no
+props:
+
+```md
+<PrinterDirectory />
+<RoomEquipment />
+```
+
+Every label around the data is a translation key (`printers.*`, `rooms.*` in
+`locales/*.ts`); only room codes, addresses and model names stay untranslated,
+because those are what the door signs and the rota say.
+
+`data/rooms.ts` is **generated** — 2,280 cells is too many to transcribe by
+hand. Drop the new sheet into `ref/` and re-run the script, then diff:
+
+```bash
+python3 scripts/build-rooms-data.py     # from the repo root
+```
+
+It fails loudly on a qualifier it has not seen before (`On-loan request`,
+`86" Interactive Panel`, …) rather than inventing a translation key, so a new
+kind of cell shows up as an error instead of as English text on a Chinese page.
 
 ### Keeping 简体中文 in sync
 
@@ -145,6 +179,8 @@ Everything on the site is derived from the originals kept in `ref/`:
 | `computer_lab_checklist.pdf`, `computer_lab_checklist_2.pdf` | Computer Lab Checklist Q1–18 |
 | `lecture_room_check_1.pdf`, `lecture_room_check_2.pdf` | Lecture Room Checklist Q1–26 |
 | `hostel_clinic_checklist.pdf` | Hostel Clinic Checklist, all 25 questions |
+| `LU printers (main campus).xlsx` | Printer Directory — the ITSC rows, plus the cell comments for queues and phone printing |
+| `Summer Helpers 2026 - Room Equipment List.csv` | Room Equipment — 114 rooms x 20 equipment and software columns |
 
 When a form or deck changes, diff it against these pages rather than editing from
 memory.

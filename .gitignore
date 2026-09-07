@@ -6,3 +6,4 @@ cache
 docs/.vitepress/dist
 docs/.vitepress/cache
 *.log
+__pycache__

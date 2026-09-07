@@ -59,6 +59,10 @@ installed — check a whole lab at once. From the teacher PC you can:
 LBY301, LBY303, LCH201, LCH202, LCH206, LCH209, MB202, SEKG03, SEK105.
 :::
 
+The same nine rooms are the ones marked **XClass** in
+[Room Equipment](/facilities/rooms#the-software-columns), which also records
+where SPSS & AMOS, SDL and each version of Matlab are installed.
+
 Administrators can see which machine each student logged in and out from — not
 what was done on it.
 

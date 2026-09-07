@@ -56,6 +56,9 @@
 LBY301、LBY303、LCH201、LCH202、LCH206、LCH209、MB202、SEKG03、SEK105。
 :::
 
+這九間，就是[課室設備](/zh-TW/facilities/rooms#軟件那幾欄)裡標了 **XClass**
+的房間；那一頁同時記錄了 SPSS & AMOS、SDL 與各版本 Matlab 裝在哪幾間。
+
 管理員可以看到每位學生在哪一部機器登入及登出 —— 但看不到在機器上做過什麼。
 
 ::: tip 核對編號
