@@ -46,12 +46,6 @@ or new phone) and **LUVPN configuration in mainland China and overseas** — see
 
 The hotline runs on **Cisco Finesse**.
 
-| Field | Value |
-| --- | --- |
-| Username | `8453` (left seat) / `8454` (right seat) |
-| Password | `112233` |
-| Extension | `8453` / `8454` — same as the username |
-
 ![The Cisco Finesse login screen](/images/finesse-login.jpg)
 *Cisco Finesse — username and extension are the same number*
 
@@ -84,11 +78,6 @@ the counter or logged for follow-up. Say which it is when you pass it on.
 :::
 
 ## Voice mail
-
-| Field | Value |
-| --- | --- |
-| Username | `7992` |
-| Password | `1234` |
 
 ![The voicemail sign in screen](/images/voicemail-login.jpg)
 *The hotline voice mail login*
