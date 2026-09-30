@@ -43,12 +43,6 @@
 
 熱線系統為 **Cisco Finesse**。
 
-| 欄位 | 內容 |
-| --- | --- |
-| Username | `8453`（左座）／`8454`（右座） |
-| Password | `112233` |
-| Extension | `8453`／`8454` —— 與 Username 相同 |
-
 ![Cisco Finesse 登入畫面](/images/finesse-login.jpg)
 *Cisco Finesse —— 用戶名稱與分機號碼相同*
 
@@ -76,11 +70,6 @@
 :::
 
 ## 留言信箱（Voice Mail）
-
-| 欄位 | 內容 |
-| --- | --- |
-| Username | `7992` |
-| Password | `1234` |
 
 ![留言信箱登入畫面](/images/voicemail-login.jpg)
 *熱線留言信箱登入*
